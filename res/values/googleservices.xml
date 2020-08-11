@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://caza-mosquitos.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">940359912827</string>
+  <string name="google_storage_bucket" translatable="false">caza-mosquitos.appspot.com</string>
+  <string name="project_id" translatable="false">caza-mosquitos</string>
+  <string name="google_app_id" translatable="false">1:940359912827:android:8f94f5132203951c</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMPErJHJ9jCDEIXyk7faNjEdrhwS2Zq30</string>
+  <string name="google_api_key" translatable="false">AIzaSyAMPErJHJ9jCDEIXyk7faNjEdrhwS2Zq30</string>
+  <string name="default_web_client_id" translatable="false">940359912827-kqhqlb3qkomp78a8s3a02vlb465ofsbp.apps.googleusercontent.com</string>
+</resources>
