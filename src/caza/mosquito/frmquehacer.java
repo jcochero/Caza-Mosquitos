@@ -336,7 +336,7 @@ public class frmquehacer extends Activity implements B4AActivity{
     }
 
 public anywheresoftware.b4a.keywords.Common __c = null;
-public static dhqi.social.share.socialshare _social = null;
+public static dhqi.social.share.socialshare _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblcirculopos1 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblcirculopos2 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblcirculopos3 = null;
@@ -357,39 +357,39 @@ public anywheresoftware.b4a.objects.LabelWrapper _lblque5 = null;
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgquehacer1 = null;
 public anywheresoftware.b4a.objects.EditTextWrapper _txtshare = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _butshare = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 
 public static void initializeProcessGlobals() {
              try {
@@ -411,7 +411,7 @@ mostCurrent._imgquehacer1.setLeft((int) (mostCurrent._activity.getWidth()/(doubl
  //BA.debugLineNum = 45;BA.debugLine="butExpand1.Left = Activity.Width /2 - butExpand1.";
 mostCurrent._butexpand1.setLeft((int) (mostCurrent._activity.getWidth()/(double)2-mostCurrent._butexpand1.getWidth()/(double)2));
  //BA.debugLineNum = 46;BA.debugLine="utilidades.ResetUserFontScale(Activity)";
-mostCurrent._utilidades._resetuserfontscale /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv0 /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
  //BA.debugLineNum = 47;BA.debugLine="End Sub";
 return "";
 }
@@ -586,9 +586,9 @@ case 3:
 //C
 this.state = 4;
  //BA.debugLineNum = 177;BA.debugLine="Social.Initialize";
-parent._social._initialize(processBA);
+parent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0._initialize(processBA);
  //BA.debugLineNum = 178;BA.debugLine="Social.ShareMessage(\"¡Te cuento que hice hoy par";
-parent._social._vv5("¡Te cuento que hice hoy para ayudar! "+parent.mostCurrent._txtshare.getText()+"Unite a Caza Mosquitos - @caza_mosquitos",parent._social._getvvv3());
+parent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0._vv5("¡Te cuento que hice hoy para ayudar! "+parent.mostCurrent._txtshare.getText()+"Unite a Caza Mosquitos - @caza_mosquitos",parent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0._getvvv3());
  if (true) break;
 
 case 4:
@@ -652,7 +652,7 @@ return "";
 public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 6;BA.debugLine="Sub Process_Globals";
  //BA.debugLineNum = 9;BA.debugLine="Private Social As SocialShare";
-_social = new dhqi.social.share.socialshare();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = new dhqi.social.share.socialshare();
  //BA.debugLineNum = 10;BA.debugLine="End Sub";
 return "";
 }

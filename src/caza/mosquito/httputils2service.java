@@ -125,58 +125,58 @@ public class httputils2service extends  android.app.Service{
 	public android.os.IBinder onBind(android.content.Intent intent) {
 		return null;
 	}public anywheresoftware.b4a.keywords.Common __c = null;
-public static anywheresoftware.b4h.okhttp.OkHttpClientWrapper _hc = null;
-public static anywheresoftware.b4a.objects.collections.Map _taskidtojob = null;
-public static String _tempfolder = "";
-public static int _taskcounter = 0;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public static anywheresoftware.b4h.okhttp.OkHttpClientWrapper _vvvvvv1 = null;
+public static anywheresoftware.b4a.objects.collections.Map _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = null;
+public static String _vvvvvvvv6 = "";
+public static int _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = 0;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
-public static String  _completejob(int _taskid,boolean _success,String _errormessage) throws Exception{
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1(int _taskid,boolean _success,String _errormessage) throws Exception{
 caza.mosquito.httpjob _job = null;
  //BA.debugLineNum = 72;BA.debugLine="Sub CompleteJob(TaskId As Int, success As Boolean,";
  //BA.debugLineNum = 73;BA.debugLine="Dim job As HttpJob";
 _job = new caza.mosquito.httpjob();
  //BA.debugLineNum = 74;BA.debugLine="job = TaskIdToJob.Get(TaskId)";
-_job = (caza.mosquito.httpjob)(_taskidtojob.Get((Object)(_taskid)));
+_job = (caza.mosquito.httpjob)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Get((Object)(_taskid)));
  //BA.debugLineNum = 75;BA.debugLine="TaskIdToJob.Remove(TaskId)";
-_taskidtojob.Remove((Object)(_taskid));
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Remove((Object)(_taskid));
  //BA.debugLineNum = 76;BA.debugLine="job.success = success";
-_job._success /*boolean*/  = _success;
+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*boolean*/  = _success;
  //BA.debugLineNum = 77;BA.debugLine="job.errorMessage = errorMessage";
-_job._errormessage /*String*/  = _errormessage;
+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/  = _errormessage;
  //BA.debugLineNum = 78;BA.debugLine="job.Complete(TaskId)";
-_job._complete /*String*/ (_taskid);
+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvv0 /*String*/ (_taskid);
  //BA.debugLineNum = 79;BA.debugLine="End Sub";
 return "";
 }
@@ -185,12 +185,12 @@ public static String  _hc_responseerror(anywheresoftware.b4h.okhttp.OkHttpClient
  //BA.debugLineNum = 65;BA.debugLine="If Response <> Null Then";
 if (_response!= null) { 
  //BA.debugLineNum = 66;BA.debugLine="Log(Response.ErrorResponse)";
-anywheresoftware.b4a.keywords.Common.LogImpl("439124994",_response.getErrorResponse(),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("538207490",_response.getErrorResponse(),0);
  //BA.debugLineNum = 67;BA.debugLine="Response.Release";
 _response.Release();
  };
  //BA.debugLineNum = 69;BA.debugLine="CompleteJob(TaskId, False, Reason)";
-_completejob(_taskid,anywheresoftware.b4a.keywords.Common.False,_reason);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1(_taskid,anywheresoftware.b4a.keywords.Common.False,_reason);
  //BA.debugLineNum = 70;BA.debugLine="End Sub";
 return "";
 }
@@ -202,11 +202,11 @@ caza.mosquito.downloadservice._jobtag _jt = null;
  //BA.debugLineNum = 41;BA.debugLine="Dim cs As CountingOutputStream";
 _cs = new anywheresoftware.b4a.randomaccessfile.CountingStreams.CountingOutput();
  //BA.debugLineNum = 42;BA.debugLine="cs.Initialize(File.OpenOutput(TempFolder, TaskId,";
-_cs.Initialize((java.io.OutputStream)(anywheresoftware.b4a.keywords.Common.File.OpenOutput(_tempfolder,BA.NumberToString(_taskid),anywheresoftware.b4a.keywords.Common.False).getObject()));
+_cs.Initialize((java.io.OutputStream)(anywheresoftware.b4a.keywords.Common.File.OpenOutput(_vvvvvvvv6,BA.NumberToString(_taskid),anywheresoftware.b4a.keywords.Common.False).getObject()));
  //BA.debugLineNum = 43;BA.debugLine="Dim j As HttpJob = TaskIdToJob.Get(TaskId)";
-_j = (caza.mosquito.httpjob)(_taskidtojob.Get((Object)(_taskid)));
+_j = (caza.mosquito.httpjob)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Get((Object)(_taskid)));
  //BA.debugLineNum = 44;BA.debugLine="Dim jt As JobTag = j.Tag";
-_jt = (caza.mosquito.downloadservice._jobtag)(_j._tag /*Object*/ );
+_jt = (caza.mosquito.downloadservice._jobtag)(_j._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*Object*/ );
  //BA.debugLineNum = 45;BA.debugLine="jt.CountingStream = cs";
 _jt.CountingStream /*anywheresoftware.b4a.randomaccessfile.CountingStreams.CountingOutput*/  = _cs;
  //BA.debugLineNum = 46;BA.debugLine="jt.Total = Response.ContentLength";
@@ -214,7 +214,7 @@ _jt.Total /*long*/  = _response.getContentLength();
  //BA.debugLineNum = 47;BA.debugLine="If jt.Data.url = \"\" Then";
 if ((_jt.Data /*caza.mosquito.downloadservice._downloaddata*/ .url /*String*/ ).equals("")) { 
  //BA.debugLineNum = 48;BA.debugLine="Log(\"Job cancelled before downloaded started\")";
-anywheresoftware.b4a.keywords.Common.LogImpl("438993929","Job cancelled before downloaded started",0);
+anywheresoftware.b4a.keywords.Common.LogImpl("538076425","Job cancelled before downloaded started",0);
  //BA.debugLineNum = 49;BA.debugLine="cs.Close";
 _cs.Close();
  };
@@ -226,13 +226,13 @@ return "";
 public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 7;BA.debugLine="Sub Process_Globals";
  //BA.debugLineNum = 8;BA.debugLine="Private hc As OkHttpClient";
-_hc = new anywheresoftware.b4h.okhttp.OkHttpClientWrapper();
+_vvvvvv1 = new anywheresoftware.b4h.okhttp.OkHttpClientWrapper();
  //BA.debugLineNum = 9;BA.debugLine="Private TaskIdToJob As Map";
-_taskidtojob = new anywheresoftware.b4a.objects.collections.Map();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = new anywheresoftware.b4a.objects.collections.Map();
  //BA.debugLineNum = 10;BA.debugLine="Public TempFolder As String";
-_tempfolder = "";
+_vvvvvvvv6 = "";
  //BA.debugLineNum = 11;BA.debugLine="Private taskCounter As Int";
-_taskcounter = 0;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = 0;
  //BA.debugLineNum = 12;BA.debugLine="End Sub";
 return "";
 }
@@ -241,10 +241,10 @@ public static String  _response_streamfinish(boolean _success,int _taskid) throw
  //BA.debugLineNum = 57;BA.debugLine="If Success Then";
 if (_success) { 
  //BA.debugLineNum = 58;BA.debugLine="CompleteJob(TaskId, Success, \"\")";
-_completejob(_taskid,_success,"");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1(_taskid,_success,"");
  }else {
  //BA.debugLineNum = 60;BA.debugLine="CompleteJob(TaskId, Success, LastException.Messa";
-_completejob(_taskid,_success,anywheresoftware.b4a.keywords.Common.LastException(processBA).getMessage());
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1(_taskid,_success,anywheresoftware.b4a.keywords.Common.LastException(processBA).getMessage());
  };
  //BA.debugLineNum = 62;BA.debugLine="End Sub";
 return "";
@@ -252,11 +252,11 @@ return "";
 public static String  _service_create() throws Exception{
  //BA.debugLineNum = 14;BA.debugLine="Sub Service_Create";
  //BA.debugLineNum = 15;BA.debugLine="TempFolder = File.DirInternalCache";
-_tempfolder = anywheresoftware.b4a.keywords.Common.File.getDirInternalCache();
+_vvvvvvvv6 = anywheresoftware.b4a.keywords.Common.File.getDirInternalCache();
  //BA.debugLineNum = 16;BA.debugLine="hc.Initialize(\"hc\")";
-_hc.Initialize("hc");
+_vvvvvv1.Initialize("hc");
  //BA.debugLineNum = 17;BA.debugLine="TaskIdToJob.Initialize";
-_taskidtojob.Initialize();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Initialize();
  //BA.debugLineNum = 18;BA.debugLine="End Sub";
 return "";
 }
@@ -273,19 +273,19 @@ return "";
 public static int  _submitjob(caza.mosquito.httpjob _job) throws Exception{
  //BA.debugLineNum = 28;BA.debugLine="Public Sub SubmitJob(job As HttpJob) As Int";
  //BA.debugLineNum = 29;BA.debugLine="taskCounter = taskCounter + 1";
-_taskcounter = (int) (_taskcounter+1);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = (int) (_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3+1);
  //BA.debugLineNum = 30;BA.debugLine="TaskIdToJob.Put(taskCounter, job)";
-_taskidtojob.Put((Object)(_taskcounter),(Object)(_job));
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Put((Object)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3),(Object)(_job));
  //BA.debugLineNum = 31;BA.debugLine="If job.Username <> \"\" And job.Password <> \"\" Then";
-if ((_job._username /*String*/ ).equals("") == false && (_job._password /*String*/ ).equals("") == false) { 
+if ((_job._vvvvvvvvvvvv7 /*String*/ ).equals("") == false && (_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 /*String*/ ).equals("") == false) { 
  //BA.debugLineNum = 32;BA.debugLine="hc.ExecuteCredentials(job.GetRequest, taskCounte";
-_hc.ExecuteCredentials(processBA,_job._getrequest /*anywheresoftware.b4h.okhttp.OkHttpClientWrapper.OkHttpRequest*/ (),_taskcounter,_job._username /*String*/ ,_job._password /*String*/ );
+_vvvvvv1.ExecuteCredentials(processBA,_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 /*anywheresoftware.b4h.okhttp.OkHttpClientWrapper.OkHttpRequest*/ (),_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3,_job._vvvvvvvvvvvv7 /*String*/ ,_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 /*String*/ );
  }else {
  //BA.debugLineNum = 34;BA.debugLine="hc.Execute(job.GetRequest, taskCounter)";
-_hc.Execute(processBA,_job._getrequest /*anywheresoftware.b4h.okhttp.OkHttpClientWrapper.OkHttpRequest*/ (),_taskcounter);
+_vvvvvv1.Execute(processBA,_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 /*anywheresoftware.b4h.okhttp.OkHttpClientWrapper.OkHttpRequest*/ (),_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3);
  };
  //BA.debugLineNum = 36;BA.debugLine="Return taskCounter";
-if (true) return _taskcounter;
+if (true) return _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3;
  //BA.debugLineNum = 37;BA.debugLine="End Sub";
 return 0;
 }

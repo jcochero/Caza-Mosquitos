@@ -24,47 +24,47 @@ public class cameraexclass extends B4AClass.ImplB4AClass implements BA.SubDelega
     }
 
  public anywheresoftware.b4a.keywords.Common __c = null;
-public Object _nativecam = null;
-public anywheresoftware.b4a.objects.CameraW _cam = null;
-public anywheresoftware.b4a.agraham.reflection.Reflection _r = null;
-public Object _target = null;
-public String _event = "";
-public boolean _front = false;
-public Object _parameters = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public Object _vvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = null;
+public anywheresoftware.b4a.objects.CameraW _vvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = null;
+public anywheresoftware.b4a.agraham.reflection.Reflection _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = null;
+public Object _vvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = null;
+public String _vvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = "";
+public boolean _vvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = false;
+public Object _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 public static class _camerainfoandid{
 public boolean IsInitialized;
 public Object CameraInfo;
@@ -96,10 +96,10 @@ public String  _camera_focusdone(boolean _success) throws Exception{
  //BA.debugLineNum = 325;BA.debugLine="If Success Then";
 if (_success) { 
  //BA.debugLineNum = 326;BA.debugLine="TakePicture";
-_takepicture();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvv4();
  }else {
  //BA.debugLineNum = 328;BA.debugLine="Log(\"AutoFocus error.\")";
-__c.LogImpl("411534340","AutoFocus error.",0);
+__c.LogImpl("58781828","AutoFocus error.",0);
  };
  //BA.debugLineNum = 330;BA.debugLine="End Sub";
 return "";
@@ -107,7 +107,7 @@ return "";
 public String  _camera_picturetaken(byte[] _data) throws Exception{
  //BA.debugLineNum = 112;BA.debugLine="Private Sub Camera_PictureTaken (Data() As Byte)";
  //BA.debugLineNum = 113;BA.debugLine="CallSub2(target, event & \"_PictureTaken\", Data)";
-__c.CallSubNew2(ba,_target,_event+"_PictureTaken",(Object)(_data));
+__c.CallSubNew2(ba,_vvvvvvvvvvvvvvvvvvvvvvvvvvvv4,_vvvvvvvvvvvvvvvvvvvvvvvvvvvv5+"_PictureTaken",(Object)(_data));
  //BA.debugLineNum = 114;BA.debugLine="End Sub";
 return "";
 }
@@ -116,64 +116,64 @@ public String  _camera_ready(boolean _success) throws Exception{
  //BA.debugLineNum = 89;BA.debugLine="If Success Then";
 if (_success) { 
  //BA.debugLineNum = 90;BA.debugLine="r.target = cam";
-_r.Target = (Object)(_cam);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = (Object)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2);
  //BA.debugLineNum = 91;BA.debugLine="nativeCam = r.GetField(\"camera\")";
-_nativecam = _r.GetField("camera");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("camera");
  //BA.debugLineNum = 92;BA.debugLine="r.target = nativeCam";
-_r.Target = _nativecam;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv1;
  //BA.debugLineNum = 93;BA.debugLine="parameters = r.RunMethod(\"getParameters\")";
-_parameters = _r.RunMethod("getParameters");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getParameters");
  //BA.debugLineNum = 94;BA.debugLine="SetDisplayOrientation";
-_setdisplayorientation();
+_vvvvvvvvvvvvvvvvvvvvvvvvv5();
  }else {
  //BA.debugLineNum = 96;BA.debugLine="Log(\"success = false, \" & LastException)";
-__c.LogImpl("49306120","success = false, "+BA.ObjectToString(__c.LastException(ba)),0);
+__c.LogImpl("56553608","success = false, "+BA.ObjectToString(__c.LastException(ba)),0);
  };
  //BA.debugLineNum = 98;BA.debugLine="CallSub2(target, event & \"_ready\", Success)";
-__c.CallSubNew2(ba,_target,_event+"_ready",(Object)(_success));
+__c.CallSubNew2(ba,_vvvvvvvvvvvvvvvvvvvvvvvvvvvv4,_vvvvvvvvvvvvvvvvvvvvvvvvvvvv5+"_ready",(Object)(_success));
  //BA.debugLineNum = 99;BA.debugLine="End Sub";
 return "";
 }
 public String  _class_globals() throws Exception{
  //BA.debugLineNum = 6;BA.debugLine="Sub Class_Globals";
  //BA.debugLineNum = 7;BA.debugLine="Private nativeCam As Object";
-_nativecam = new Object();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = new Object();
  //BA.debugLineNum = 8;BA.debugLine="Private cam As Camera";
-_cam = new anywheresoftware.b4a.objects.CameraW();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = new anywheresoftware.b4a.objects.CameraW();
  //BA.debugLineNum = 9;BA.debugLine="Private r As Reflector";
-_r = new anywheresoftware.b4a.agraham.reflection.Reflection();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = new anywheresoftware.b4a.agraham.reflection.Reflection();
  //BA.debugLineNum = 10;BA.debugLine="Private target As Object";
-_target = new Object();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = new Object();
  //BA.debugLineNum = 11;BA.debugLine="Private event As String";
-_event = "";
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = "";
  //BA.debugLineNum = 12;BA.debugLine="Public Front As Boolean";
-_front = false;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = false;
  //BA.debugLineNum = 13;BA.debugLine="Type CameraInfoAndId (CameraInfo As Object, Id As";
 ;
  //BA.debugLineNum = 14;BA.debugLine="Type CameraSize (Width As Int, Height As Int)";
 ;
  //BA.debugLineNum = 15;BA.debugLine="Private parameters As Object";
-_parameters = new Object();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = new Object();
  //BA.debugLineNum = 19;BA.debugLine="End Sub";
 return "";
 }
-public String  _closenow() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvv0() throws Exception{
  //BA.debugLineNum = 313;BA.debugLine="Public Sub CloseNow";
  //BA.debugLineNum = 314;BA.debugLine="cam.Release";
-_cam.Release();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Release();
  //BA.debugLineNum = 315;BA.debugLine="r.target = cam";
-_r.Target = (Object)(_cam);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = (Object)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2);
  //BA.debugLineNum = 316;BA.debugLine="r.RunMethod2(\"releaseCameras\", True, \"java.lang.b";
-_r.RunMethod2("releaseCameras",BA.ObjectToString(__c.True),"java.lang.boolean");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("releaseCameras",BA.ObjectToString(__c.True),"java.lang.boolean");
  //BA.debugLineNum = 317;BA.debugLine="End Sub";
 return "";
 }
-public String  _commitparameters() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvv1() throws Exception{
  //BA.debugLineNum = 145;BA.debugLine="Public Sub CommitParameters";
  //BA.debugLineNum = 147;BA.debugLine="r.target = nativeCam";
-_r.Target = _nativecam;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv1;
  //BA.debugLineNum = 148;BA.debugLine="r.RunMethod4(\"setParameters\", Array As Object(pa";
-_r.RunMethod4("setParameters",new Object[]{_parameters},new String[]{"android.hardware.Camera$Parameters"});
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod4("setParameters",new Object[]{_vvvvvvvvvvvvvvvvvvvvvvvvvvvv7},new String[]{"android.hardware.Camera$Parameters"});
  //BA.debugLineNum = 153;BA.debugLine="End Sub";
 return "";
 }
@@ -206,7 +206,7 @@ if (true) return __c.Null;
  //BA.debugLineNum = 386;BA.debugLine="End Sub";
 return null;
 }
-public caza.mosquito.cameraexclass._camerainfoandid  _findcamera(boolean _frontcamera) throws Exception{
+public caza.mosquito.cameraexclass._camerainfoandid  _vvvvvvvvvvvvvvvvvvvvvv2(boolean _frontcamera) throws Exception{
 caza.mosquito.cameraexclass._camerainfoandid _ci = null;
 Object _camerainfo = null;
 int _cameravalue = 0;
@@ -220,20 +220,20 @@ _camerainfo = new Object();
  //BA.debugLineNum = 41;BA.debugLine="Dim cameraValue As Int";
 _cameravalue = 0;
  //BA.debugLineNum = 42;BA.debugLine="Log(\"findCamera\")";
-__c.LogImpl("49175044","findCamera",0);
+__c.LogImpl("56422532","findCamera",0);
  //BA.debugLineNum = 43;BA.debugLine="If frontCamera Then cameraValue = 1 Else cameraVa";
 if (_frontcamera) { 
 _cameravalue = (int) (1);}
 else {
 _cameravalue = (int) (0);};
  //BA.debugLineNum = 44;BA.debugLine="cameraInfo = r.CreateObject(\"android.hardware.Cam";
-_camerainfo = _r.CreateObject("android.hardware.Camera$CameraInfo");
+_camerainfo = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.CreateObject("android.hardware.Camera$CameraInfo");
  //BA.debugLineNum = 45;BA.debugLine="Dim numberOfCameras As Int = r.RunStaticMethod(\"a";
-_numberofcameras = (int)(BA.ObjectToNumber(_r.RunStaticMethod("android.hardware.Camera","getNumberOfCameras",(Object[])(__c.Null),(String[])(__c.Null))));
+_numberofcameras = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunStaticMethod("android.hardware.Camera","getNumberOfCameras",(Object[])(__c.Null),(String[])(__c.Null))));
  //BA.debugLineNum = 46;BA.debugLine="Log(r.target)";
-__c.LogImpl("49175048",BA.ObjectToString(_r.Target),0);
+__c.LogImpl("56422536",BA.ObjectToString(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target),0);
  //BA.debugLineNum = 47;BA.debugLine="Log(numberOfCameras)";
-__c.LogImpl("49175049",BA.NumberToString(_numberofcameras),0);
+__c.LogImpl("56422537",BA.NumberToString(_numberofcameras),0);
  //BA.debugLineNum = 48;BA.debugLine="For i = 0 To numberOfCameras - 1";
 {
 final int step10 = 1;
@@ -241,15 +241,15 @@ final int limit10 = (int) (_numberofcameras-1);
 _i = (int) (0) ;
 for (;_i <= limit10 ;_i = _i + step10 ) {
  //BA.debugLineNum = 49;BA.debugLine="r.RunStaticMethod(\"android.hardware.Camera\", \"ge";
-_r.RunStaticMethod("android.hardware.Camera","getCameraInfo",new Object[]{(Object)(_i),_camerainfo},new String[]{"java.lang.int","android.hardware.Camera$CameraInfo"});
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunStaticMethod("android.hardware.Camera","getCameraInfo",new Object[]{(Object)(_i),_camerainfo},new String[]{"java.lang.int","android.hardware.Camera$CameraInfo"});
  //BA.debugLineNum = 51;BA.debugLine="r.target = cameraInfo";
-_r.Target = _camerainfo;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _camerainfo;
  //BA.debugLineNum = 52;BA.debugLine="Log(\"facing: \" & r.GetField(\"facing\") & \", \" & c";
-__c.LogImpl("49175054","facing: "+BA.ObjectToString(_r.GetField("facing"))+", "+BA.NumberToString(_cameravalue),0);
+__c.LogImpl("56422542","facing: "+BA.ObjectToString(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("facing"))+", "+BA.NumberToString(_cameravalue),0);
  //BA.debugLineNum = 53;BA.debugLine="If r.GetField(\"facing\") = cameraValue Then";
-if ((_r.GetField("facing")).equals((Object)(_cameravalue))) { 
+if ((_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("facing")).equals((Object)(_cameravalue))) { 
  //BA.debugLineNum = 54;BA.debugLine="ci.cameraInfo = r.target";
-_ci.CameraInfo /*Object*/  = _r.Target;
+_ci.CameraInfo /*Object*/  = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target;
  //BA.debugLineNum = 55;BA.debugLine="ci.Id = i";
 _ci.Id /*int*/  = _i;
  //BA.debugLineNum = 56;BA.debugLine="Return ci";
@@ -264,180 +264,180 @@ if (true) return _ci;
  //BA.debugLineNum = 61;BA.debugLine="End Sub";
 return null;
 }
-public String  _focusandtakepicture() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvv3() throws Exception{
  //BA.debugLineNum = 319;BA.debugLine="Public Sub FocusAndTakePicture";
  //BA.debugLineNum = 320;BA.debugLine="cam.AutoFocus";
-_cam.AutoFocus();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2.AutoFocus();
  //BA.debugLineNum = 321;BA.debugLine="End Sub";
 return "";
 }
-public String  _getcoloreffect() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvv4() throws Exception{
  //BA.debugLineNum = 155;BA.debugLine="Public Sub GetColorEffect As String";
  //BA.debugLineNum = 156;BA.debugLine="Return GetParameter(\"effect\")";
-if (true) return _getparameter("effect");
+if (true) return _vvvvvvvvvvvvvvvvvvvvvvv3("effect");
  //BA.debugLineNum = 157;BA.debugLine="End Sub";
 return "";
 }
-public int  _getexposurecompensation() throws Exception{
+public int  _getvvvvvvvvvvvvvvvvvvvvvvvvvvv5() throws Exception{
  //BA.debugLineNum = 352;BA.debugLine="Public Sub getExposureCompensation As Int";
  //BA.debugLineNum = 353;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 354;BA.debugLine="Return r.RunMethod(\"getExposureCompensation\")";
-if (true) return (int)(BA.ObjectToNumber(_r.RunMethod("getExposureCompensation")));
+if (true) return (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getExposureCompensation")));
  //BA.debugLineNum = 355;BA.debugLine="End Sub";
 return 0;
 }
-public String  _getflashmode() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvv6() throws Exception{
  //BA.debugLineNum = 206;BA.debugLine="Public Sub GetFlashMode As String";
  //BA.debugLineNum = 207;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 208;BA.debugLine="Return r.RunMethod(\"getFlashMode\")";
-if (true) return BA.ObjectToString(_r.RunMethod("getFlashMode"));
+if (true) return BA.ObjectToString(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getFlashMode"));
  //BA.debugLineNum = 209;BA.debugLine="End Sub";
 return "";
 }
-public float[]  _getfocusdistances() throws Exception{
+public float[]  _vvvvvvvvvvvvvvvvvvvvvv7() throws Exception{
 float[] _f = null;
  //BA.debugLineNum = 300;BA.debugLine="Public Sub GetFocusDistances As Float()";
  //BA.debugLineNum = 301;BA.debugLine="Dim F(3) As Float";
 _f = new float[(int) (3)];
 ;
  //BA.debugLineNum = 302;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 303;BA.debugLine="r.RunMethod4(\"getFocusDistances\", Array As Object";
-_r.RunMethod4("getFocusDistances",new Object[]{(Object)(_f)},new String[]{"[F"});
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod4("getFocusDistances",new Object[]{(Object)(_f)},new String[]{"[F"});
  //BA.debugLineNum = 304;BA.debugLine="Return F";
 if (true) return _f;
  //BA.debugLineNum = 305;BA.debugLine="End Sub";
 return null;
 }
-public int  _getmaxexposurecompensation() throws Exception{
+public int  _getvvvvvvvvvvvvvvvvvvvvvvvvvvv6() throws Exception{
  //BA.debugLineNum = 367;BA.debugLine="Public Sub getMaxExposureCompensation As Int";
  //BA.debugLineNum = 368;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 369;BA.debugLine="Return r.RunMethod(\"getMaxExposureCompensation\")";
-if (true) return (int)(BA.ObjectToNumber(_r.RunMethod("getMaxExposureCompensation")));
+if (true) return (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getMaxExposureCompensation")));
  //BA.debugLineNum = 370;BA.debugLine="End Sub";
 return 0;
 }
-public int  _getmaxzoom() throws Exception{
+public int  _vvvvvvvvvvvvvvvvvvvvvvv1() throws Exception{
  //BA.debugLineNum = 337;BA.debugLine="Public Sub GetMaxZoom As Int";
  //BA.debugLineNum = 338;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 339;BA.debugLine="Return r.RunMethod(\"getMaxZoom\")";
-if (true) return (int)(BA.ObjectToNumber(_r.RunMethod("getMaxZoom")));
+if (true) return (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getMaxZoom")));
  //BA.debugLineNum = 340;BA.debugLine="End Sub";
 return 0;
 }
-public int  _getminexposurecompensation() throws Exception{
+public int  _getvvvvvvvvvvvvvvvvvvvvvvvvvvv7() throws Exception{
  //BA.debugLineNum = 362;BA.debugLine="Public Sub getMinExposureCompensation As Int";
  //BA.debugLineNum = 363;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 364;BA.debugLine="Return r.RunMethod(\"getMinExposureCompensation\")";
-if (true) return (int)(BA.ObjectToNumber(_r.RunMethod("getMinExposureCompensation")));
+if (true) return (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getMinExposureCompensation")));
  //BA.debugLineNum = 365;BA.debugLine="End Sub";
 return 0;
 }
-public String  _getparameter(String _key) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvv3(String _key) throws Exception{
  //BA.debugLineNum = 140;BA.debugLine="Public Sub GetParameter(Key As String) As String";
  //BA.debugLineNum = 141;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 142;BA.debugLine="Return r.RunMethod2(\"get\", Key, \"java.lang.String";
-if (true) return BA.ObjectToString(_r.RunMethod2("get",_key,"java.lang.String"));
+if (true) return BA.ObjectToString(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("get",_key,"java.lang.String"));
  //BA.debugLineNum = 143;BA.debugLine="End Sub";
 return "";
 }
-public caza.mosquito.cameraexclass._camerasize  _getpicturesize() throws Exception{
+public caza.mosquito.cameraexclass._camerasize  _vvvvvvvvvvvvvvvvvvvvvvv4() throws Exception{
 caza.mosquito.cameraexclass._camerasize _cs = null;
  //BA.debugLineNum = 248;BA.debugLine="Public Sub GetPictureSize As CameraSize";
  //BA.debugLineNum = 249;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 250;BA.debugLine="r.target = r.RunMethod(\"getPictureSize\")";
-_r.Target = _r.RunMethod("getPictureSize");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getPictureSize");
  //BA.debugLineNum = 251;BA.debugLine="Dim cs As CameraSize";
 _cs = new caza.mosquito.cameraexclass._camerasize();
  //BA.debugLineNum = 252;BA.debugLine="cs.Width = r.GetField(\"width\")";
-_cs.Width /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("width")));
+_cs.Width /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("width")));
  //BA.debugLineNum = 253;BA.debugLine="cs.Height = r.GetField(\"height\")";
-_cs.Height /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("height")));
+_cs.Height /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("height")));
  //BA.debugLineNum = 254;BA.debugLine="Return cs";
 if (true) return _cs;
  //BA.debugLineNum = 255;BA.debugLine="End Sub";
 return null;
 }
-public String  _getpreviewfpsrange(int[] _range) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvv5(int[] _range) throws Exception{
  //BA.debugLineNum = 228;BA.debugLine="Public Sub GetPreviewFpsRange(Range() As Int)";
  //BA.debugLineNum = 229;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 230;BA.debugLine="r.RunMethod4(\"getPreviewFpsRange\", Array As Objec";
-_r.RunMethod4("getPreviewFpsRange",new Object[]{(Object)(_range)},new String[]{"[I"});
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod4("getPreviewFpsRange",new Object[]{(Object)(_range)},new String[]{"[I"});
  //BA.debugLineNum = 231;BA.debugLine="End Sub";
 return "";
 }
-public caza.mosquito.cameraexclass._camerasize  _getpreviewsize() throws Exception{
+public caza.mosquito.cameraexclass._camerasize  _vvvvvvvvvvvvvvvvvvvvvvv6() throws Exception{
 caza.mosquito.cameraexclass._camerasize _cs = null;
  //BA.debugLineNum = 239;BA.debugLine="Public Sub GetPreviewSize As CameraSize";
  //BA.debugLineNum = 240;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 241;BA.debugLine="r.target = r.RunMethod(\"getPreviewSize\")";
-_r.Target = _r.RunMethod("getPreviewSize");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getPreviewSize");
  //BA.debugLineNum = 242;BA.debugLine="Dim cs As CameraSize";
 _cs = new caza.mosquito.cameraexclass._camerasize();
  //BA.debugLineNum = 243;BA.debugLine="cs.Width = r.GetField(\"width\")";
-_cs.Width /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("width")));
+_cs.Width /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("width")));
  //BA.debugLineNum = 244;BA.debugLine="cs.Height = r.GetField(\"height\")";
-_cs.Height /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("height")));
+_cs.Height /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("height")));
  //BA.debugLineNum = 245;BA.debugLine="Return cs";
 if (true) return _cs;
  //BA.debugLineNum = 246;BA.debugLine="End Sub";
 return null;
 }
-public anywheresoftware.b4a.objects.collections.List  _getsupportedcoloreffects() throws Exception{
+public anywheresoftware.b4a.objects.collections.List  _vvvvvvvvvvvvvvvvvvvvvvv7() throws Exception{
  //BA.debugLineNum = 216;BA.debugLine="Public Sub GetSupportedColorEffects As List";
  //BA.debugLineNum = 217;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 218;BA.debugLine="Return r.RunMethod(\"getSupportedColorEffects\")";
-if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_r.RunMethod("getSupportedColorEffects")));
+if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getSupportedColorEffects")));
  //BA.debugLineNum = 219;BA.debugLine="End Sub";
 return null;
 }
-public anywheresoftware.b4a.objects.collections.List  _getsupportedflashmodes() throws Exception{
+public anywheresoftware.b4a.objects.collections.List  _vvvvvvvvvvvvvvvvvvvvvvv0() throws Exception{
  //BA.debugLineNum = 211;BA.debugLine="Public Sub GetSupportedFlashModes As List";
  //BA.debugLineNum = 212;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 213;BA.debugLine="Return r.RunMethod(\"getSupportedFlashModes\")";
-if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_r.RunMethod("getSupportedFlashModes")));
+if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getSupportedFlashModes")));
  //BA.debugLineNum = 214;BA.debugLine="End Sub";
 return null;
 }
-public anywheresoftware.b4a.objects.collections.List  _getsupportedfocusmodes() throws Exception{
+public anywheresoftware.b4a.objects.collections.List  _vvvvvvvvvvvvvvvvvvvvvvvv1() throws Exception{
  //BA.debugLineNum = 279;BA.debugLine="Public Sub GetSupportedFocusModes As List";
  //BA.debugLineNum = 280;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 281;BA.debugLine="Return r.RunMethod(\"getSupportedFocusModes\")";
-if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_r.RunMethod("getSupportedFocusModes")));
+if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getSupportedFocusModes")));
  //BA.debugLineNum = 282;BA.debugLine="End Sub";
 return null;
 }
-public anywheresoftware.b4a.objects.collections.List  _getsupportedpictureformats() throws Exception{
+public anywheresoftware.b4a.objects.collections.List  _vvvvvvvvvvvvvvvvvvvvvvvv2() throws Exception{
  //BA.debugLineNum = 307;BA.debugLine="Public Sub GetSupportedPictureFormats As List";
  //BA.debugLineNum = 308;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 309;BA.debugLine="Return r.RunMethod(\"getSupportedPictureFormats";
-if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_r.RunMethod("getSupportedPictureFormats")));
+if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getSupportedPictureFormats")));
  //BA.debugLineNum = 310;BA.debugLine="End Sub";
 return null;
 }
-public caza.mosquito.cameraexclass._camerasize[]  _getsupportedpicturessizes() throws Exception{
+public caza.mosquito.cameraexclass._camerasize[]  _vvvvvvvvvvvvvvvvvvvvvvvv3() throws Exception{
 anywheresoftware.b4a.objects.collections.List _list1 = null;
 caza.mosquito.cameraexclass._camerasize[] _cs = null;
 int _i = 0;
  //BA.debugLineNum = 179;BA.debugLine="Public Sub GetSupportedPicturesSizes As CameraSize";
  //BA.debugLineNum = 180;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 181;BA.debugLine="Dim list1 As List = r.RunMethod(\"getSupportedPict";
 _list1 = new anywheresoftware.b4a.objects.collections.List();
-_list1 = (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_r.RunMethod("getSupportedPictureSizes")));
+_list1 = (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getSupportedPictureSizes")));
  //BA.debugLineNum = 182;BA.debugLine="Dim cs(list1.Size) As CameraSize";
 _cs = new caza.mosquito.cameraexclass._camerasize[_list1.getSize()];
 {
@@ -454,11 +454,11 @@ final int limit4 = (int) (_list1.getSize()-1);
 _i = (int) (0) ;
 for (;_i <= limit4 ;_i = _i + step4 ) {
  //BA.debugLineNum = 184;BA.debugLine="r.target = list1.get(i)";
-_r.Target = _list1.Get(_i);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _list1.Get(_i);
  //BA.debugLineNum = 185;BA.debugLine="cs(i).Width = r.GetField(\"width\")";
-_cs[_i].Width /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("width")));
+_cs[_i].Width /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("width")));
  //BA.debugLineNum = 186;BA.debugLine="cs(i).Height = r.GetField(\"height\")";
-_cs[_i].Height /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("height")));
+_cs[_i].Height /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("height")));
  }
 };
  //BA.debugLineNum = 188;BA.debugLine="Return cs";
@@ -466,25 +466,25 @@ if (true) return _cs;
  //BA.debugLineNum = 189;BA.debugLine="End Sub";
 return null;
 }
-public anywheresoftware.b4a.objects.collections.List  _getsupportedpreviewfpsrange() throws Exception{
+public anywheresoftware.b4a.objects.collections.List  _vvvvvvvvvvvvvvvvvvvvvvvv4() throws Exception{
  //BA.debugLineNum = 222;BA.debugLine="Public Sub GetSupportedPreviewFpsRange As List";
  //BA.debugLineNum = 223;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 224;BA.debugLine="Return r.RunMethod(\"getSupportedPreviewFpsRange\")";
-if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_r.RunMethod("getSupportedPreviewFpsRange")));
+if (true) return (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getSupportedPreviewFpsRange")));
  //BA.debugLineNum = 225;BA.debugLine="End Sub";
 return null;
 }
-public caza.mosquito.cameraexclass._camerasize[]  _getsupportedpreviewsizes() throws Exception{
+public caza.mosquito.cameraexclass._camerasize[]  _vvvvvvvvvvvvvvvvvvvvvvvv5() throws Exception{
 anywheresoftware.b4a.objects.collections.List _list1 = null;
 caza.mosquito.cameraexclass._camerasize[] _cs = null;
 int _i = 0;
  //BA.debugLineNum = 163;BA.debugLine="Public Sub GetSupportedPreviewSizes As CameraSize(";
  //BA.debugLineNum = 164;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 165;BA.debugLine="Dim list1 As List = r.RunMethod(\"getSupportedPrev";
 _list1 = new anywheresoftware.b4a.objects.collections.List();
-_list1 = (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_r.RunMethod("getSupportedPreviewSizes")));
+_list1 = (anywheresoftware.b4a.objects.collections.List) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.collections.List(), (java.util.List)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getSupportedPreviewSizes")));
  //BA.debugLineNum = 166;BA.debugLine="Dim cs(list1.Size) As CameraSize";
 _cs = new caza.mosquito.cameraexclass._camerasize[_list1.getSize()];
 {
@@ -501,11 +501,11 @@ final int limit4 = (int) (_list1.getSize()-1);
 _i = (int) (0) ;
 for (;_i <= limit4 ;_i = _i + step4 ) {
  //BA.debugLineNum = 168;BA.debugLine="r.target = list1.get(i)";
-_r.Target = _list1.Get(_i);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _list1.Get(_i);
  //BA.debugLineNum = 169;BA.debugLine="cs(i).Width = r.GetField(\"width\")";
-_cs[_i].Width /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("width")));
+_cs[_i].Width /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("width")));
  //BA.debugLineNum = 170;BA.debugLine="cs(i).Height = r.GetField(\"height\")";
-_cs[_i].Height /*int*/  = (int)(BA.ObjectToNumber(_r.GetField("height")));
+_cs[_i].Height /*int*/  = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("height")));
  }
 };
  //BA.debugLineNum = 172;BA.debugLine="Return cs";
@@ -513,12 +513,12 @@ if (true) return _cs;
  //BA.debugLineNum = 173;BA.debugLine="End Sub";
 return null;
 }
-public int  _getzoom() throws Exception{
+public int  _getvvvvvvvvvvvvvvvvvvvvvvvvvvv0() throws Exception{
  //BA.debugLineNum = 342;BA.debugLine="Public Sub getZoom() As Int";
  //BA.debugLineNum = 343;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 344;BA.debugLine="Return r.RunMethod(\"getZoom\")";
-if (true) return (int)(BA.ObjectToNumber(_r.RunMethod("getZoom")));
+if (true) return (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getZoom")));
  //BA.debugLineNum = 345;BA.debugLine="End Sub";
 return 0;
 }
@@ -527,21 +527,21 @@ innerInitialize(_ba);
 int _id = 0;
  //BA.debugLineNum = 21;BA.debugLine="Public Sub Initialize (Panel1 As Panel, FrontCamer";
  //BA.debugLineNum = 22;BA.debugLine="target = TargetModule";
-_target = _targetmodule;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = _targetmodule;
  //BA.debugLineNum = 23;BA.debugLine="event = EventName";
-_event = _eventname;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = _eventname;
  //BA.debugLineNum = 24;BA.debugLine="Front = FrontCamera";
-_front = _frontcamera;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = _frontcamera;
  //BA.debugLineNum = 25;BA.debugLine="Dim id As Int";
 _id = 0;
  //BA.debugLineNum = 26;BA.debugLine="id = FindCamera(Front).id";
-_id = _findcamera(_front).Id /*int*/ ;
+_id = _vvvvvvvvvvvvvvvvvvvvvv2(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6).Id /*int*/ ;
  //BA.debugLineNum = 27;BA.debugLine="If id = -1 Then";
 if (_id==-1) { 
  //BA.debugLineNum = 28;BA.debugLine="Front = Not(Front) 'try different camera";
-_front = __c.Not(_front);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = __c.Not(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6);
  //BA.debugLineNum = 29;BA.debugLine="id = FindCamera(Front).id";
-_id = _findcamera(_front).Id /*int*/ ;
+_id = _vvvvvvvvvvvvvvvvvvvvvv2(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6).Id /*int*/ ;
  //BA.debugLineNum = 30;BA.debugLine="If id = -1 Then";
 if (_id==-1) { 
  //BA.debugLineNum = 31;BA.debugLine="ToastMessageShow(\"No camera found.\", True)";
@@ -551,20 +551,20 @@ if (true) return "";
  };
  };
  //BA.debugLineNum = 35;BA.debugLine="cam.Initialize2(Panel1, \"camera\", id)";
-_cam.Initialize2(ba,(android.view.ViewGroup)(_panel1.getObject()),"camera",_id);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Initialize2(ba,(android.view.ViewGroup)(_panel1.getObject()),"camera",_id);
  //BA.debugLineNum = 36;BA.debugLine="End Sub";
 return "";
 }
-public boolean  _iszoomsupported() throws Exception{
+public boolean  _vvvvvvvvvvvvvvvvvvvvvvvv7() throws Exception{
  //BA.debugLineNum = 332;BA.debugLine="Public Sub IsZoomSupported As Boolean";
  //BA.debugLineNum = 333;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 334;BA.debugLine="Return r.RunMethod(\"isZoomSupported\")";
-if (true) return BA.ObjectToBoolean(_r.RunMethod("isZoomSupported"));
+if (true) return BA.ObjectToBoolean(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("isZoomSupported"));
  //BA.debugLineNum = 335;BA.debugLine="End Sub";
 return false;
 }
-public byte[]  _previewimagetojpeg(byte[] _data,int _quality) throws Exception{
+public byte[]  _vvvvvvvvvvvvvvvvvvvvvvvv0(byte[] _data,int _quality) throws Exception{
 Object _size = null;
 Object _previewformat = null;
 int _width = 0;
@@ -577,43 +577,43 @@ anywheresoftware.b4a.objects.streams.File.OutputStreamWrapper _out = null;
 _size = new Object();
 _previewformat = new Object();
  //BA.debugLineNum = 261;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 262;BA.debugLine="size = r.RunMethod(\"getPreviewSize\")";
-_size = _r.RunMethod("getPreviewSize");
+_size = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getPreviewSize");
  //BA.debugLineNum = 263;BA.debugLine="previewFormat = r.RunMethod(\"getPreviewFormat\")";
-_previewformat = _r.RunMethod("getPreviewFormat");
+_previewformat = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getPreviewFormat");
  //BA.debugLineNum = 264;BA.debugLine="r.target = size";
-_r.Target = _size;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _size;
  //BA.debugLineNum = 265;BA.debugLine="Dim width = r.GetField(\"width\"), height = r.GetFi";
-_width = (int)(BA.ObjectToNumber(_r.GetField("width")));
-_height = (int)(BA.ObjectToNumber(_r.GetField("height")));
+_width = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("width")));
+_height = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("height")));
  //BA.debugLineNum = 266;BA.debugLine="Dim yuvImage As Object = r.CreateObject2(\"android";
-_yuvimage = _r.CreateObject2("android.graphics.YuvImage",new Object[]{(Object)(_data),_previewformat,(Object)(_width),(Object)(_height),__c.Null},new String[]{"[B","java.lang.int","java.lang.int","java.lang.int","[I"});
+_yuvimage = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.CreateObject2("android.graphics.YuvImage",new Object[]{(Object)(_data),_previewformat,(Object)(_width),(Object)(_height),__c.Null},new String[]{"[B","java.lang.int","java.lang.int","java.lang.int","[I"});
  //BA.debugLineNum = 269;BA.debugLine="r.target = yuvImage";
-_r.Target = _yuvimage;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _yuvimage;
  //BA.debugLineNum = 270;BA.debugLine="Dim rect1 As Rect";
 _rect1 = new anywheresoftware.b4a.objects.drawable.CanvasWrapper.RectWrapper();
  //BA.debugLineNum = 271;BA.debugLine="rect1.Initialize(0, 0, r.RunMethod(\"getWidth\"), r";
-_rect1.Initialize((int) (0),(int) (0),(int)(BA.ObjectToNumber(_r.RunMethod("getWidth"))),(int)(BA.ObjectToNumber(_r.RunMethod("getHeight"))));
+_rect1.Initialize((int) (0),(int) (0),(int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getWidth"))),(int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getHeight"))));
  //BA.debugLineNum = 272;BA.debugLine="Dim out As OutputStream";
 _out = new anywheresoftware.b4a.objects.streams.File.OutputStreamWrapper();
  //BA.debugLineNum = 273;BA.debugLine="out.InitializeToBytesArray(100)";
 _out.InitializeToBytesArray((int) (100));
  //BA.debugLineNum = 274;BA.debugLine="r.RunMethod4(\"compressToJpeg\", Array As Object(re";
-_r.RunMethod4("compressToJpeg",new Object[]{(Object)(_rect1.getObject()),(Object)(_quality),(Object)(_out.getObject())},new String[]{"android.graphics.Rect","java.lang.int","java.io.OutputStream"});
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod4("compressToJpeg",new Object[]{(Object)(_rect1.getObject()),(Object)(_quality),(Object)(_out.getObject())},new String[]{"android.graphics.Rect","java.lang.int","java.io.OutputStream"});
  //BA.debugLineNum = 276;BA.debugLine="Return out.ToBytesArray";
 if (true) return _out.ToBytesArray();
  //BA.debugLineNum = 277;BA.debugLine="End Sub";
 return null;
 }
-public String  _release() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvv1() throws Exception{
  //BA.debugLineNum = 124;BA.debugLine="Public Sub Release";
  //BA.debugLineNum = 125;BA.debugLine="cam.Release";
-_cam.Release();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Release();
  //BA.debugLineNum = 126;BA.debugLine="End Sub";
 return "";
 }
-public String  _savepicturetofile(byte[] _data,String _dir,String _filename) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvv2(byte[] _data,String _dir,String _filename) throws Exception{
 anywheresoftware.b4a.objects.streams.File.OutputStreamWrapper _out = null;
  //BA.debugLineNum = 129;BA.debugLine="Public Sub SavePictureToFile(Data() As Byte, Dir A";
  //BA.debugLineNum = 130;BA.debugLine="Dim out As OutputStream = File.OpenOutput(Dir, Fi";
@@ -626,34 +626,34 @@ _out.Close();
  //BA.debugLineNum = 133;BA.debugLine="End Sub";
 return "";
 }
-public String  _setcoloreffect(String _effect) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvv3(String _effect) throws Exception{
  //BA.debugLineNum = 159;BA.debugLine="Public Sub SetColorEffect(Effect As String)";
  //BA.debugLineNum = 160;BA.debugLine="SetParameter(\"effect\", Effect)";
-_setparameter("effect",_effect);
+_vvvvvvvvvvvvvvvvvvvvvvvvvv3("effect",_effect);
  //BA.debugLineNum = 161;BA.debugLine="End Sub";
 return "";
 }
-public String  _setcontinuousautofocus() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvv4() throws Exception{
 anywheresoftware.b4a.objects.collections.List _modes = null;
  //BA.debugLineNum = 284;BA.debugLine="Public Sub SetContinuousAutoFocus";
  //BA.debugLineNum = 285;BA.debugLine="Dim modes As List = GetSupportedFocusModes";
 _modes = new anywheresoftware.b4a.objects.collections.List();
-_modes = _getsupportedfocusmodes();
+_modes = _vvvvvvvvvvvvvvvvvvvvvvvv1();
  //BA.debugLineNum = 286;BA.debugLine="If modes.IndexOf(\"continuous-picture\") > -1 Th";
 if (_modes.IndexOf((Object)("continuous-picture"))>-1) { 
  //BA.debugLineNum = 287;BA.debugLine="SetFocusMode(\"continuous-picture\")";
-_setfocusmode("continuous-picture");
+_vvvvvvvvvvvvvvvvvvvvvvvvvv1("continuous-picture");
  }else if(_modes.IndexOf((Object)("continuous-video"))>-1) { 
  //BA.debugLineNum = 289;BA.debugLine="SetFocusMode(\"continuous-video\")";
-_setfocusmode("continuous-video");
+_vvvvvvvvvvvvvvvvvvvvvvvvvv1("continuous-video");
  }else {
  //BA.debugLineNum = 291;BA.debugLine="Log(\"Continuous focus mode is not availabl";
-__c.LogImpl("411141127","Continuous focus mode is not available",0);
+__c.LogImpl("58388615","Continuous focus mode is not available",0);
  };
  //BA.debugLineNum = 293;BA.debugLine="End Sub";
 return "";
 }
-public String  _setdisplayorientation() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvv5() throws Exception{
 int _previewresult = 0;
 int _result = 0;
 int _degrees = 0;
@@ -661,25 +661,25 @@ caza.mosquito.cameraexclass._camerainfoandid _ci = null;
 int _orientation = 0;
  //BA.debugLineNum = 63;BA.debugLine="Private Sub SetDisplayOrientation";
  //BA.debugLineNum = 64;BA.debugLine="r.target = r.GetActivity";
-_r.Target = (Object)(_r.GetActivity(ba));
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = (Object)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetActivity(ba));
  //BA.debugLineNum = 65;BA.debugLine="r.target = r.RunMethod(\"getWindowManager\")";
-_r.Target = _r.RunMethod("getWindowManager");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getWindowManager");
  //BA.debugLineNum = 66;BA.debugLine="r.target = r.RunMethod(\"getDefaultDisplay\")";
-_r.Target = _r.RunMethod("getDefaultDisplay");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getDefaultDisplay");
  //BA.debugLineNum = 67;BA.debugLine="r.target = r.RunMethod(\"getRotation\")";
-_r.Target = _r.RunMethod("getRotation");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod("getRotation");
  //BA.debugLineNum = 68;BA.debugLine="Dim previewResult, result, degrees As Int = r.tar";
 _previewresult = 0;
 _result = 0;
-_degrees = (int) ((double)(BA.ObjectToNumber(_r.Target))*90);
+_degrees = (int) ((double)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target))*90);
  //BA.debugLineNum = 69;BA.debugLine="Dim ci As CameraInfoAndId = FindCamera(Front)";
-_ci = _findcamera(_front);
+_ci = _vvvvvvvvvvvvvvvvvvvvvv2(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6);
  //BA.debugLineNum = 70;BA.debugLine="r.target = ci.CameraInfo";
-_r.Target = _ci.CameraInfo /*Object*/ ;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _ci.CameraInfo /*Object*/ ;
  //BA.debugLineNum = 71;BA.debugLine="Dim orientation As Int = r.GetField(\"orientation\"";
-_orientation = (int)(BA.ObjectToNumber(_r.GetField("orientation")));
+_orientation = (int)(BA.ObjectToNumber(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.GetField("orientation")));
  //BA.debugLineNum = 72;BA.debugLine="If Front Then";
-if (_front) { 
+if (_vvvvvvvvvvvvvvvvvvvvvvvvvvvv6) { 
  //BA.debugLineNum = 73;BA.debugLine="previewResult = (orientation + degrees) Mod 360";
 _previewresult = (int) ((_orientation+_degrees)%360);
  //BA.debugLineNum = 74;BA.debugLine="result = previewResult";
@@ -692,37 +692,37 @@ _previewresult = (int) ((_orientation-_degrees+360)%360);
  //BA.debugLineNum = 78;BA.debugLine="result = previewResult";
 _result = _previewresult;
  //BA.debugLineNum = 79;BA.debugLine="Log(previewResult)";
-__c.LogImpl("49240592",BA.NumberToString(_previewresult),0);
+__c.LogImpl("56488080",BA.NumberToString(_previewresult),0);
  };
  //BA.debugLineNum = 81;BA.debugLine="r.target = nativeCam";
-_r.Target = _nativecam;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv1;
  //BA.debugLineNum = 82;BA.debugLine="r.RunMethod2(\"setDisplayOrientation\", previewResu";
-_r.RunMethod2("setDisplayOrientation",BA.NumberToString(_previewresult),"java.lang.int");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("setDisplayOrientation",BA.NumberToString(_previewresult),"java.lang.int");
  //BA.debugLineNum = 83;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 84;BA.debugLine="r.RunMethod2(\"setRotation\", result, \"java.lang.in";
-_r.RunMethod2("setRotation",BA.NumberToString(_result),"java.lang.int");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("setRotation",BA.NumberToString(_result),"java.lang.int");
  //BA.debugLineNum = 85;BA.debugLine="CommitParameters";
-_commitparameters();
+_vvvvvvvvvvvvvvvvvvvvvv1();
  //BA.debugLineNum = 86;BA.debugLine="End Sub";
 return "";
 }
-public String  _setexposurecompensation(int _v) throws Exception{
+public String  _setvvvvvvvvvvvvvvvvvvvvvvvvvvv5(int _v) throws Exception{
  //BA.debugLineNum = 357;BA.debugLine="Public Sub setExposureCompensation(v As Int)";
  //BA.debugLineNum = 358;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 359;BA.debugLine="r.RunMethod2(\"setExposureCompensation\", v, \"java.";
-_r.RunMethod2("setExposureCompensation",BA.NumberToString(_v),"java.lang.int");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("setExposureCompensation",BA.NumberToString(_v),"java.lang.int");
  //BA.debugLineNum = 360;BA.debugLine="End Sub";
 return "";
 }
-public String  _setfacedetectionlistener() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvv7() throws Exception{
 anywheresoftware.b4j.object.JavaObject _jo = null;
 Object _e = null;
  //BA.debugLineNum = 372;BA.debugLine="Public Sub SetFaceDetectionListener";
  //BA.debugLineNum = 373;BA.debugLine="Dim jo As JavaObject = nativeCam";
 _jo = new anywheresoftware.b4j.object.JavaObject();
-_jo = (anywheresoftware.b4j.object.JavaObject) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4j.object.JavaObject(), (java.lang.Object)(_nativecam));
+_jo = (anywheresoftware.b4j.object.JavaObject) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4j.object.JavaObject(), (java.lang.Object)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv1));
  //BA.debugLineNum = 374;BA.debugLine="Dim e As Object = jo.CreateEvent(\"android.hardwar";
 _e = _jo.CreateEvent(ba,"android.hardware.Camera.FaceDetectionListener","FaceDetection",__c.Null);
  //BA.debugLineNum = 375;BA.debugLine="jo.RunMethod(\"setFaceDetectionListener\", Array(e)";
@@ -730,118 +730,118 @@ _jo.RunMethod("setFaceDetectionListener",new Object[]{_e});
  //BA.debugLineNum = 376;BA.debugLine="End Sub";
 return "";
 }
-public String  _setflashmode(String _mode) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvv0(String _mode) throws Exception{
  //BA.debugLineNum = 201;BA.debugLine="Public Sub SetFlashMode(Mode As String)";
  //BA.debugLineNum = 202;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 203;BA.debugLine="r.RunMethod2(\"setFlashMode\", Mode, \"java.lang.Str";
-_r.RunMethod2("setFlashMode",_mode,"java.lang.String");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("setFlashMode",_mode,"java.lang.String");
  //BA.debugLineNum = 204;BA.debugLine="End Sub";
 return "";
 }
-public String  _setfocusmode(String _mode) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvv1(String _mode) throws Exception{
  //BA.debugLineNum = 295;BA.debugLine="Public Sub SetFocusMode(Mode As String)";
  //BA.debugLineNum = 296;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 297;BA.debugLine="r.RunMethod2(\"setFocusMode\", Mode, \"java.lang.";
-_r.RunMethod2("setFocusMode",_mode,"java.lang.String");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("setFocusMode",_mode,"java.lang.String");
  //BA.debugLineNum = 298;BA.debugLine="End Sub";
 return "";
 }
-public String  _setjpegquality(int _quality) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvv2(int _quality) throws Exception{
  //BA.debugLineNum = 196;BA.debugLine="Public Sub SetJpegQuality(Quality As Int)";
  //BA.debugLineNum = 197;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 198;BA.debugLine="r.RunMethod2(\"setJpegQuality\", Quality, \"java.lan";
-_r.RunMethod2("setJpegQuality",BA.NumberToString(_quality),"java.lang.int");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("setJpegQuality",BA.NumberToString(_quality),"java.lang.int");
  //BA.debugLineNum = 199;BA.debugLine="End Sub";
 return "";
 }
-public String  _setparameter(String _key,String _value) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvv3(String _key,String _value) throws Exception{
  //BA.debugLineNum = 135;BA.debugLine="Public Sub SetParameter(Key As String, Value As St";
  //BA.debugLineNum = 136;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 137;BA.debugLine="r.RunMethod3(\"set\", Key, \"java.lang.String\", Valu";
-_r.RunMethod3("set",_key,"java.lang.String",_value,"java.lang.String");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod3("set",_key,"java.lang.String",_value,"java.lang.String");
  //BA.debugLineNum = 138;BA.debugLine="End Sub";
 return "";
 }
-public String  _setpicturesize(int _width,int _height) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvv4(int _width,int _height) throws Exception{
  //BA.debugLineNum = 191;BA.debugLine="Public Sub SetPictureSize(Width As Int, Height As";
  //BA.debugLineNum = 192;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 193;BA.debugLine="r.RunMethod3(\"setPictureSize\", Width, \"java.lang.";
-_r.RunMethod3("setPictureSize",BA.NumberToString(_width),"java.lang.int",BA.NumberToString(_height),"java.lang.int");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod3("setPictureSize",BA.NumberToString(_width),"java.lang.int",BA.NumberToString(_height),"java.lang.int");
  //BA.debugLineNum = 194;BA.debugLine="End Sub";
 return "";
 }
-public String  _setpreviewfpsrange(int _minvalue,int _maxvalue) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvv5(int _minvalue,int _maxvalue) throws Exception{
  //BA.debugLineNum = 233;BA.debugLine="Public Sub SetPreviewFpsRange(MinValue As Int, Max";
  //BA.debugLineNum = 234;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 235;BA.debugLine="r.RunMethod4(\"setPreviewFpsRange\", Array As Objec";
-_r.RunMethod4("setPreviewFpsRange",new Object[]{(Object)(_minvalue),(Object)(_maxvalue)},new String[]{"java.lang.int","java.lang.int"});
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod4("setPreviewFpsRange",new Object[]{(Object)(_minvalue),(Object)(_maxvalue)},new String[]{"java.lang.int","java.lang.int"});
  //BA.debugLineNum = 237;BA.debugLine="End Sub";
 return "";
 }
-public String  _setpreviewsize(int _width,int _height) throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvv6(int _width,int _height) throws Exception{
  //BA.debugLineNum = 175;BA.debugLine="Public Sub SetPreviewSize(Width As Int, Height As";
  //BA.debugLineNum = 176;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 177;BA.debugLine="r.RunMethod3(\"setPreviewSize\", Width, \"java.lang.";
-_r.RunMethod3("setPreviewSize",BA.NumberToString(_width),"java.lang.int",BA.NumberToString(_height),"java.lang.int");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod3("setPreviewSize",BA.NumberToString(_width),"java.lang.int",BA.NumberToString(_height),"java.lang.int");
  //BA.debugLineNum = 178;BA.debugLine="End Sub";
 return "";
 }
-public String  _setzoom(int _zoomvalue) throws Exception{
+public String  _setvvvvvvvvvvvvvvvvvvvvvvvvvvv0(int _zoomvalue) throws Exception{
  //BA.debugLineNum = 347;BA.debugLine="Public Sub setZoom(ZoomValue As Int)";
  //BA.debugLineNum = 348;BA.debugLine="r.target = parameters";
-_r.Target = _parameters;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.Target = _vvvvvvvvvvvvvvvvvvvvvvvvvvvv7;
  //BA.debugLineNum = 349;BA.debugLine="r.RunMethod2(\"setZoom\", ZoomValue, \"java.lang.in";
-_r.RunMethod2("setZoom",BA.NumberToString(_zoomvalue),"java.lang.int");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv3.RunMethod2("setZoom",BA.NumberToString(_zoomvalue),"java.lang.int");
  //BA.debugLineNum = 350;BA.debugLine="End Sub";
 return "";
 }
-public String  _startfacedetection() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvv0() throws Exception{
 anywheresoftware.b4j.object.JavaObject _jo = null;
  //BA.debugLineNum = 390;BA.debugLine="Public Sub StartFaceDetection";
  //BA.debugLineNum = 391;BA.debugLine="Dim jo As JavaObject = nativeCam";
 _jo = new anywheresoftware.b4j.object.JavaObject();
-_jo = (anywheresoftware.b4j.object.JavaObject) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4j.object.JavaObject(), (java.lang.Object)(_nativecam));
+_jo = (anywheresoftware.b4j.object.JavaObject) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4j.object.JavaObject(), (java.lang.Object)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv1));
  //BA.debugLineNum = 392;BA.debugLine="jo.RunMethod(\"startFaceDetection\", Null)";
 _jo.RunMethod("startFaceDetection",(Object[])(__c.Null));
  //BA.debugLineNum = 393;BA.debugLine="End Sub";
 return "";
 }
-public String  _startpreview() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvvv1() throws Exception{
  //BA.debugLineNum = 116;BA.debugLine="Public Sub StartPreview";
  //BA.debugLineNum = 117;BA.debugLine="cam.StartPreview";
-_cam.StartPreview();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2.StartPreview();
  //BA.debugLineNum = 118;BA.debugLine="End Sub";
 return "";
 }
-public String  _stopfacedetection() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvvv2() throws Exception{
 anywheresoftware.b4j.object.JavaObject _jo = null;
  //BA.debugLineNum = 395;BA.debugLine="Public Sub StopFaceDetection";
  //BA.debugLineNum = 396;BA.debugLine="Dim jo As JavaObject = nativeCam";
 _jo = new anywheresoftware.b4j.object.JavaObject();
-_jo = (anywheresoftware.b4j.object.JavaObject) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4j.object.JavaObject(), (java.lang.Object)(_nativecam));
+_jo = (anywheresoftware.b4j.object.JavaObject) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4j.object.JavaObject(), (java.lang.Object)(_vvvvvvvvvvvvvvvvvvvvvvvvvvvv1));
  //BA.debugLineNum = 397;BA.debugLine="jo.RunMethod(\"stopFaceDetection\", Null)";
 _jo.RunMethod("stopFaceDetection",(Object[])(__c.Null));
  //BA.debugLineNum = 398;BA.debugLine="End Sub";
 return "";
 }
-public String  _stoppreview() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvvv3() throws Exception{
  //BA.debugLineNum = 120;BA.debugLine="Public Sub StopPreview";
  //BA.debugLineNum = 121;BA.debugLine="cam.StopPreview";
-_cam.StopPreview();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2.StopPreview();
  //BA.debugLineNum = 122;BA.debugLine="End Sub";
 return "";
 }
-public String  _takepicture() throws Exception{
+public String  _vvvvvvvvvvvvvvvvvvvvvvvvvvv4() throws Exception{
  //BA.debugLineNum = 107;BA.debugLine="Public Sub TakePicture";
  //BA.debugLineNum = 109;BA.debugLine="cam.TakePicture";
-_cam.TakePicture();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvv2.TakePicture();
  //BA.debugLineNum = 110;BA.debugLine="End Sub";
 return "";
 }

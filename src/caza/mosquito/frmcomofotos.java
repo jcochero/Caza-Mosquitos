@@ -339,42 +339,42 @@ public anywheresoftware.b4a.keywords.Common __c = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lbltitulo = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lbltexto1 = null;
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgtexto1 = null;
-public de.amberhome.viewpager.AHPageContainer _container = null;
+public de.amberhome.viewpager.AHPageContainer _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = null;
 public de.amberhome.viewpager.AHViewPager _ahviewpager1 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblslide = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 
 public static void initializeProcessGlobals() {
              try {
@@ -404,16 +404,16 @@ _pan[(int) (2)].Initialize(mostCurrent.activityBA,"");
  //BA.debugLineNum = 30;BA.debugLine="Pan(3).Initialize(\"\")";
 _pan[(int) (3)].Initialize(mostCurrent.activityBA,"");
  //BA.debugLineNum = 33;BA.debugLine="Container.Initialize";
-mostCurrent._container.Initialize(mostCurrent.activityBA);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Initialize(mostCurrent.activityBA);
  //BA.debugLineNum = 36;BA.debugLine="Pan(0).LoadLayout(\"layComoFotos_Panels\")";
 _pan[(int) (0)].LoadLayout("layComoFotos_Panels",mostCurrent.activityBA);
  //BA.debugLineNum = 37;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 38;BA.debugLine="lblTitulo.Text  = \"Cómo capturar mosquitos\"";
 mostCurrent._lbltitulo.setText(BA.ObjectToCharSequence("Cómo capturar mosquitos"));
  //BA.debugLineNum = 39;BA.debugLine="lblTexto1.Text  = \"Si quieres sorprendernos con";
 mostCurrent._lbltexto1.setText(BA.ObjectToCharSequence("Si quieres sorprendernos con la calidad de tus fotos, atrapa el mosquito poniendo un vaso encima, y usa una hoja de papel a modo de tapa."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  };
  //BA.debugLineNum = 47;BA.debugLine="lblTitulo.Width = 100%x";
 mostCurrent._lbltitulo.setWidth(anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (100),mostCurrent.activityBA));
@@ -430,16 +430,16 @@ mostCurrent._imgtexto1.setGravity(anywheresoftware.b4a.keywords.Common.Gravity.F
  //BA.debugLineNum = 53;BA.debugLine="Pan(0).AddView(imgTexto1,(Activity.Width/2 - 110d";
 _pan[(int) (0)].AddView((android.view.View)(mostCurrent._imgtexto1.getObject()),(int) ((mostCurrent._activity.getWidth()/(double)2-anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (110)))),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (220)),anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (60),mostCurrent.activityBA),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (170)));
  //BA.debugLineNum = 54;BA.debugLine="Container.AddPageAt(Pan(0), \"panel0\", 0)";
-mostCurrent._container.AddPageAt((android.view.View)(_pan[(int) (0)].getObject()),"panel0",(int) (0));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.AddPageAt((android.view.View)(_pan[(int) (0)].getObject()),"panel0",(int) (0));
  //BA.debugLineNum = 56;BA.debugLine="Pan(1).LoadLayout(\"layComoFotos_Panels\")";
 _pan[(int) (1)].LoadLayout("layComoFotos_Panels",mostCurrent.activityBA);
  //BA.debugLineNum = 57;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 58;BA.debugLine="lblTitulo.Text  = \"Cómo capturar insectos\"";
 mostCurrent._lbltitulo.setText(BA.ObjectToCharSequence("Cómo capturar insectos"));
  //BA.debugLineNum = 59;BA.debugLine="lblTexto1.Text  = \"Coloca el vaso en una bolsa (";
 mostCurrent._lbltexto1.setText(BA.ObjectToCharSequence("Coloca el vaso en una bolsa (ver fotos), hazle un nudo y guárdalo una hora en el freezer."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  };
  //BA.debugLineNum = 68;BA.debugLine="lblTitulo.Width = 100%x";
 mostCurrent._lbltitulo.setWidth(anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (100),mostCurrent.activityBA));
@@ -456,16 +456,16 @@ mostCurrent._imgtexto1.setGravity(anywheresoftware.b4a.keywords.Common.Gravity.F
  //BA.debugLineNum = 74;BA.debugLine="Pan(1).AddView(imgTexto1,Activity.Width/2 - 35%x,";
 _pan[(int) (1)].AddView((android.view.View)(mostCurrent._imgtexto1.getObject()),(int) (mostCurrent._activity.getWidth()/(double)2-anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (35),mostCurrent.activityBA)),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (220)),anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (70),mostCurrent.activityBA),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (170)));
  //BA.debugLineNum = 75;BA.debugLine="Container.AddPageAt(Pan(1), \"panel1\", 1)";
-mostCurrent._container.AddPageAt((android.view.View)(_pan[(int) (1)].getObject()),"panel1",(int) (1));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.AddPageAt((android.view.View)(_pan[(int) (1)].getObject()),"panel1",(int) (1));
  //BA.debugLineNum = 77;BA.debugLine="Pan(2).LoadLayout(\"layComoFotos_Panels\")";
 _pan[(int) (2)].LoadLayout("layComoFotos_Panels",mostCurrent.activityBA);
  //BA.debugLineNum = 78;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 79;BA.debugLine="lblTitulo.Text  = \"Cómo preparar el insecto\"";
 mostCurrent._lbltitulo.setText(BA.ObjectToCharSequence("Cómo preparar el insecto"));
  //BA.debugLineNum = 80;BA.debugLine="lblTexto1.Text  = \"Luego podrás sacar el mosquit";
 mostCurrent._lbltexto1.setText(BA.ObjectToCharSequence("Luego podrás sacar el mosquito del recipiente y apoyarlo sobre una superficie clara para realizar buenas fotos."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  };
  //BA.debugLineNum = 89;BA.debugLine="lblTitulo.Width = 100%x";
 mostCurrent._lbltitulo.setWidth(anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (100),mostCurrent.activityBA));
@@ -482,16 +482,16 @@ mostCurrent._imgtexto1.setGravity(anywheresoftware.b4a.keywords.Common.Gravity.F
  //BA.debugLineNum = 95;BA.debugLine="Pan(2).AddView(imgTexto1,Activity.Width/2 - 35%x,";
 _pan[(int) (2)].AddView((android.view.View)(mostCurrent._imgtexto1.getObject()),(int) (mostCurrent._activity.getWidth()/(double)2-anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (35),mostCurrent.activityBA)),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (220)),anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (70),mostCurrent.activityBA),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (170)));
  //BA.debugLineNum = 96;BA.debugLine="Container.AddPageAt(Pan(2), \"panel2\", 2)";
-mostCurrent._container.AddPageAt((android.view.View)(_pan[(int) (2)].getObject()),"panel2",(int) (2));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.AddPageAt((android.view.View)(_pan[(int) (2)].getObject()),"panel2",(int) (2));
  //BA.debugLineNum = 98;BA.debugLine="Pan(3).LoadLayout(\"layComoFotos_Panels\")";
 _pan[(int) (3)].LoadLayout("layComoFotos_Panels",mostCurrent.activityBA);
  //BA.debugLineNum = 99;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 100;BA.debugLine="lblTitulo.Text  = \"¡IMPORTANTE!\"";
 mostCurrent._lbltitulo.setText(BA.ObjectToCharSequence("¡IMPORTANTE!"));
  //BA.debugLineNum = 101;BA.debugLine="lblTexto1.Text  = \"Las fotos y la carga del dato";
 mostCurrent._lbltexto1.setText(BA.ObjectToCharSequence("Las fotos y la carga del dato tiene que ser en las proximidades de donde se encontró el insecto  para obtener información exacta del lugar."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 104;BA.debugLine="lblTitulo.Text  = \"¡IMPORTANT!\"";
 mostCurrent._lbltitulo.setText(BA.ObjectToCharSequence("¡IMPORTANT!"));
  //BA.debugLineNum = 105;BA.debugLine="lblTexto1.Text  = \"If you capture the insect, re";
@@ -506,21 +506,21 @@ mostCurrent._lbltexto1.setWidth(anywheresoftware.b4a.keywords.Common.PerXToCurre
  //BA.debugLineNum = 113;BA.debugLine="imgTexto1.Bitmap = Null";
 mostCurrent._imgtexto1.setBitmap((android.graphics.Bitmap)(anywheresoftware.b4a.keywords.Common.Null));
  //BA.debugLineNum = 114;BA.debugLine="Container.AddPageAt(Pan(3), \"panel3\", 3)";
-mostCurrent._container.AddPageAt((android.view.View)(_pan[(int) (3)].getObject()),"panel3",(int) (3));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.AddPageAt((android.view.View)(_pan[(int) (3)].getObject()),"panel3",(int) (3));
  //BA.debugLineNum = 116;BA.debugLine="Activity.LoadLayout(\"layComoFotos\")";
 mostCurrent._activity.LoadLayout("layComoFotos",mostCurrent.activityBA);
  //BA.debugLineNum = 117;BA.debugLine="AHViewPager1.RemoveView";
 mostCurrent._ahviewpager1.RemoveView();
  //BA.debugLineNum = 118;BA.debugLine="AHViewPager1.Initialize2(Container,\"Container\")";
-mostCurrent._ahviewpager1.Initialize2(mostCurrent.activityBA,mostCurrent._container,"Container");
+mostCurrent._ahviewpager1.Initialize2(mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2,"Container");
  //BA.debugLineNum = 119;BA.debugLine="Activity.AddView(AHViewPager1, 0dip, 0dip, Activi";
 mostCurrent._activity.AddView((android.view.View)(mostCurrent._ahviewpager1.getObject()),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (0)),anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (0)),mostCurrent._activity.getWidth(),(int) (mostCurrent._activity.getHeight()-mostCurrent._lblslide.getHeight()));
  //BA.debugLineNum = 120;BA.debugLine="lblSlide.Top = Activity.Height - lblSlide.Height";
 mostCurrent._lblslide.setTop((int) (mostCurrent._activity.getHeight()-mostCurrent._lblslide.getHeight()));
  //BA.debugLineNum = 121;BA.debugLine="utilidades.ResetUserFontScale(Activity)";
-mostCurrent._utilidades._resetuserfontscale /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv0 /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
  //BA.debugLineNum = 122;BA.debugLine="TranslateGUI";
-_translategui();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3();
  //BA.debugLineNum = 123;BA.debugLine="End Sub";
 return "";
 }
@@ -552,7 +552,7 @@ mostCurrent._lbltexto1 = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 15;BA.debugLine="Private imgTexto1 As ImageView";
 mostCurrent._imgtexto1 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 17;BA.debugLine="Dim Container As AHPageContainer";
-mostCurrent._container = new de.amberhome.viewpager.AHPageContainer();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = new de.amberhome.viewpager.AHPageContainer();
  //BA.debugLineNum = 18;BA.debugLine="Dim AHViewPager1 As AHViewPager";
 mostCurrent._ahviewpager1 = new de.amberhome.viewpager.AHViewPager();
  //BA.debugLineNum = 19;BA.debugLine="Private lblSlide As Label";
@@ -565,13 +565,13 @@ public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 8;BA.debugLine="End Sub";
 return "";
 }
-public static String  _translategui() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3() throws Exception{
  //BA.debugLineNum = 126;BA.debugLine="Sub TranslateGUI";
  //BA.debugLineNum = 127;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 128;BA.debugLine="lblSlide.Text = \"   desliza para más informació";
 mostCurrent._lblslide.setText(BA.ObjectToCharSequence("   desliza para más información   "));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 130;BA.debugLine="lblSlide.Text = \"   slide for more information";
 mostCurrent._lblslide.setText(BA.ObjectToCharSequence("   slide for more information   "));
  };

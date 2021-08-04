@@ -336,7 +336,7 @@ public class frmcomotransmiten extends Activity implements B4AActivity{
     }
 
 public anywheresoftware.b4a.keywords.Common __c = null;
-public static anywheresoftware.b4a.objects.Timer _timer1 = null;
+public static anywheresoftware.b4a.objects.Timer _vvvvvvv1 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblcirclebase = null;
 public caza.mosquito.roundslider_custom _roundslider_custom1 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblpaso1 = null;
@@ -356,39 +356,39 @@ public anywheresoftware.b4a.objects.ImageViewWrapper _imgpersonainfectada1 = nul
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgpersonasana = null;
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgpersonainfectada2 = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _btnplaypause = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 
 public static void initializeProcessGlobals() {
              try {
@@ -402,15 +402,15 @@ public static String  _activity_create(boolean _firsttime) throws Exception{
  //BA.debugLineNum = 43;BA.debugLine="Activity.LoadLayout(\"lay_ComoTransmiten_Main\")";
 mostCurrent._activity.LoadLayout("lay_ComoTransmiten_Main",mostCurrent.activityBA);
  //BA.debugLineNum = 44;BA.debugLine="RoundSlider_Custom1.Value = 0";
-mostCurrent._roundslider_custom1._setvalue /*int*/ ((int) (0));
+mostCurrent._roundslider_custom1._setvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*int*/ ((int) (0));
  //BA.debugLineNum = 45;BA.debugLine="imgMosquitoSano.Visible = False";
 mostCurrent._imgmosquitosano.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 46;BA.debugLine="lblLabelPaso1.Visible = False";
 mostCurrent._lbllabelpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 47;BA.debugLine="Timer1.Initialize(\"Timer1\", 100)";
-_timer1.Initialize(processBA,"Timer1",(long) (100));
+_vvvvvvv1.Initialize(processBA,"Timer1",(long) (100));
  //BA.debugLineNum = 48;BA.debugLine="Timer1.Enabled = False";
-_timer1.setEnabled(anywheresoftware.b4a.keywords.Common.False);
+_vvvvvvv1.setEnabled(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 49;BA.debugLine="lblPaso1.Visible = False";
 mostCurrent._lblpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 50;BA.debugLine="lblPaso2.Visible = False";
@@ -420,7 +420,7 @@ mostCurrent._lblpaso3.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 52;BA.debugLine="lblDescripcionPaso.Text = \"Gira el círculo de col";
 mostCurrent._lbldescripcionpaso.setText(BA.ObjectToCharSequence("Gira el círculo de colores para ver cómo se transmiten las enfermedades"));
  //BA.debugLineNum = 53;BA.debugLine="utilidades.ResetUserFontScale(Activity)";
-mostCurrent._utilidades._resetuserfontscale /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv0 /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
  //BA.debugLineNum = 54;BA.debugLine="End Sub";
 return "";
 }
@@ -439,12 +439,12 @@ public static String  _btnplaypause_click() throws Exception{
  //BA.debugLineNum = 196;BA.debugLine="If btnPlayPause.Text = \"\" Then";
 if ((mostCurrent._btnplaypause.getText()).equals("")) { 
  //BA.debugLineNum = 197;BA.debugLine="Timer1.Enabled = True";
-_timer1.setEnabled(anywheresoftware.b4a.keywords.Common.True);
+_vvvvvvv1.setEnabled(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 198;BA.debugLine="btnPlayPause.Text = \"\"";
 mostCurrent._btnplaypause.setText(BA.ObjectToCharSequence(""));
  }else {
  //BA.debugLineNum = 200;BA.debugLine="Timer1.Enabled = False";
-_timer1.setEnabled(anywheresoftware.b4a.keywords.Common.False);
+_vvvvvvv1.setEnabled(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 201;BA.debugLine="btnPlayPause.Text = \"\"";
 mostCurrent._btnplaypause.setText(BA.ObjectToCharSequence(""));
  };
@@ -506,14 +506,14 @@ return "";
 public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 7;BA.debugLine="Sub Process_Globals";
  //BA.debugLineNum = 10;BA.debugLine="Dim Timer1 As Timer";
-_timer1 = new anywheresoftware.b4a.objects.Timer();
+_vvvvvvv1 = new anywheresoftware.b4a.objects.Timer();
  //BA.debugLineNum = 11;BA.debugLine="End Sub";
 return "";
 }
 public static String  _roundslider_custom1_valuechanged(int _mvalue) throws Exception{
  //BA.debugLineNum = 74;BA.debugLine="Private Sub RoundSlider_Custom1_ValueChanged(mvalu";
  //BA.debugLineNum = 75;BA.debugLine="Timer1.Enabled = False";
-_timer1.setEnabled(anywheresoftware.b4a.keywords.Common.False);
+_vvvvvvv1.setEnabled(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 76;BA.debugLine="RoundSlider_Update(mvalue)";
 _roundslider_update(_mvalue);
  //BA.debugLineNum = 77;BA.debugLine="End Sub";
@@ -524,7 +524,7 @@ public static String  _roundslider_update(int _mvalue) throws Exception{
  //BA.debugLineNum = 79;BA.debugLine="If (mvalue >=0 And mvalue < 12.5) Then";
 if ((_mvalue>=0 && _mvalue<12.5)) { 
  //BA.debugLineNum = 81;BA.debugLine="RoundSlider_Custom1.ThumbColor = Colors.ARGB(255";
-mostCurrent._roundslider_custom1._thumbcolor /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (94),(int) (195),(int) (165));
+mostCurrent._roundslider_custom1._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (94),(int) (195),(int) (165));
  //BA.debugLineNum = 85;BA.debugLine="lblLabelPaso1.Visible = True";
 mostCurrent._lbllabelpaso1.setVisible(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 86;BA.debugLine="lblLabelPaso2.Visible = False";
@@ -553,7 +553,7 @@ mostCurrent._imgpersonasana.setVisible(anywheresoftware.b4a.keywords.Common.Fals
 mostCurrent._lbldescripcionpaso.setText(BA.ObjectToCharSequence("Al nacer, los mosquitos no están infectados"));
  }else if((_mvalue>=12.5 && _mvalue<25)) { 
  //BA.debugLineNum = 100;BA.debugLine="RoundSlider_Custom1.ThumbColor = Colors.ARGB(255";
-mostCurrent._roundslider_custom1._thumbcolor /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (241),(int) (65),(int) (77));
+mostCurrent._roundslider_custom1._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (241),(int) (65),(int) (77));
  //BA.debugLineNum = 104;BA.debugLine="lblLabelPaso1.Visible = False";
 mostCurrent._lbllabelpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 105;BA.debugLine="lblLabelPaso2.Visible = True";
@@ -582,7 +582,7 @@ mostCurrent._imgpersonasana.setVisible(anywheresoftware.b4a.keywords.Common.Fals
 mostCurrent._lbldescripcionpaso.setText(BA.ObjectToCharSequence("El mosquito sano pica a una persona infectada e incorpora el virus"));
  }else if((_mvalue>=25 && _mvalue<50)) { 
  //BA.debugLineNum = 119;BA.debugLine="RoundSlider_Custom1.ThumbColor = Colors.ARGB(255";
-mostCurrent._roundslider_custom1._thumbcolor /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (241),(int) (65),(int) (77));
+mostCurrent._roundslider_custom1._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (241),(int) (65),(int) (77));
  //BA.debugLineNum = 123;BA.debugLine="lblLabelPaso1.Visible = False";
 mostCurrent._lbllabelpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 124;BA.debugLine="lblLabelPaso2.Visible = False";
@@ -611,7 +611,7 @@ mostCurrent._imgpersonasana.setVisible(anywheresoftware.b4a.keywords.Common.Fals
 mostCurrent._lbldescripcionpaso.setText(BA.ObjectToCharSequence("Luego de un tiempo de incubación, el virus puede ser transmitido a otra persona, si lo pica un mosquito infectado."));
  }else if((_mvalue>=50 && _mvalue<62.5)) { 
  //BA.debugLineNum = 137;BA.debugLine="RoundSlider_Custom1.ThumbColor = Colors.ARGB(255";
-mostCurrent._roundslider_custom1._thumbcolor /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (94),(int) (195),(int) (165));
+mostCurrent._roundslider_custom1._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (94),(int) (195),(int) (165));
  //BA.debugLineNum = 141;BA.debugLine="lblLabelPaso1.Visible = False";
 mostCurrent._lbllabelpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 142;BA.debugLine="lblLabelPaso2.Visible = False";
@@ -640,7 +640,7 @@ mostCurrent._imgpersonasana.setVisible(anywheresoftware.b4a.keywords.Common.True
 mostCurrent._lbldescripcionpaso.setText(BA.ObjectToCharSequence("El mosquito infectado puede seguir transmitiendo el virus a otras personas, y la persona infectada servir como fuente de virus para otros mosquitos"));
  }else if((_mvalue>=62.5 && _mvalue<75)) { 
  //BA.debugLineNum = 155;BA.debugLine="RoundSlider_Custom1.ThumbColor =  Colors.ARGB(25";
-mostCurrent._roundslider_custom1._thumbcolor /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (241),(int) (65),(int) (77));
+mostCurrent._roundslider_custom1._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (241),(int) (65),(int) (77));
  //BA.debugLineNum = 159;BA.debugLine="lblLabelPaso1.Visible = False";
 mostCurrent._lbllabelpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 160;BA.debugLine="lblLabelPaso2.Visible = False";
@@ -669,7 +669,7 @@ mostCurrent._imgpersonasana.setVisible(anywheresoftware.b4a.keywords.Common.Fals
 mostCurrent._lbldescripcionpaso.setText(BA.ObjectToCharSequence("El mosquito infectado puede seguir transmitiendo el virus a otras personas, y la persona infectada servir como fuente de virus para otros mosquitos"));
  }else if((_mvalue>=87.5)) { 
  //BA.debugLineNum = 174;BA.debugLine="RoundSlider_Custom1.ThumbColor = Colors.ARGB(255";
-mostCurrent._roundslider_custom1._thumbcolor /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (94),(int) (195),(int) (165));
+mostCurrent._roundslider_custom1._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*int*/  = anywheresoftware.b4a.keywords.Common.Colors.ARGB((int) (255),(int) (94),(int) (195),(int) (165));
  //BA.debugLineNum = 178;BA.debugLine="lblLabelPaso1.Visible = False";
 mostCurrent._lbllabelpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 179;BA.debugLine="lblLabelPaso2.Visible = False";
@@ -703,16 +703,16 @@ return "";
 public static String  _timer1_tick() throws Exception{
  //BA.debugLineNum = 56;BA.debugLine="Sub Timer1_Tick";
  //BA.debugLineNum = 57;BA.debugLine="If RoundSlider_Custom1.Value < 100 Then";
-if (mostCurrent._roundslider_custom1._getvalue /*int*/ ()<100) { 
+if (mostCurrent._roundslider_custom1._getvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*int*/ ()<100) { 
  //BA.debugLineNum = 58;BA.debugLine="RoundSlider_Custom1.Value = RoundSlider_Custom1.";
-mostCurrent._roundslider_custom1._setvalue /*int*/ ((int) (mostCurrent._roundslider_custom1._getvalue /*int*/ ()+1));
+mostCurrent._roundslider_custom1._setvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*int*/ ((int) (mostCurrent._roundslider_custom1._getvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*int*/ ()+1));
  //BA.debugLineNum = 59;BA.debugLine="RoundSlider_Update(RoundSlider_Custom1.Value)";
-_roundslider_update(mostCurrent._roundslider_custom1._getvalue /*int*/ ());
+_roundslider_update(mostCurrent._roundslider_custom1._getvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*int*/ ());
  }else {
  //BA.debugLineNum = 61;BA.debugLine="RoundSlider_Custom1.Value = 0";
-mostCurrent._roundslider_custom1._setvalue /*int*/ ((int) (0));
+mostCurrent._roundslider_custom1._setvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*int*/ ((int) (0));
  //BA.debugLineNum = 62;BA.debugLine="RoundSlider_Update(RoundSlider_Custom1.Value)";
-_roundslider_update(mostCurrent._roundslider_custom1._getvalue /*int*/ ());
+_roundslider_update(mostCurrent._roundslider_custom1._getvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*int*/ ());
  };
  //BA.debugLineNum = 65;BA.debugLine="End Sub";
 return "";

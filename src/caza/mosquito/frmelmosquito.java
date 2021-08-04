@@ -336,8 +336,8 @@ public class frmelmosquito extends Activity implements B4AActivity{
     }
 
 public anywheresoftware.b4a.keywords.Common __c = null;
-public static anywheresoftware.b4a.objects.Timer _timeranimacion = null;
-public static anywheresoftware.b4a.objects.Timer _timeranimacionentrada = null;
+public static anywheresoftware.b4a.objects.Timer _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = null;
+public static anywheresoftware.b4a.objects.Timer _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _butcolor = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _butpatas = null;
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgmosquito = null;
@@ -367,39 +367,39 @@ public anywheresoftware.b4a.objects.ButtonWrapper _butpaso1 = null;
 public anywheresoftware.b4a.objects.PanelWrapper _panelpopups_2 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblestadio = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _but_cerrar = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 
 public static void initializeProcessGlobals() {
              try {
@@ -413,7 +413,7 @@ public static String  _activity_create(boolean _firsttime) throws Exception{
  //BA.debugLineNum = 59;BA.debugLine="Activity.LoadLayout(\"lay_mosquito_Main\")";
 mostCurrent._activity.LoadLayout("lay_mosquito_Main",mostCurrent.activityBA);
  //BA.debugLineNum = 61;BA.debugLine="utilidades.ResetUserFontScale(Activity)";
-mostCurrent._utilidades._resetuserfontscale /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv0 /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
  //BA.debugLineNum = 62;BA.debugLine="End Sub";
 return "";
 }
@@ -564,7 +564,7 @@ mostCurrent._activity.RemoveAllViews();
  //BA.debugLineNum = 126;BA.debugLine="Activity.LoadLayout(\"lay_mosquito_Ciclo\")";
 mostCurrent._activity.LoadLayout("lay_mosquito_Ciclo",mostCurrent.activityBA);
  //BA.debugLineNum = 128;BA.debugLine="utilidades.CreateHaloEffect(Activity, butPaso1, C";
-mostCurrent._utilidades._createhaloeffect /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso1,anywheresoftware.b4a.keywords.Common.Colors.Red);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv3 /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso1,anywheresoftware.b4a.keywords.Common.Colors.Red);
  //BA.debugLineNum = 130;BA.debugLine="End Sub";
 return "";
 }
@@ -581,9 +581,9 @@ mostCurrent._scrollextramosquito.getPanel().setWidth(anywheresoftware.b4a.keywor
  //BA.debugLineNum = 78;BA.debugLine="scrollExtraMosquito.FullScroll(True)";
 mostCurrent._scrollextramosquito.FullScroll(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 79;BA.debugLine="utilidades.CreateHaloEffect(Activity, butPatas, C";
-mostCurrent._utilidades._createhaloeffect /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpatas,anywheresoftware.b4a.keywords.Common.Colors.Yellow);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv3 /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpatas,anywheresoftware.b4a.keywords.Common.Colors.Yellow);
  //BA.debugLineNum = 80;BA.debugLine="utilidades.CreateHaloEffect(Activity, butColor, C";
-mostCurrent._utilidades._createhaloeffect /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butcolor,anywheresoftware.b4a.keywords.Common.Colors.Yellow);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv3 /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butcolor,anywheresoftware.b4a.keywords.Common.Colors.Yellow);
  //BA.debugLineNum = 81;BA.debugLine="End Sub";
 return "";
 }
@@ -648,9 +648,9 @@ if (mostCurrent._imgmosquito.getVisible()==anywheresoftware.b4a.keywords.Common.
  //BA.debugLineNum = 134;BA.debugLine="lblPaso4.Visible = False";
 mostCurrent._lblpaso4.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 135;BA.debugLine="TimerAnimacion.Initialize(\"TimerAnimacion\", 10)";
-_timeranimacion.Initialize(processBA,"TimerAnimacion",(long) (10));
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5.Initialize(processBA,"TimerAnimacion",(long) (10));
  //BA.debugLineNum = 136;BA.debugLine="TimerAnimacion.Enabled = True";
-_timeranimacion.setEnabled(anywheresoftware.b4a.keywords.Common.True);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5.setEnabled(anywheresoftware.b4a.keywords.Common.True);
  }else {
  //BA.debugLineNum = 138;BA.debugLine="imgMosquito1.Left = -60dip";
 mostCurrent._imgmosquito1.setLeft((int) (-anywheresoftware.b4a.keywords.Common.DipToCurrent((int) (60))));
@@ -659,9 +659,9 @@ mostCurrent._imgmosquito1.setTop(anywheresoftware.b4a.keywords.Common.DipToCurre
  //BA.debugLineNum = 140;BA.debugLine="imgMosquito1.Visible = True";
 mostCurrent._imgmosquito1.setVisible(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 141;BA.debugLine="TimerAnimacionEntrada.Initialize(\"TimerAnimacion";
-_timeranimacionentrada.Initialize(processBA,"TimerAnimacion_Entrada",(long) (10));
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.Initialize(processBA,"TimerAnimacion_Entrada",(long) (10));
  //BA.debugLineNum = 142;BA.debugLine="TimerAnimacionEntrada.Enabled = True";
-_timeranimacionentrada.setEnabled(anywheresoftware.b4a.keywords.Common.True);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.setEnabled(anywheresoftware.b4a.keywords.Common.True);
  };
  //BA.debugLineNum = 149;BA.debugLine="End Sub";
 return "";
@@ -699,7 +699,7 @@ mostCurrent._imghuevos.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 165;BA.debugLine="lblEstadio.Text = \"Larva\"";
 mostCurrent._lblestadio.setText(BA.ObjectToCharSequence("Larva"));
  //BA.debugLineNum = 166;BA.debugLine="utilidades.CreateHaloEffect(Activity, butPaso3, C";
-mostCurrent._utilidades._createhaloeffect /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso3,anywheresoftware.b4a.keywords.Common.Colors.Red);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv3 /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso3,anywheresoftware.b4a.keywords.Common.Colors.Red);
  //BA.debugLineNum = 168;BA.debugLine="End Sub";
 return "";
 }
@@ -736,7 +736,7 @@ mostCurrent._imghuevos.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 184;BA.debugLine="lblEstadio.Text = \"Pupa\"";
 mostCurrent._lblestadio.setText(BA.ObjectToCharSequence("Pupa"));
  //BA.debugLineNum = 185;BA.debugLine="utilidades.CreateHaloEffect(Activity, butPaso4, C";
-mostCurrent._utilidades._createhaloeffect /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso4,anywheresoftware.b4a.keywords.Common.Colors.Red);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv3 /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso4,anywheresoftware.b4a.keywords.Common.Colors.Red);
  //BA.debugLineNum = 186;BA.debugLine="End Sub";
 return "";
 }
@@ -779,7 +779,7 @@ mostCurrent._imghuevos.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 205;BA.debugLine="lblEstadio.Text = \"Mosquito\"";
 mostCurrent._lblestadio.setText(BA.ObjectToCharSequence("Mosquito"));
  //BA.debugLineNum = 206;BA.debugLine="utilidades.CreateHaloEffect(Activity, butPaso1, C";
-mostCurrent._utilidades._createhaloeffect /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso1,anywheresoftware.b4a.keywords.Common.Colors.Red);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv3 /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso1,anywheresoftware.b4a.keywords.Common.Colors.Red);
  //BA.debugLineNum = 207;BA.debugLine="End Sub";
 return "";
 }
@@ -963,9 +963,9 @@ return "";
 public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 6;BA.debugLine="Sub Process_Globals";
  //BA.debugLineNum = 9;BA.debugLine="Private TimerAnimacion As Timer";
-_timeranimacion = new anywheresoftware.b4a.objects.Timer();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = new anywheresoftware.b4a.objects.Timer();
  //BA.debugLineNum = 10;BA.debugLine="Private TimerAnimacionEntrada As Timer";
-_timeranimacionentrada = new anywheresoftware.b4a.objects.Timer();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = new anywheresoftware.b4a.objects.Timer();
  //BA.debugLineNum = 11;BA.debugLine="End Sub";
 return "";
 }
@@ -979,7 +979,7 @@ mostCurrent._imgmosquito1.setLeft((int) (mostCurrent._imgmosquito1.getLeft()+20)
 mostCurrent._imgmosquito1.setTop((int) (mostCurrent._imgmosquito1.getTop()+20));
  }else {
  //BA.debugLineNum = 359;BA.debugLine="TimerAnimacionEntrada.Enabled = False";
-_timeranimacionentrada.setEnabled(anywheresoftware.b4a.keywords.Common.False);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.setEnabled(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 364;BA.debugLine="butPaso1.Visible = False";
 mostCurrent._butpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 365;BA.debugLine="butPaso2.Visible = True";
@@ -1015,7 +1015,7 @@ mostCurrent._lblestadio.setVisible(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 380;BA.debugLine="lblEstadio.Text = \"Huevo\"";
 mostCurrent._lblestadio.setText(BA.ObjectToCharSequence("Huevo"));
  //BA.debugLineNum = 381;BA.debugLine="utilidades.CreateHaloEffect(Activity, butPaso2,";
-mostCurrent._utilidades._createhaloeffect /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso2,anywheresoftware.b4a.keywords.Common.Colors.Red);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv3 /*void*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.B4XViewWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.B4XViewWrapper(), (java.lang.Object)(mostCurrent._activity.getObject())),mostCurrent._butpaso2,anywheresoftware.b4a.keywords.Common.Colors.Red);
  };
  //BA.debugLineNum = 384;BA.debugLine="End Sub";
 return "";
@@ -1030,7 +1030,7 @@ mostCurrent._imgmosquito.setLeft((int) (mostCurrent._imgmosquito.getLeft()-15));
 mostCurrent._imgmosquito.setTop((int) (mostCurrent._imgmosquito.getTop()-15));
  }else {
  //BA.debugLineNum = 341;BA.debugLine="TimerAnimacion.Enabled = False";
-_timeranimacion.setEnabled(anywheresoftware.b4a.keywords.Common.False);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5.setEnabled(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 343;BA.debugLine="butPaso1.Visible = False";
 mostCurrent._butpaso1.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 344;BA.debugLine="imgMosquito1.Left = -60dip";
@@ -1040,9 +1040,9 @@ mostCurrent._imgmosquito1.setTop(anywheresoftware.b4a.keywords.Common.DipToCurre
  //BA.debugLineNum = 346;BA.debugLine="imgMosquito1.Visible = True";
 mostCurrent._imgmosquito1.setVisible(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 347;BA.debugLine="TimerAnimacionEntrada.Initialize(\"TimerAnimacion";
-_timeranimacionentrada.Initialize(processBA,"TimerAnimacion_Entrada",(long) (10));
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.Initialize(processBA,"TimerAnimacion_Entrada",(long) (10));
  //BA.debugLineNum = 348;BA.debugLine="TimerAnimacionEntrada.Enabled = True";
-_timeranimacionentrada.setEnabled(anywheresoftware.b4a.keywords.Common.True);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.setEnabled(anywheresoftware.b4a.keywords.Common.True);
  };
  //BA.debugLineNum = 351;BA.debugLine="End Sub";
 return "";

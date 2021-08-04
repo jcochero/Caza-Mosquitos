@@ -336,60 +336,60 @@ public class frmabout extends Activity implements B4AActivity{
     }
 
 public anywheresoftware.b4a.keywords.Common __c = null;
-public anywheresoftware.b4a.phone.Phone.PhoneIntents _p = null;
+public anywheresoftware.b4a.phone.Phone.PhoneIntents _vvvvvvv6 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblversion = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblwebsite = null;
-public anywheresoftware.b4a.objects.ImageViewWrapper _fcbicon = null;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = null;
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgcc = null;
-public anywheresoftware.b4a.objects.ImageViewWrapper _imglogo3 = null;
-public anywheresoftware.b4a.objects.ImageViewWrapper _imglogo1 = null;
-public anywheresoftware.b4a.objects.ImageViewWrapper _imglogo4 = null;
-public anywheresoftware.b4a.objects.ImageViewWrapper _imglogo2 = null;
-public anywheresoftware.b4a.objects.ImageViewWrapper _imglogo6 = null;
-public anywheresoftware.b4a.objects.ImageViewWrapper _imglogo5 = null;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = null;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = null;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = null;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = null;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = null;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = null;
 public anywheresoftware.b4a.objects.TabStripViewPager _tabstripmain = null;
 public anywheresoftware.b4a.objects.LabelWrapper _label2 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblteam = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lbllicencia = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblmaintext = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblcolaboran = null;
-public anywheresoftware.b4a.objects.LabelWrapper _lblcereve = null;
-public anywheresoftware.b4a.objects.LabelWrapper _lblfinancian = null;
-public anywheresoftware.b4a.objects.LabelWrapper _lbloms = null;
+public anywheresoftware.b4a.objects.LabelWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = null;
+public anywheresoftware.b4a.objects.LabelWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = null;
+public anywheresoftware.b4a.objects.LabelWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = null;
 public anywheresoftware.b4a.objects.ScrollViewWrapper _scrollview1 = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 
 public static void initializeProcessGlobals() {
              try {
@@ -403,12 +403,12 @@ public static String  _activity_create(boolean _firsttime) throws Exception{
  //BA.debugLineNum = 50;BA.debugLine="Activity.LoadLayout(\"layAbout_Panels\")";
 mostCurrent._activity.LoadLayout("layAbout_Panels",mostCurrent.activityBA);
  //BA.debugLineNum = 51;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 52;BA.debugLine="tabStripMain.LoadLayout(\"layAbout_Project\", \"El";
 mostCurrent._tabstripmain.LoadLayout("layAbout_Project",BA.ObjectToCharSequence("El Proyecto"));
  //BA.debugLineNum = 53;BA.debugLine="tabStripMain.LoadLayout(\"layAbout_People\", \"El e";
 mostCurrent._tabstripmain.LoadLayout("layAbout_People",BA.ObjectToCharSequence("El equipo"));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 57;BA.debugLine="tabStripMain.LoadLayout(\"layAbout_Project\", \"The";
 mostCurrent._tabstripmain.LoadLayout("layAbout_Project",BA.ObjectToCharSequence("The project"));
  //BA.debugLineNum = 58;BA.debugLine="tabStripMain.LoadLayout(\"layAbout_People\", \"The";
@@ -421,7 +421,7 @@ mostCurrent._lblmaintext.RemoveView();
  //BA.debugLineNum = 65;BA.debugLine="ScrollView1.Panel.AddView(lblMainText, 0, 0, 90%x";
 mostCurrent._scrollview1.getPanel().AddView((android.view.View)(mostCurrent._lblmaintext.getObject()),(int) (0),(int) (0),anywheresoftware.b4a.keywords.Common.PerXToCurrent((float) (90),mostCurrent.activityBA),anywheresoftware.b4a.keywords.Common.PerYToCurrent((float) (100),mostCurrent.activityBA));
  //BA.debugLineNum = 67;BA.debugLine="utilidades.ResetUserFontScale(Activity)";
-mostCurrent._utilidades._resetuserfontscale /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv0 /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
  //BA.debugLineNum = 68;BA.debugLine="End Sub";
 return "";
 }
@@ -459,34 +459,34 @@ return "";
 public static String  _fcbicon_click() throws Exception{
  //BA.debugLineNum = 109;BA.debugLine="Sub fcbIcon_Click";
  //BA.debugLineNum = 110;BA.debugLine="StartActivity(p.OpenBrowser(\"https://www.facebook";
-anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._p.OpenBrowser("https://www.facebook.com/cazamosquitos/")));
+anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._vvvvvvv6.OpenBrowser("https://www.facebook.com/cazamosquitos/")));
  //BA.debugLineNum = 111;BA.debugLine="End Sub";
 return "";
 }
 public static String  _globals() throws Exception{
  //BA.debugLineNum = 12;BA.debugLine="Sub Globals";
  //BA.debugLineNum = 16;BA.debugLine="Dim p As PhoneIntents";
-mostCurrent._p = new anywheresoftware.b4a.phone.Phone.PhoneIntents();
+mostCurrent._vvvvvvv6 = new anywheresoftware.b4a.phone.Phone.PhoneIntents();
  //BA.debugLineNum = 17;BA.debugLine="Private lblVersion As Label";
 mostCurrent._lblversion = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 19;BA.debugLine="Private lblWebSite As Label";
 mostCurrent._lblwebsite = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 20;BA.debugLine="Private fcbIcon As ImageView";
-mostCurrent._fcbicon = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 21;BA.debugLine="Private imgCC As ImageView";
 mostCurrent._imgcc = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 22;BA.debugLine="Private imgLogo3 As ImageView";
-mostCurrent._imglogo3 = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 23;BA.debugLine="Private imgLogo1 As ImageView";
-mostCurrent._imglogo1 = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 24;BA.debugLine="Private imgLogo4 As ImageView";
-mostCurrent._imglogo4 = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 25;BA.debugLine="Private imgLogo2 As ImageView";
-mostCurrent._imglogo2 = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 26;BA.debugLine="Private imgLogo6 As ImageView";
-mostCurrent._imglogo6 = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 27;BA.debugLine="Private imgLogo5 As ImageView";
-mostCurrent._imglogo5 = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 28;BA.debugLine="Private lblVersion As Label";
 mostCurrent._lblversion = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 33;BA.debugLine="Private tabStripMain As TabStrip";
@@ -502,11 +502,11 @@ mostCurrent._lblmaintext = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 42;BA.debugLine="Private lblColaboran As Label";
 mostCurrent._lblcolaboran = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 43;BA.debugLine="Private lblCeReVe As Label";
-mostCurrent._lblcereve = new anywheresoftware.b4a.objects.LabelWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 44;BA.debugLine="Private lblFinancian As Label";
-mostCurrent._lblfinancian = new anywheresoftware.b4a.objects.LabelWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 45;BA.debugLine="Private lblOMS As Label";
-mostCurrent._lbloms = new anywheresoftware.b4a.objects.LabelWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 46;BA.debugLine="Private ScrollView1 As ScrollView";
 mostCurrent._scrollview1 = new anywheresoftware.b4a.objects.ScrollViewWrapper();
  //BA.debugLineNum = 47;BA.debugLine="End Sub";
@@ -515,14 +515,14 @@ return "";
 public static String  _imgcc_click() throws Exception{
  //BA.debugLineNum = 117;BA.debugLine="Sub imgCC_Click";
  //BA.debugLineNum = 118;BA.debugLine="StartActivity(p.OpenBrowser(\"https://creativecomm";
-anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._p.OpenBrowser("https://creativecommons.org/licenses/by-nc/2.5/ar/")));
+anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._vvvvvvv6.OpenBrowser("https://creativecommons.org/licenses/by-nc/2.5/ar/")));
  //BA.debugLineNum = 119;BA.debugLine="End Sub";
 return "";
 }
 public static String  _lblwebsite_click() throws Exception{
  //BA.debugLineNum = 113;BA.debugLine="Sub lblWebSite_Click";
  //BA.debugLineNum = 114;BA.debugLine="StartActivity(p.OpenBrowser(\"http://www.geovin.co";
-anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._p.OpenBrowser("http://www.geovin.com.ar")));
+anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._vvvvvvv6.OpenBrowser("http://www.geovin.com.ar")));
  //BA.debugLineNum = 115;BA.debugLine="End Sub";
 return "";
 }
@@ -531,17 +531,17 @@ public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 10;BA.debugLine="End Sub";
 return "";
 }
-public static String  _translategui() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3() throws Exception{
  //BA.debugLineNum = 85;BA.debugLine="Sub TranslateGUI";
  //BA.debugLineNum = 86;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 87;BA.debugLine="lblTeam.Text = \"El equipo Caza Mosquitos\"";
 mostCurrent._lblteam.setText(BA.ObjectToCharSequence("El equipo Caza Mosquitos"));
  //BA.debugLineNum = 88;BA.debugLine="lblLicencia.Text = \"Todos los datos enviados por";
 mostCurrent._lbllicencia.setText(BA.ObjectToCharSequence("Todos los datos enviados por los usuarios, a excepción de sus datos personales, serán compartidos bajo la licencia CC-BY-NC"));
  //BA.debugLineNum = 89;BA.debugLine="lblMainText.Text = \"Caza Mosquitos es una aplica";
 mostCurrent._lblmaintext.setText(BA.ObjectToCharSequence("Caza Mosquitos es una aplicación pública y gratuita, con el fin de orientar a todo tipo de usuarios en la identificación de posibles mosquitos que encuentren y que puedan implicar un riesgo epidemiológico."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 93;BA.debugLine="lblTeam.Text = \"Caza Mosquitos Team\"";
 mostCurrent._lblteam.setText(BA.ObjectToCharSequence("Caza Mosquitos Team"));
  //BA.debugLineNum = 94;BA.debugLine="lblLicencia.Text = \"All data sent by users, exce";

@@ -336,68 +336,68 @@ public class frmcamara extends Activity implements B4AActivity{
     }
 
 public anywheresoftware.b4a.keywords.Common __c = null;
-public static boolean _adjuntandofoto = false;
-public static anywheresoftware.b4h.okhttp.OkHttpClientWrapper _hc = null;
-public static anywheresoftware.b4a.objects.streams.File.OutputStreamWrapper _out = null;
-public static boolean _frontcamera = false;
-public static anywheresoftware.b4a.phone.Phone.ContentChooser _cc = null;
-public static com.spinter.uploadfilephp.UploadFilePhp _up1 = null;
-public static com.spinter.uploadfilephp.UploadFilePhp _up2 = null;
-public static com.spinter.uploadfilephp.UploadFilePhp _up3 = null;
-public static com.spinter.uploadfilephp.UploadFilePhp _up4 = null;
-public static String _currentfoto = "";
+public static boolean _vvvvv0 = false;
+public static anywheresoftware.b4h.okhttp.OkHttpClientWrapper _vvvvvv1 = null;
+public static anywheresoftware.b4a.objects.streams.File.OutputStreamWrapper _vvvvvv2 = null;
+public static boolean _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = false;
+public static anywheresoftware.b4a.phone.Phone.ContentChooser _vvvvvv3 = null;
+public static com.spinter.uploadfilephp.UploadFilePhp _vvvvvv4 = null;
+public static com.spinter.uploadfilephp.UploadFilePhp _vvvvvv5 = null;
+public static com.spinter.uploadfilephp.UploadFilePhp _vvvvvv6 = null;
+public static com.spinter.uploadfilephp.UploadFilePhp _vvvvvv7 = null;
+public static String _vvvvvv0 = "";
 public anywheresoftware.b4a.objects.PanelWrapper _panel1 = null;
-public caza.mosquito.cameraexclass _camex = null;
+public caza.mosquito.cameraexclass _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _btntakepicture = null;
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgflash = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _btnadjuntarfoto = null;
 public anywheresoftware.b4a.objects.LabelWrapper _imgmenu = null;
 public anywheresoftware.b4a.objects.SeekBarWrapper _seekfocus = null;
-public static String _foto1 = "";
-public static String _foto2 = "";
-public static String _foto3 = "";
-public static String _foto4 = "";
-public static String _fotonombredestino = "";
+public static String _vvvvvvv0 = "";
+public static String _vvvvvvvv1 = "";
+public static String _vvvvvvvv2 = "";
+public static String _vvvvvvvv3 = "";
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = "";
 public anywheresoftware.b4a.objects.LabelWrapper _lbltemplate = null;
 public anywheresoftware.b4a.objects.ImageViewWrapper _imgtemplate = null;
-public static String _newfilename = "";
-public static int _fotonumlibre = 0;
-public anywheresoftware.b4a.objects.ImageViewWrapper _imgfotofinal = null;
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = "";
+public static int _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = 0;
+public anywheresoftware.b4a.objects.ImageViewWrapper _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _btnnofoto = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _btnyesfoto = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 
 public static void initializeProcessGlobals() {
              try {
@@ -411,7 +411,7 @@ public static String  _activity_create(boolean _firsttime) throws Exception{
  //BA.debugLineNum = 57;BA.debugLine="Activity.LoadLayout(\"layCamera\")";
 mostCurrent._activity.LoadLayout("layCamera",mostCurrent.activityBA);
  //BA.debugLineNum = 58;BA.debugLine="utilidades.ResetUserFontScale(Activity)";
-mostCurrent._utilidades._resetuserfontscale /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv0 /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
  //BA.debugLineNum = 60;BA.debugLine="If File.ExternalWritable Then";
 if (anywheresoftware.b4a.keywords.Common.File.getExternalWritable()) { 
  //BA.debugLineNum = 61;BA.debugLine="If File.IsDirectory(File.DirRootExternal,\"CazaMo";
@@ -427,43 +427,43 @@ anywheresoftware.b4a.keywords.Common.File.MakeDir(anywheresoftware.b4a.keywords.
  };
  };
  //BA.debugLineNum = 71;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 72;BA.debugLine="Activity.AddMenuItem(\"Consejos para sacar fotos\"";
 mostCurrent._activity.AddMenuItem(BA.ObjectToCharSequence("Consejos para sacar fotos"),"mnuConsejos");
  //BA.debugLineNum = 73;BA.debugLine="Activity.AddMenuItem(\"Adjuntar foto\", \"mnuAdjunt";
 mostCurrent._activity.AddMenuItem(BA.ObjectToCharSequence("Adjuntar foto"),"mnuAdjuntar");
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 75;BA.debugLine="Activity.AddMenuItem(\"How to take better photos\"";
 mostCurrent._activity.AddMenuItem(BA.ObjectToCharSequence("How to take better photos"),"mnuConsejos");
  //BA.debugLineNum = 76;BA.debugLine="Activity.AddMenuItem(\"Attach photo\", \"mnuAdjunta";
 mostCurrent._activity.AddMenuItem(BA.ObjectToCharSequence("Attach photo"),"mnuAdjuntar");
  };
  //BA.debugLineNum = 81;BA.debugLine="If hc.IsInitialized = False Then";
-if (_hc.IsInitialized()==anywheresoftware.b4a.keywords.Common.False) { 
+if (_vvvvvv1.IsInitialized()==anywheresoftware.b4a.keywords.Common.False) { 
  //BA.debugLineNum = 82;BA.debugLine="hc.Initialize(\"hc\")";
-_hc.Initialize("hc");
+_vvvvvv1.Initialize("hc");
  };
  //BA.debugLineNum = 85;BA.debugLine="If FirstTime Then";
 if (_firsttime) { 
  //BA.debugLineNum = 86;BA.debugLine="Up1.B4A_log=True";
-_up1.B4A_log = anywheresoftware.b4a.keywords.Common.True;
+_vvvvvv4.B4A_log = anywheresoftware.b4a.keywords.Common.True;
  //BA.debugLineNum = 87;BA.debugLine="Up2.B4A_log=True";
-_up2.B4A_log = anywheresoftware.b4a.keywords.Common.True;
+_vvvvvv5.B4A_log = anywheresoftware.b4a.keywords.Common.True;
  //BA.debugLineNum = 88;BA.debugLine="Up3.B4A_log=True";
-_up3.B4A_log = anywheresoftware.b4a.keywords.Common.True;
+_vvvvvv6.B4A_log = anywheresoftware.b4a.keywords.Common.True;
  //BA.debugLineNum = 89;BA.debugLine="Up4.B4A_log=True";
-_up4.B4A_log = anywheresoftware.b4a.keywords.Common.True;
+_vvvvvv7.B4A_log = anywheresoftware.b4a.keywords.Common.True;
  //BA.debugLineNum = 90;BA.debugLine="Up1.Initialize(\"Up1\")";
-_up1.Initialize(processBA,"Up1");
+_vvvvvv4.Initialize(processBA,"Up1");
  //BA.debugLineNum = 91;BA.debugLine="Up2.Initialize(\"Up1\")";
-_up2.Initialize(processBA,"Up1");
+_vvvvvv5.Initialize(processBA,"Up1");
  //BA.debugLineNum = 92;BA.debugLine="Up3.Initialize(\"Up1\")";
-_up3.Initialize(processBA,"Up1");
+_vvvvvv6.Initialize(processBA,"Up1");
  //BA.debugLineNum = 93;BA.debugLine="Up4.Initialize(\"Up1\")";
-_up4.Initialize(processBA,"Up1");
+_vvvvvv7.Initialize(processBA,"Up1");
  };
  //BA.debugLineNum = 96;BA.debugLine="adjuntandoFoto = False";
-_adjuntandofoto = anywheresoftware.b4a.keywords.Common.False;
+_vvvvv0 = anywheresoftware.b4a.keywords.Common.False;
  //BA.debugLineNum = 98;BA.debugLine="End Sub";
 return "";
 }
@@ -472,48 +472,48 @@ public static boolean  _activity_keypress(int _keycode) throws Exception{
  //BA.debugLineNum = 107;BA.debugLine="If KeyCode = KeyCodes.KEYCODE_BACK Then";
 if (_keycode==anywheresoftware.b4a.keywords.Common.KeyCodes.KEYCODE_BACK) { 
  //BA.debugLineNum = 108;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 109;BA.debugLine="If Msgbox2(\"Salir de la cámara?\", \"SALIR\", \"Si\"";
 if (anywheresoftware.b4a.keywords.Common.Msgbox2(BA.ObjectToCharSequence("Salir de la cámara?"),BA.ObjectToCharSequence("SALIR"),"Si","","No",(android.graphics.Bitmap)(anywheresoftware.b4a.keywords.Common.Null),mostCurrent.activityBA)==anywheresoftware.b4a.keywords.Common.DialogResponse.POSITIVE) { 
  //BA.debugLineNum = 110;BA.debugLine="camEx.StopPreview";
-mostCurrent._camex._stoppreview /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvv3 /*String*/ ();
  //BA.debugLineNum = 111;BA.debugLine="camEx.Release";
-mostCurrent._camex._release /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 112;BA.debugLine="Activity.finish";
 mostCurrent._activity.Finish();
  //BA.debugLineNum = 113;BA.debugLine="Activity.RemoveAllViews";
 mostCurrent._activity.RemoveAllViews();
  //BA.debugLineNum = 114;BA.debugLine="Up1.UploadKill";
-_up1.UploadKill(processBA);
+_vvvvvv4.UploadKill(processBA);
  //BA.debugLineNum = 115;BA.debugLine="Up2.UploadKill";
-_up2.UploadKill(processBA);
+_vvvvvv5.UploadKill(processBA);
  //BA.debugLineNum = 116;BA.debugLine="Up3.UploadKill";
-_up3.UploadKill(processBA);
+_vvvvvv6.UploadKill(processBA);
  //BA.debugLineNum = 117;BA.debugLine="Up4.UploadKill";
-_up4.UploadKill(processBA);
+_vvvvvv7.UploadKill(processBA);
  }else {
  //BA.debugLineNum = 119;BA.debugLine="Return True";
 if (true) return anywheresoftware.b4a.keywords.Common.True;
  };
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 122;BA.debugLine="If Msgbox2(\"Exit the camera?\", \"Leave\", \"Yes\",";
 if (anywheresoftware.b4a.keywords.Common.Msgbox2(BA.ObjectToCharSequence("Exit the camera?"),BA.ObjectToCharSequence("Leave"),"Yes","","No",(android.graphics.Bitmap)(anywheresoftware.b4a.keywords.Common.Null),mostCurrent.activityBA)==anywheresoftware.b4a.keywords.Common.DialogResponse.POSITIVE) { 
  //BA.debugLineNum = 123;BA.debugLine="camEx.StopPreview";
-mostCurrent._camex._stoppreview /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvv3 /*String*/ ();
  //BA.debugLineNum = 124;BA.debugLine="camEx.Release";
-mostCurrent._camex._release /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 125;BA.debugLine="Activity.finish";
 mostCurrent._activity.Finish();
  //BA.debugLineNum = 126;BA.debugLine="Activity.RemoveAllViews";
 mostCurrent._activity.RemoveAllViews();
  //BA.debugLineNum = 127;BA.debugLine="Up1.UploadKill";
-_up1.UploadKill(processBA);
+_vvvvvv4.UploadKill(processBA);
  //BA.debugLineNum = 128;BA.debugLine="Up2.UploadKill";
-_up2.UploadKill(processBA);
+_vvvvvv5.UploadKill(processBA);
  //BA.debugLineNum = 129;BA.debugLine="Up3.UploadKill";
-_up3.UploadKill(processBA);
+_vvvvvv6.UploadKill(processBA);
  //BA.debugLineNum = 130;BA.debugLine="Up4.UploadKill";
-_up4.UploadKill(processBA);
+_vvvvvv7.UploadKill(processBA);
  }else {
  //BA.debugLineNum = 132;BA.debugLine="Return True";
 if (true) return anywheresoftware.b4a.keywords.Common.True;
@@ -526,9 +526,9 @@ return false;
 public static String  _activity_pause(boolean _userclosed) throws Exception{
  //BA.debugLineNum = 140;BA.debugLine="Sub Activity_Pause (UserClosed As Boolean)";
  //BA.debugLineNum = 141;BA.debugLine="If camEx.IsInitialized = True Then";
-if (mostCurrent._camex.IsInitialized /*boolean*/ ()==anywheresoftware.b4a.keywords.Common.True) { 
+if (mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7.IsInitialized /*boolean*/ ()==anywheresoftware.b4a.keywords.Common.True) { 
  //BA.debugLineNum = 142;BA.debugLine="camEx.Release";
-mostCurrent._camex._release /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  };
  //BA.debugLineNum = 145;BA.debugLine="End Sub";
 return "";
@@ -536,11 +536,11 @@ return "";
 public static String  _activity_resume() throws Exception{
  //BA.debugLineNum = 99;BA.debugLine="Sub Activity_Resume";
  //BA.debugLineNum = 100;BA.debugLine="If adjuntandoFoto = False Then";
-if (_adjuntandofoto==anywheresoftware.b4a.keywords.Common.False) { 
+if (_vvvvv0==anywheresoftware.b4a.keywords.Common.False) { 
  //BA.debugLineNum = 101;BA.debugLine="InitializeCamera";
-_initializecamera();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0();
  //BA.debugLineNum = 102;BA.debugLine="DesignaFoto";
-_designafoto();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1();
  };
  //BA.debugLineNum = 105;BA.debugLine="End Sub";
 return "";
@@ -548,22 +548,22 @@ return "";
 public static String  _btnadjuntarfoto_click() throws Exception{
  //BA.debugLineNum = 445;BA.debugLine="Sub btnAdjuntarFoto_Click";
  //BA.debugLineNum = 447;BA.debugLine="adjuntandoFoto = True";
-_adjuntandofoto = anywheresoftware.b4a.keywords.Common.True;
+_vvvvv0 = anywheresoftware.b4a.keywords.Common.True;
  //BA.debugLineNum = 450;BA.debugLine="camEx.StopPreview";
-mostCurrent._camex._stoppreview /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvv3 /*String*/ ();
  //BA.debugLineNum = 451;BA.debugLine="camEx.Release";
-mostCurrent._camex._release /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 452;BA.debugLine="DesignaFoto";
-_designafoto();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1();
  //BA.debugLineNum = 453;BA.debugLine="CC.Initialize(\"CC\")";
-_cc.Initialize("CC");
+_vvvvvv3.Initialize("CC");
  //BA.debugLineNum = 454;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 455;BA.debugLine="CC.Show(\"image/\", \"Elija la foto\")";
-_cc.Show(processBA,"image/","Elija la foto");
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+_vvvvvv3.Show(processBA,"image/","Elija la foto");
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 457;BA.debugLine="CC.Show(\"image/\", \"Choose the photo\")";
-_cc.Show(processBA,"image/","Choose the photo");
+_vvvvvv3.Show(processBA,"image/","Choose the photo");
  };
  //BA.debugLineNum = 459;BA.debugLine="End Sub";
 return "";
@@ -571,34 +571,34 @@ return "";
 public static String  _btnnofoto_click() throws Exception{
  //BA.debugLineNum = 515;BA.debugLine="Sub btnNoFoto_Click";
  //BA.debugLineNum = 516;BA.debugLine="imgFotoFinal.RemoveView";
-mostCurrent._imgfotofinal.RemoveView();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.RemoveView();
  //BA.debugLineNum = 517;BA.debugLine="btnYesFoto.Visible = False";
 mostCurrent._btnyesfoto.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 518;BA.debugLine="btnNoFoto.Visible = False";
 mostCurrent._btnnofoto.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 521;BA.debugLine="InitializeCamera";
-_initializecamera();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0();
  //BA.debugLineNum = 522;BA.debugLine="DesignaFoto";
-_designafoto();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1();
  //BA.debugLineNum = 523;BA.debugLine="End Sub";
 return "";
 }
 public static String  _btntakepicture_click() throws Exception{
  //BA.debugLineNum = 323;BA.debugLine="Sub btnTakePicture_Click";
  //BA.debugLineNum = 325;BA.debugLine="If camEx.IsInitialized Then";
-if (mostCurrent._camex.IsInitialized /*boolean*/ ()) { 
+if (mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7.IsInitialized /*boolean*/ ()) { 
  //BA.debugLineNum = 329;BA.debugLine="btnTakePicture.Enabled = False";
 mostCurrent._btntakepicture.setEnabled(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 330;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 331;BA.debugLine="ProgressDialogShow(\"Capturando foto\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Capturando foto"));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 333;BA.debugLine="ProgressDialogShow(\"Capturing photo\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Capturing photo"));
  };
  //BA.debugLineNum = 335;BA.debugLine="camEx.TakePicture";
-mostCurrent._camex._takepicture /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*String*/ ();
  };
  //BA.debugLineNum = 338;BA.debugLine="End Sub";
 return "";
@@ -616,37 +616,37 @@ public static String  _camera1_picturetaken(byte[] _data) throws Exception{
 anywheresoftware.b4a.objects.collections.Map _map1 = null;
  //BA.debugLineNum = 339;BA.debugLine="Sub Camera1_PictureTaken (Data() As Byte)";
  //BA.debugLineNum = 342;BA.debugLine="camEx.SavePictureToFile(Data, File.DirRootExterna";
-mostCurrent._camex._savepicturetofile /*String*/ (_data,anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._fotonombredestino+".jpg");
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv2 /*String*/ (_data,anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3+".jpg");
  //BA.debugLineNum = 345;BA.debugLine="Dim Map1 As Map";
 _map1 = new anywheresoftware.b4a.objects.collections.Map();
  //BA.debugLineNum = 346;BA.debugLine="Map1.Initialize";
 _map1.Initialize();
  //BA.debugLineNum = 347;BA.debugLine="Map1.Put(\"Id\", Main.currentproject)";
-_map1.Put((Object)("Id"),(Object)(mostCurrent._main._currentproject /*String*/ ));
+_map1.Put((Object)("Id"),(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvv7 /*String*/ ));
  //BA.debugLineNum = 348;BA.debugLine="If fotoNombreDestino.EndsWith(\"_1\") Then";
-if (mostCurrent._fotonombredestino.endsWith("_1")) { 
+if (mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3.endsWith("_1")) { 
  //BA.debugLineNum = 349;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"markers_loc";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto1",(Object)(mostCurrent._fotonombredestino),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto1",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3),_map1);
  //BA.debugLineNum = 350;BA.debugLine="Main.fotopath0 = fotoNombreDestino";
-mostCurrent._main._fotopath0 /*String*/  = mostCurrent._fotonombredestino;
- }else if(mostCurrent._fotonombredestino.endsWith("_2")) { 
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvv3 /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3;
+ }else if(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3.endsWith("_2")) { 
  //BA.debugLineNum = 352;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"markers_loc";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto2",(Object)(mostCurrent._fotonombredestino),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto2",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3),_map1);
  //BA.debugLineNum = 353;BA.debugLine="Main.fotopath1 = fotoNombreDestino";
-mostCurrent._main._fotopath1 /*String*/  = mostCurrent._fotonombredestino;
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvv4 /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3;
  };
  //BA.debugLineNum = 357;BA.debugLine="camEx.StopPreview";
-mostCurrent._camex._stoppreview /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvv3 /*String*/ ();
  //BA.debugLineNum = 358;BA.debugLine="camEx.Release";
-mostCurrent._camex._release /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 361;BA.debugLine="ProgressDialogHide";
 anywheresoftware.b4a.keywords.Common.ProgressDialogHide();
  //BA.debugLineNum = 364;BA.debugLine="imgFotoFinal.Initialize(\"imgFotoFinal\")";
-mostCurrent._imgfotofinal.Initialize(mostCurrent.activityBA,"imgFotoFinal");
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.Initialize(mostCurrent.activityBA,"imgFotoFinal");
  //BA.debugLineNum = 365;BA.debugLine="imgFotoFinal.Bitmap = LoadBitmapResize(File.DirRo";
-mostCurrent._imgfotofinal.setBitmap((android.graphics.Bitmap)(anywheresoftware.b4a.keywords.Common.LoadBitmapResize(anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._fotonombredestino+".jpg",mostCurrent._activity.getWidth(),mostCurrent._activity.getHeight(),anywheresoftware.b4a.keywords.Common.True).getObject()));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.setBitmap((android.graphics.Bitmap)(anywheresoftware.b4a.keywords.Common.LoadBitmapResize(anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3+".jpg",mostCurrent._activity.getWidth(),mostCurrent._activity.getHeight(),anywheresoftware.b4a.keywords.Common.True).getObject()));
  //BA.debugLineNum = 366;BA.debugLine="Activity.AddView(imgFotoFinal, 0,0,Activity.Width";
-mostCurrent._activity.AddView((android.view.View)(mostCurrent._imgfotofinal.getObject()),(int) (0),(int) (0),mostCurrent._activity.getWidth(),mostCurrent._activity.getHeight());
+mostCurrent._activity.AddView((android.view.View)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.getObject()),(int) (0),(int) (0),mostCurrent._activity.getWidth(),mostCurrent._activity.getHeight());
  //BA.debugLineNum = 368;BA.debugLine="btnYesFoto.Visible = True";
 mostCurrent._btnyesfoto.setVisible(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 369;BA.debugLine="btnNoFoto.Visible= True";
@@ -665,25 +665,25 @@ public static String  _camera1_ready(boolean _success) throws Exception{
  //BA.debugLineNum = 281;BA.debugLine="If Success Then";
 if (_success) { 
  //BA.debugLineNum = 282;BA.debugLine="Log(camEx.GetSupportedPicturesSizes)";
-anywheresoftware.b4a.keywords.Common.LogImpl("41638402",BA.ObjectToString(mostCurrent._camex._getsupportedpicturessizes /*caza.mosquito.cameraexclass._camerasize[]*/ ()),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("514417922",BA.ObjectToString(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvv3 /*caza.mosquito.cameraexclass._camerasize[]*/ ()),0);
  //BA.debugLineNum = 283;BA.debugLine="Log(camEx.GetPictureSize)";
-anywheresoftware.b4a.keywords.Common.LogImpl("41638403",BA.ObjectToString(mostCurrent._camex._getpicturesize /*caza.mosquito.cameraexclass._camerasize*/ ()),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("514417923",BA.ObjectToString(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvv4 /*caza.mosquito.cameraexclass._camerasize*/ ()),0);
  //BA.debugLineNum = 284;BA.debugLine="SetMaxSize";
-_setmaxsize();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4();
  //BA.debugLineNum = 285;BA.debugLine="camEx.SetContinuousAutoFocus";
-mostCurrent._camex._setcontinuousautofocus /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv4 /*String*/ ();
  //BA.debugLineNum = 286;BA.debugLine="camEx.CommitParameters";
-mostCurrent._camex._commitparameters /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 287;BA.debugLine="camEx.StartPreview";
-mostCurrent._camex._startpreview /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 288;BA.debugLine="Log(camEx.GetPreviewSize)";
-anywheresoftware.b4a.keywords.Common.LogImpl("41638408",BA.ObjectToString(mostCurrent._camex._getpreviewsize /*caza.mosquito.cameraexclass._camerasize*/ ()),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("514417928",BA.ObjectToString(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvv6 /*caza.mosquito.cameraexclass._camerasize*/ ()),0);
  }else {
  //BA.debugLineNum = 290;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 291;BA.debugLine="ToastMessageShow(\"No se puede encender la cámar";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("No se puede encender la cámara. Revise los permisos de la aplicación"),anywheresoftware.b4a.keywords.Common.True);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 293;BA.debugLine="ToastMessageShow(\"Can't start the camera, check";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("Can't start the camera, check the permissions"),anywheresoftware.b4a.keywords.Common.True);
  };
@@ -701,24 +701,24 @@ _map1 = new anywheresoftware.b4a.objects.collections.Map();
  //BA.debugLineNum = 466;BA.debugLine="Map1.Initialize";
 _map1.Initialize();
  //BA.debugLineNum = 467;BA.debugLine="Map1.Put(\"Id\", Main.currentproject)";
-_map1.Put((Object)("Id"),(Object)(mostCurrent._main._currentproject /*String*/ ));
+_map1.Put((Object)("Id"),(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvv7 /*String*/ ));
  //BA.debugLineNum = 468;BA.debugLine="DateTime.DateFormat = \"dd-MM-yyyy\"";
 anywheresoftware.b4a.keywords.Common.DateTime.setDateFormat("dd-MM-yyyy");
  //BA.debugLineNum = 469;BA.debugLine="If fotoNombreDestino.EndsWith(\"_1\") Then";
-if (mostCurrent._fotonombredestino.endsWith("_1")) { 
+if (mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3.endsWith("_1")) { 
  //BA.debugLineNum = 470;BA.debugLine="File.Copy(Dir, FileName, File.DirRootExternal &";
-anywheresoftware.b4a.keywords.Common.File.Copy(_dir,_filename,anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._fotonombredestino+".jpg");
+anywheresoftware.b4a.keywords.Common.File.Copy(_dir,_filename,anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3+".jpg");
  //BA.debugLineNum = 471;BA.debugLine="Main.fotopath0 = fotoNombreDestino";
-mostCurrent._main._fotopath0 /*String*/  = mostCurrent._fotonombredestino;
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvv3 /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3;
  //BA.debugLineNum = 472;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"markers_lo";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto1",(Object)(mostCurrent._fotonombredestino),_map1);
- }else if(mostCurrent._fotonombredestino.endsWith("_2")) { 
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto1",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3),_map1);
+ }else if(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3.endsWith("_2")) { 
  //BA.debugLineNum = 474;BA.debugLine="File.Copy(Dir, FileName, File.DirRootExternal &";
-anywheresoftware.b4a.keywords.Common.File.Copy(_dir,_filename,anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._fotonombredestino+".jpg");
+anywheresoftware.b4a.keywords.Common.File.Copy(_dir,_filename,anywheresoftware.b4a.keywords.Common.File.getDirRootExternal()+"/CazaMosquitos/",mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3+".jpg");
  //BA.debugLineNum = 475;BA.debugLine="Main.fotopath1 = fotoNombreDestino";
-mostCurrent._main._fotopath1 /*String*/  = mostCurrent._fotonombredestino;
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvv4 /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3;
  //BA.debugLineNum = 476;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"markers_lo";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto2",(Object)(mostCurrent._fotonombredestino),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"markers_local","foto2",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3),_map1);
  };
  //BA.debugLineNum = 479;BA.debugLine="Activity.RemoveAllViews";
 mostCurrent._activity.RemoveAllViews();
@@ -726,52 +726,52 @@ mostCurrent._activity.RemoveAllViews();
 mostCurrent._activity.Finish();
  }else {
  //BA.debugLineNum = 484;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 485;BA.debugLine="ToastMessageShow(\"Hubo un problema adjuntando l";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("Hubo un problema adjuntando la foto"),anywheresoftware.b4a.keywords.Common.False);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 487;BA.debugLine="ToastMessageShow(\"There was a problem attaching";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("There was a problem attaching the photo"),anywheresoftware.b4a.keywords.Common.False);
  };
  //BA.debugLineNum = 489;BA.debugLine="imgFotoFinal.RemoveView";
-mostCurrent._imgfotofinal.RemoveView();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2.RemoveView();
  //BA.debugLineNum = 490;BA.debugLine="btnYesFoto.Visible = False";
 mostCurrent._btnyesfoto.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 491;BA.debugLine="btnNoFoto.Visible = False";
 mostCurrent._btnnofoto.setVisible(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 492;BA.debugLine="adjuntandoFoto = False";
-_adjuntandofoto = anywheresoftware.b4a.keywords.Common.False;
+_vvvvv0 = anywheresoftware.b4a.keywords.Common.False;
  //BA.debugLineNum = 494;BA.debugLine="InitializeCamera";
-_initializecamera();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0();
  //BA.debugLineNum = 495;BA.debugLine="DesignaFoto";
-_designafoto();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1();
  };
  //BA.debugLineNum = 499;BA.debugLine="End Sub";
 return "";
 }
-public static String  _designafoto() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1() throws Exception{
  //BA.debugLineNum = 188;BA.debugLine="Sub DesignaFoto";
  //BA.debugLineNum = 190;BA.debugLine="DateTime.DateFormat = \"dd-MM-yyyy\"";
 anywheresoftware.b4a.keywords.Common.DateTime.setDateFormat("dd-MM-yyyy");
  //BA.debugLineNum = 191;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 192;BA.debugLine="ProgressDialogShow(\"Preparando cámara...\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Preparando cámara..."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 194;BA.debugLine="ProgressDialogShow(\"Preparing camera...\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Preparing camera..."));
  };
  //BA.debugLineNum = 201;BA.debugLine="If currentFoto = \"dorsal\" Then";
-if ((_currentfoto).equals("dorsal")) { 
+if ((_vvvvvv0).equals("dorsal")) { 
  //BA.debugLineNum = 202;BA.debugLine="fotoNombreDestino = frmprincipal.fullidcurrentpr";
-mostCurrent._fotonombredestino = mostCurrent._frmprincipal._fullidcurrentproject /*String*/ +"_1";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = mostCurrent._vvvvvvvvvvvvvvvvvv3._v5 /*String*/ +"_1";
  //BA.debugLineNum = 203;BA.debugLine="fotonumlibre = 1";
-_fotonumlibre = (int) (1);
- }else if((_currentfoto).equals("ventral")) { 
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = (int) (1);
+ }else if((_vvvvvv0).equals("ventral")) { 
  //BA.debugLineNum = 205;BA.debugLine="fotoNombreDestino = frmprincipal.fullidcurrentpr";
-mostCurrent._fotonombredestino = mostCurrent._frmprincipal._fullidcurrentproject /*String*/ +"_2";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = mostCurrent._vvvvvvvvvvvvvvvvvv3._v5 /*String*/ +"_2";
  //BA.debugLineNum = 206;BA.debugLine="fotonumlibre = 2";
-_fotonumlibre = (int) (2);
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = (int) (2);
  };
  //BA.debugLineNum = 211;BA.debugLine="Panel1.Visible = True";
 mostCurrent._panel1.setVisible(anywheresoftware.b4a.keywords.Common.True);
@@ -791,7 +791,7 @@ public static String  _globals() throws Exception{
  //BA.debugLineNum = 29;BA.debugLine="Private Panel1 As Panel";
 mostCurrent._panel1 = new anywheresoftware.b4a.objects.PanelWrapper();
  //BA.debugLineNum = 30;BA.debugLine="Private camEx As CameraExClass";
-mostCurrent._camex = new caza.mosquito.cameraexclass();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = new caza.mosquito.cameraexclass();
  //BA.debugLineNum = 31;BA.debugLine="Private btnTakePicture As Button";
 mostCurrent._btntakepicture = new anywheresoftware.b4a.objects.ButtonWrapper();
  //BA.debugLineNum = 32;BA.debugLine="Private imgFlash As ImageView";
@@ -803,22 +803,22 @@ mostCurrent._imgmenu = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 35;BA.debugLine="Private seekFocus As SeekBar";
 mostCurrent._seekfocus = new anywheresoftware.b4a.objects.SeekBarWrapper();
  //BA.debugLineNum = 38;BA.debugLine="Dim foto1,foto2,foto3,foto4 As String";
-mostCurrent._foto1 = "";
-mostCurrent._foto2 = "";
-mostCurrent._foto3 = "";
-mostCurrent._foto4 = "";
+mostCurrent._vvvvvvv0 = "";
+mostCurrent._vvvvvvvv1 = "";
+mostCurrent._vvvvvvvv2 = "";
+mostCurrent._vvvvvvvv3 = "";
  //BA.debugLineNum = 39;BA.debugLine="Dim fotoNombreDestino As String";
-mostCurrent._fotonombredestino = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = "";
  //BA.debugLineNum = 40;BA.debugLine="Dim lblTemplate As Label";
 mostCurrent._lbltemplate = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 42;BA.debugLine="Dim imgTemplate As ImageView";
 mostCurrent._imgtemplate = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 47;BA.debugLine="Dim newfilename As String";
-mostCurrent._newfilename = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = "";
  //BA.debugLineNum = 48;BA.debugLine="Dim fotonumlibre As Int";
-_fotonumlibre = 0;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5 = 0;
  //BA.debugLineNum = 51;BA.debugLine="Dim imgFotoFinal As ImageView";
-mostCurrent._imgfotofinal = new anywheresoftware.b4a.objects.ImageViewWrapper();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = new anywheresoftware.b4a.objects.ImageViewWrapper();
  //BA.debugLineNum = 52;BA.debugLine="Private btnNoFoto As Button";
 mostCurrent._btnnofoto = new anywheresoftware.b4a.objects.ButtonWrapper();
  //BA.debugLineNum = 53;BA.debugLine="Private btnYesFoto As Button";
@@ -832,12 +832,12 @@ anywheresoftware.b4a.objects.collections.List _flashmodes = null;
 String _flash = "";
  //BA.debugLineNum = 410;BA.debugLine="Sub imgFlash_Click";
  //BA.debugLineNum = 411;BA.debugLine="Dim f() As Float = camEx.GetFocusDistances";
-_f = mostCurrent._camex._getfocusdistances /*float[]*/ ();
+_f = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvv7 /*float[]*/ ();
  //BA.debugLineNum = 412;BA.debugLine="Log(f(0) & \", \" & f(1) & \", \" & f(2))";
-anywheresoftware.b4a.keywords.Common.LogImpl("41900546",BA.NumberToString(_f[(int) (0)])+", "+BA.NumberToString(_f[(int) (1)])+", "+BA.NumberToString(_f[(int) (2)]),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("514680066",BA.NumberToString(_f[(int) (0)])+", "+BA.NumberToString(_f[(int) (1)])+", "+BA.NumberToString(_f[(int) (2)]),0);
  //BA.debugLineNum = 413;BA.debugLine="Dim flashModes As List = camEx.GetSupportedFlashM";
 _flashmodes = new anywheresoftware.b4a.objects.collections.List();
-_flashmodes = mostCurrent._camex._getsupportedflashmodes /*anywheresoftware.b4a.objects.collections.List*/ ();
+_flashmodes = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvv0 /*anywheresoftware.b4a.objects.collections.List*/ ();
  //BA.debugLineNum = 414;BA.debugLine="If flashModes.IsInitialized = False Then";
 if (_flashmodes.IsInitialized()==anywheresoftware.b4a.keywords.Common.False) { 
  //BA.debugLineNum = 415;BA.debugLine="ToastMessageShow(\"Flash not supported.\", False)";
@@ -846,13 +846,13 @@ anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("F
 if (true) return "";
  };
  //BA.debugLineNum = 418;BA.debugLine="Dim flash As String = flashModes.Get((flashModes.";
-_flash = BA.ObjectToString(_flashmodes.Get((int) ((_flashmodes.IndexOf((Object)(mostCurrent._camex._getflashmode /*String*/ ()))+1)%_flashmodes.getSize())));
+_flash = BA.ObjectToString(_flashmodes.Get((int) ((_flashmodes.IndexOf((Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ()))+1)%_flashmodes.getSize())));
  //BA.debugLineNum = 419;BA.debugLine="camEx.SetFlashMode(flash)";
-mostCurrent._camex._setflashmode /*String*/ (_flash);
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv0 /*String*/ (_flash);
  //BA.debugLineNum = 420;BA.debugLine="ToastMessageShow(flash, False)";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence(_flash),anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 421;BA.debugLine="camEx.CommitParameters";
-mostCurrent._camex._commitparameters /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 422;BA.debugLine="End Sub";
 return "";
 }
@@ -863,12 +863,12 @@ mostCurrent._activity.OpenMenu();
  //BA.debugLineNum = 157;BA.debugLine="End Sub";
 return "";
 }
-public static String  _initializecamera() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0() throws Exception{
  //BA.debugLineNum = 271;BA.debugLine="Private Sub InitializeCamera";
  //BA.debugLineNum = 273;BA.debugLine="camEx.Initialize(Panel1, frontCamera, Me, \"Camera";
-mostCurrent._camex._initialize /*String*/ (mostCurrent.activityBA,mostCurrent._panel1,_frontcamera,frmcamara.getObject(),"Camera1");
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._initialize /*String*/ (mostCurrent.activityBA,mostCurrent._panel1,_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7,frmcamara.getObject(),"Camera1");
  //BA.debugLineNum = 276;BA.debugLine="frontCamera = camEx.Front";
-_frontcamera = mostCurrent._camex._front /*boolean*/ ;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*boolean*/ ;
  //BA.debugLineNum = 278;BA.debugLine="btnAdjuntarFoto.visible = True";
 mostCurrent._btnadjuntarfoto.setVisible(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 279;BA.debugLine="End Sub";
@@ -877,22 +877,22 @@ return "";
 public static String  _mnuadjuntar_click() throws Exception{
  //BA.debugLineNum = 161;BA.debugLine="Sub mnuAdjuntar_Click";
  //BA.debugLineNum = 163;BA.debugLine="adjuntandoFoto = True";
-_adjuntandofoto = anywheresoftware.b4a.keywords.Common.True;
+_vvvvv0 = anywheresoftware.b4a.keywords.Common.True;
  //BA.debugLineNum = 166;BA.debugLine="camEx.StopPreview";
-mostCurrent._camex._stoppreview /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvvv3 /*String*/ ();
  //BA.debugLineNum = 167;BA.debugLine="camEx.Release";
-mostCurrent._camex._release /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 168;BA.debugLine="DesignaFoto";
-_designafoto();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1();
  //BA.debugLineNum = 169;BA.debugLine="CC.Initialize(\"CC\")";
-_cc.Initialize("CC");
+_vvvvvv3.Initialize("CC");
  //BA.debugLineNum = 171;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 172;BA.debugLine="CC.Show(\"image/\", \"Elija la foto\")";
-_cc.Show(processBA,"image/","Elija la foto");
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+_vvvvvv3.Show(processBA,"image/","Elija la foto");
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 174;BA.debugLine="CC.Show(\"image/\", \"Choose the photo\")";
-_cc.Show(processBA,"image/","Choose the photo");
+_vvvvvv3.Show(processBA,"image/","Choose the photo");
  };
  //BA.debugLineNum = 178;BA.debugLine="End Sub";
 return "";
@@ -900,48 +900,48 @@ return "";
 public static String  _mnuconsejos_click() throws Exception{
  //BA.debugLineNum = 158;BA.debugLine="Sub mnuConsejos_Click";
  //BA.debugLineNum = 159;BA.debugLine="StartActivity(frmComoFotos)";
-anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._frmcomofotos.getObject()));
+anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv5.getObject()));
  //BA.debugLineNum = 160;BA.debugLine="End Sub";
 return "";
 }
 public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 8;BA.debugLine="Sub Process_Globals";
  //BA.debugLineNum = 9;BA.debugLine="Dim adjuntandoFoto As Boolean";
-_adjuntandofoto = false;
+_vvvvv0 = false;
  //BA.debugLineNum = 10;BA.debugLine="Dim hc As OkHttpClient";
-_hc = new anywheresoftware.b4h.okhttp.OkHttpClientWrapper();
+_vvvvvv1 = new anywheresoftware.b4h.okhttp.OkHttpClientWrapper();
  //BA.debugLineNum = 11;BA.debugLine="Dim out As OutputStream";
-_out = new anywheresoftware.b4a.objects.streams.File.OutputStreamWrapper();
+_vvvvvv2 = new anywheresoftware.b4a.objects.streams.File.OutputStreamWrapper();
  //BA.debugLineNum = 13;BA.debugLine="Private frontCamera As Boolean = False";
-_frontcamera = anywheresoftware.b4a.keywords.Common.False;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = anywheresoftware.b4a.keywords.Common.False;
  //BA.debugLineNum = 14;BA.debugLine="Dim CC As ContentChooser";
-_cc = new anywheresoftware.b4a.phone.Phone.ContentChooser();
+_vvvvvv3 = new anywheresoftware.b4a.phone.Phone.ContentChooser();
  //BA.debugLineNum = 17;BA.debugLine="Dim Up1 As UploadFilePhp";
-_up1 = new com.spinter.uploadfilephp.UploadFilePhp();
+_vvvvvv4 = new com.spinter.uploadfilephp.UploadFilePhp();
  //BA.debugLineNum = 18;BA.debugLine="Dim Up2 As UploadFilePhp";
-_up2 = new com.spinter.uploadfilephp.UploadFilePhp();
+_vvvvvv5 = new com.spinter.uploadfilephp.UploadFilePhp();
  //BA.debugLineNum = 19;BA.debugLine="Dim Up3 As UploadFilePhp";
-_up3 = new com.spinter.uploadfilephp.UploadFilePhp();
+_vvvvvv6 = new com.spinter.uploadfilephp.UploadFilePhp();
  //BA.debugLineNum = 20;BA.debugLine="Dim Up4 As UploadFilePhp";
-_up4 = new com.spinter.uploadfilephp.UploadFilePhp();
+_vvvvvv7 = new com.spinter.uploadfilephp.UploadFilePhp();
  //BA.debugLineNum = 23;BA.debugLine="Dim currentFoto As String";
-_currentfoto = "";
+_vvvvvv0 = "";
  //BA.debugLineNum = 25;BA.debugLine="End Sub";
 return "";
 }
 public static String  _seekfocus_valuechanged(int _value,boolean _userchanged) throws Exception{
  //BA.debugLineNum = 431;BA.debugLine="Sub seekFocus_ValueChanged (Value As Int, UserChan";
  //BA.debugLineNum = 432;BA.debugLine="If UserChanged = False Or camEx.IsZoomSupported =";
-if (_userchanged==anywheresoftware.b4a.keywords.Common.False || mostCurrent._camex._iszoomsupported /*boolean*/ ()==anywheresoftware.b4a.keywords.Common.False) { 
+if (_userchanged==anywheresoftware.b4a.keywords.Common.False || mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvv7 /*boolean*/ ()==anywheresoftware.b4a.keywords.Common.False) { 
 if (true) return "";};
  //BA.debugLineNum = 433;BA.debugLine="camEx.Zoom = Value / 100 * camEx.GetMaxZoom";
-mostCurrent._camex._setzoom /*int*/ ((int) (_value/(double)100*mostCurrent._camex._getmaxzoom /*int*/ ()));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._setvvvvvvvvvvvvvvvvvvvvvvvvvvv0 /*int*/ ((int) (_value/(double)100*mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvv1 /*int*/ ()));
  //BA.debugLineNum = 434;BA.debugLine="camEx.CommitParameters";
-mostCurrent._camex._commitparameters /*String*/ ();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 435;BA.debugLine="End Sub";
 return "";
 }
-public static String  _setmaxsize() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4() throws Exception{
 caza.mosquito.cameraexclass._camerasize _mincs = null;
 caza.mosquito.cameraexclass._camerasize _cs = null;
  //BA.debugLineNum = 300;BA.debugLine="Private Sub SetMaxSize";
@@ -949,7 +949,7 @@ caza.mosquito.cameraexclass._camerasize _cs = null;
 _mincs = new caza.mosquito.cameraexclass._camerasize();
  //BA.debugLineNum = 302;BA.debugLine="For Each cs As CameraSize In camEx.GetSupportedPi";
 {
-final caza.mosquito.cameraexclass._camerasize[] group2 = mostCurrent._camex._getsupportedpicturessizes /*caza.mosquito.cameraexclass._camerasize[]*/ ();
+final caza.mosquito.cameraexclass._camerasize[] group2 = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvv3 /*caza.mosquito.cameraexclass._camerasize[]*/ ();
 final int groupLen2 = group2.length
 ;int index2 = 0;
 ;
@@ -969,9 +969,9 @@ _mincs = _cs;
  }
 };
  //BA.debugLineNum = 312;BA.debugLine="camEx.SetPictureSize(minCS.Width, minCS.Height)";
-mostCurrent._camex._setpicturesize /*String*/ (_mincs.Width /*int*/ ,_mincs.Height /*int*/ );
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvvvvvvvvvvvvvvvvvvv4 /*String*/ (_mincs.Width /*int*/ ,_mincs.Height /*int*/ );
  //BA.debugLineNum = 313;BA.debugLine="Log(\"Selected size: \" & minCS)";
-anywheresoftware.b4a.keywords.Common.LogImpl("41703949","Selected size: "+BA.ObjectToString(_mincs),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("514483469","Selected size: "+BA.ObjectToString(_mincs),0);
  //BA.debugLineNum = 314;BA.debugLine="End Sub";
 return "";
 }

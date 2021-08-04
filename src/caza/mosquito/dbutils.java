@@ -15,45 +15,45 @@ public static String _db_real = "";
 public static String _db_integer = "";
 public static String _db_blob = "";
 public static String _db_text = "";
-public static String _htmlcss = "";
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = "";
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
-public static String  _copydbfromassets(anywheresoftware.b4a.BA _ba,String _filename) throws Exception{
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
+public static String  _vvv2(anywheresoftware.b4a.BA _ba,String _filename) throws Exception{
 String _targetdir = "";
  //BA.debugLineNum = 51;BA.debugLine="Public Sub CopyDBFromAssets (FileName As String) A";
  //BA.debugLineNum = 52;BA.debugLine="Dim TargetDir As String = GetDBFolder";
-_targetdir = _getdbfolder(_ba);
+_targetdir = _vvvv7(_ba);
  //BA.debugLineNum = 53;BA.debugLine="If File.Exists(TargetDir, FileName) = False Then";
 if (anywheresoftware.b4a.keywords.Common.File.Exists(_targetdir,_filename)==anywheresoftware.b4a.keywords.Common.False) { 
  //BA.debugLineNum = 54;BA.debugLine="File.Copy(File.DirAssets, FileName, TargetDir, F";
@@ -64,7 +64,7 @@ if (true) return _targetdir;
  //BA.debugLineNum = 57;BA.debugLine="End Sub";
 return "";
 }
-public static String  _createtable(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.Map _fieldsandtypes,String _primarykey) throws Exception{
+public static String  _vvv3(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.Map _fieldsandtypes,String _primarykey) throws Exception{
 anywheresoftware.b4a.keywords.StringBuilderWrapper _sb = null;
 int _i = 0;
 String _field = "";
@@ -94,7 +94,7 @@ _ftype = BA.ObjectToString(_fieldsandtypes.GetValueAt(_i));
 if (_i>0) { 
 _sb.Append(", ");};
  //BA.debugLineNum = 102;BA.debugLine="sb.Append(EscapeField(field)).Append(\" \").Append";
-_sb.Append(_escapefield(_ba,_field)).Append(" ").Append(_ftype);
+_sb.Append(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_field)).Append(" ").Append(_ftype);
  //BA.debugLineNum = 103;BA.debugLine="If field = PrimaryKey Then sb.Append(\" PRIMARY K";
 if ((_field).equals(_primarykey)) { 
 _sb.Append(" PRIMARY KEY");};
@@ -103,15 +103,15 @@ _sb.Append(" PRIMARY KEY");};
  //BA.debugLineNum = 105;BA.debugLine="sb.Append(\")\")";
 _sb.Append(")");
  //BA.debugLineNum = 106;BA.debugLine="Dim query As String = \"CREATE TABLE IF NOT EXISTS";
-_query = "CREATE TABLE IF NOT EXISTS "+_escapefield(_ba,_tablename)+" "+_sb.ToString();
+_query = "CREATE TABLE IF NOT EXISTS "+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_tablename)+" "+_sb.ToString();
  //BA.debugLineNum = 107;BA.debugLine="Log(\"CreateTable: \" & query)";
-anywheresoftware.b4a.keywords.Common.LogImpl("412648462","CreateTable: "+_query,0);
+anywheresoftware.b4a.keywords.Common.LogImpl("59895950","CreateTable: "+_query,0);
  //BA.debugLineNum = 108;BA.debugLine="SQL.ExecNonQuery(query)";
 _sql.ExecNonQuery(_query);
  //BA.debugLineNum = 109;BA.debugLine="End Sub";
 return "";
 }
-public static String  _deleterecord(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.Map _wherefieldequals) throws Exception{
+public static String  _vvv4(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.Map _wherefieldequals) throws Exception{
 anywheresoftware.b4a.keywords.StringBuilderWrapper _sb = null;
 anywheresoftware.b4a.objects.collections.List _args = null;
 String _col = "";
@@ -121,11 +121,11 @@ _sb = new anywheresoftware.b4a.keywords.StringBuilderWrapper();
  //BA.debugLineNum = 468;BA.debugLine="sb.Initialize";
 _sb.Initialize();
  //BA.debugLineNum = 469;BA.debugLine="sb.Append(\"DELETE FROM \" & EscapeField(TableName)";
-_sb.Append("DELETE FROM "+_escapefield(_ba,_tablename)+" WHERE ");
+_sb.Append("DELETE FROM "+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_tablename)+" WHERE ");
  //BA.debugLineNum = 470;BA.debugLine="If WhereFieldEquals.Size = 0 Then";
 if (_wherefieldequals.getSize()==0) { 
  //BA.debugLineNum = 471;BA.debugLine="Log(\"WhereFieldEquals map empty!\")";
-anywheresoftware.b4a.keywords.Common.LogImpl("413631493","WhereFieldEquals map empty!",0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510878981","WhereFieldEquals map empty!",0);
  //BA.debugLineNum = 472;BA.debugLine="Return";
 if (true) return "";
  };
@@ -145,38 +145,38 @@ _col = BA.ObjectToString(group10.Get(index10));
 if (_args.getSize()>0) { 
 _sb.Append(" AND ");};
  //BA.debugLineNum = 478;BA.debugLine="sb.Append(EscapeField(col)).Append(\" = ?\")";
-_sb.Append(_escapefield(_ba,_col)).Append(" = ?");
+_sb.Append(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_col)).Append(" = ?");
  //BA.debugLineNum = 479;BA.debugLine="args.Add(WhereFieldEquals.Get(col))";
 _args.Add(_wherefieldequals.Get((Object)(_col)));
  }
 };
  //BA.debugLineNum = 481;BA.debugLine="Log(\"DeleteRecord: \" & sb.ToString)";
-anywheresoftware.b4a.keywords.Common.LogImpl("413631503","DeleteRecord: "+_sb.ToString(),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510878991","DeleteRecord: "+_sb.ToString(),0);
  //BA.debugLineNum = 482;BA.debugLine="SQL.ExecNonQuery2(sb.ToString, args)";
 _sql.ExecNonQuery2(_sb.ToString(),_args);
  //BA.debugLineNum = 483;BA.debugLine="End Sub";
 return "";
 }
-public static String  _droptable(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename) throws Exception{
+public static String  _vvv5(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename) throws Exception{
 String _query = "";
  //BA.debugLineNum = 113;BA.debugLine="Public Sub DropTable(SQL As SQL, TableName As Stri";
  //BA.debugLineNum = 114;BA.debugLine="Dim query As String = \"DROP TABLE IF EXISTS\" & Es";
-_query = "DROP TABLE IF EXISTS"+_escapefield(_ba,_tablename);
+_query = "DROP TABLE IF EXISTS"+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_tablename);
  //BA.debugLineNum = 115;BA.debugLine="Log(\"DropTable: \" & query)";
-anywheresoftware.b4a.keywords.Common.LogImpl("412713986","DropTable: "+_query,0);
+anywheresoftware.b4a.keywords.Common.LogImpl("59961474","DropTable: "+_query,0);
  //BA.debugLineNum = 116;BA.debugLine="SQL.ExecNonQuery(query)";
 _sql.ExecNonQuery(_query);
  //BA.debugLineNum = 117;BA.debugLine="End Sub";
 return "";
 }
-public static String  _escapefield(anywheresoftware.b4a.BA _ba,String _f) throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(anywheresoftware.b4a.BA _ba,String _f) throws Exception{
  //BA.debugLineNum = 64;BA.debugLine="Private Sub EscapeField(f As String) As String";
  //BA.debugLineNum = 65;BA.debugLine="Return \"[\" & f & \"]\"";
 if (true) return "["+_f+"]";
  //BA.debugLineNum = 66;BA.debugLine="End Sub";
 return "";
 }
-public static String  _executehtml(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,boolean _clickable) throws Exception{
+public static String  _vvv6(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,boolean _clickable) throws Exception{
 anywheresoftware.b4a.sql.SQL.ResultSetWrapper _cur = null;
 anywheresoftware.b4a.keywords.StringBuilderWrapper _sb = null;
 int _i = 0;
@@ -193,7 +193,7 @@ _cur = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsO
 _cur = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.sql.SQL.ResultSetWrapper(), (android.database.Cursor)(_sql.ExecQuery(_query)));
  };
  //BA.debugLineNum = 350;BA.debugLine="Log(\"ExecuteHtml: \" & Query)";
-anywheresoftware.b4a.keywords.Common.LogImpl("413303815","ExecuteHtml: "+_query,0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510551303","ExecuteHtml: "+_query,0);
  //BA.debugLineNum = 352;BA.debugLine="Dim sb As StringBuilder";
 _sb = new anywheresoftware.b4a.keywords.StringBuilderWrapper();
  //BA.debugLineNum = 353;BA.debugLine="sb.Initialize";
@@ -201,7 +201,7 @@ _sb.Initialize();
  //BA.debugLineNum = 354;BA.debugLine="sb.Append(\"<html><body>\").Append(CRLF)";
 _sb.Append("<html><body>").Append(anywheresoftware.b4a.keywords.Common.CRLF);
  //BA.debugLineNum = 355;BA.debugLine="sb.Append(\"<style type='text/css'>\").Append(HtmlC";
-_sb.Append("<style type='text/css'>").Append(_htmlcss).Append("</style>").Append(anywheresoftware.b4a.keywords.Common.CRLF);
+_sb.Append("<style type='text/css'>").Append(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0).Append("</style>").Append(anywheresoftware.b4a.keywords.Common.CRLF);
  //BA.debugLineNum = 356;BA.debugLine="sb.Append(\"<table><thead><tr>\").Append(CRLF)";
 _sb.Append("<table><thead><tr>").Append(anywheresoftware.b4a.keywords.Common.CRLF);
  //BA.debugLineNum = 357;BA.debugLine="For i = 0 To cur.ColumnCount - 1";
@@ -269,7 +269,7 @@ if (true) return _sb.ToString();
  //BA.debugLineNum = 395;BA.debugLine="End Sub";
 return "";
 }
-public static anywheresoftware.b4a.objects.collections.Map  _executejson(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.collections.List _dbtypes) throws Exception{
+public static anywheresoftware.b4a.objects.collections.Map  _vvv7(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.collections.List _dbtypes) throws Exception{
 anywheresoftware.b4a.objects.collections.List _table = null;
 anywheresoftware.b4a.sql.SQL.ResultSetWrapper _cur = null;
 anywheresoftware.b4a.objects.collections.Map _m = null;
@@ -289,7 +289,7 @@ _cur = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsO
 _cur = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.sql.SQL.ResultSetWrapper(), (android.database.Cursor)(_sql.ExecQuery(_query)));
  };
  //BA.debugLineNum = 313;BA.debugLine="Log(\"ExecuteJSON: \" & Query)";
-anywheresoftware.b4a.keywords.Common.LogImpl("413238280","ExecuteJSON: "+_query,0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510485768","ExecuteJSON: "+_query,0);
  //BA.debugLineNum = 314;BA.debugLine="Dim table As List";
 _table = new anywheresoftware.b4a.objects.collections.List();
  //BA.debugLineNum = 315;BA.debugLine="table.Initialize";
@@ -322,7 +322,7 @@ _m.Put((Object)(_cur.GetColumnName(_i)),(Object)(_cur.GetDouble2(_i)));
  break; }
 default: {
  //BA.debugLineNum = 328;BA.debugLine="Log(\"Invalid type: \" & DBTypes.Get(i))";
-anywheresoftware.b4a.keywords.Common.LogImpl("413238295","Invalid type: "+BA.ObjectToString(_dbtypes.Get(_i)),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510485783","Invalid type: "+BA.ObjectToString(_dbtypes.Get(_i)),0);
  break; }
 }
 ;
@@ -348,14 +348,14 @@ if (true) return _root;
  //BA.debugLineNum = 339;BA.debugLine="End Sub";
 return null;
 }
-public static anywheresoftware.b4a.objects.collections.List  _executelist(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit) throws Exception{
+public static anywheresoftware.b4a.objects.collections.List  _vvv0(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit) throws Exception{
 anywheresoftware.b4a.objects.collections.List _table = null;
 anywheresoftware.b4a.objects.collections.List _res = null;
 String[] _cols = null;
  //BA.debugLineNum = 286;BA.debugLine="Public Sub ExecuteList(SQL As SQL, Query As String";
  //BA.debugLineNum = 287;BA.debugLine="Dim Table As List = ExecuteMemoryTable(SQL, Query";
 _table = new anywheresoftware.b4a.objects.collections.List();
-_table = _executememorytable(_ba,_sql,_query,_stringargs,_limit);
+_table = _vvvv5(_ba,_sql,_query,_stringargs,_limit);
  //BA.debugLineNum = 288;BA.debugLine="Dim res As List";
 _res = new anywheresoftware.b4a.objects.collections.List();
  //BA.debugLineNum = 289;BA.debugLine="res.Initialize";
@@ -377,16 +377,16 @@ if (true) return _res;
  //BA.debugLineNum = 294;BA.debugLine="End Sub";
 return null;
 }
-public static String  _executelist2(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.collections.List _list) throws Exception{
+public static String  _vvvv1(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.collections.List _list) throws Exception{
  //BA.debugLineNum = 281;BA.debugLine="Public Sub ExecuteList2(SQL As SQL, Query As Strin";
  //BA.debugLineNum = 282;BA.debugLine="List.Clear";
 _list.Clear();
  //BA.debugLineNum = 283;BA.debugLine="List.AddAll(ExecuteList(SQL, Query, StringArgs, L";
-_list.AddAll(_executelist(_ba,_sql,_query,_stringargs,_limit));
+_list.AddAll(_vvv0(_ba,_sql,_query,_stringargs,_limit));
  //BA.debugLineNum = 284;BA.debugLine="End Sub";
 return "";
 }
-public static anywheresoftware.b4a.objects.collections.List  _executelistofmaps(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit) throws Exception{
+public static anywheresoftware.b4a.objects.collections.List  _vvvv2(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit) throws Exception{
 anywheresoftware.b4a.sql.SQL.ResultSetWrapper _rs = null;
 String _limittext = "";
  //BA.debugLineNum = 511;BA.debugLine="Sub ExecuteListOfMaps(SQL As SQL, Query As String,";
@@ -402,11 +402,11 @@ _limittext = "";
  //BA.debugLineNum = 517;BA.debugLine="rs=SQL.ExecQuery2(Query & LimitText,StringArgs)";
 _rs = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.sql.SQL.ResultSetWrapper(), (android.database.Cursor)(_sql.ExecQuery2(_query+_limittext,_stringargs)));
  //BA.debugLineNum = 518;BA.debugLine="Return ResultSetToListOfMaps(rs)";
-if (true) return _resultsettolistofmaps(_ba,_rs);
+if (true) return _vvvvv2(_ba,_rs);
  //BA.debugLineNum = 519;BA.debugLine="End Sub";
 return null;
 }
-public static String  _executelistview(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.ListViewWrapper _listview1,boolean _twolines) throws Exception{
+public static String  _vvvv3(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.ListViewWrapper _listview1,boolean _twolines) throws Exception{
 anywheresoftware.b4a.objects.collections.List _table = null;
 String[] _cols = null;
 int _i = 0;
@@ -416,7 +416,7 @@ _listview1.Clear();
  //BA.debugLineNum = 240;BA.debugLine="Dim Table As List";
 _table = new anywheresoftware.b4a.objects.collections.List();
  //BA.debugLineNum = 241;BA.debugLine="Table = ExecuteMemoryTable(SQL, Query, StringArgs";
-_table = _executememorytable(_ba,_sql,_query,_stringargs,_limit);
+_table = _vvvv5(_ba,_sql,_query,_stringargs,_limit);
  //BA.debugLineNum = 242;BA.debugLine="Dim Cols() As String";
 _cols = new String[(int) (0)];
 java.util.Arrays.fill(_cols,"");
@@ -441,7 +441,7 @@ _listview1.AddSingleLine2(BA.ObjectToCharSequence(_cols[(int) (0)]),(Object)(_co
  //BA.debugLineNum = 251;BA.debugLine="End Sub";
 return "";
 }
-public static anywheresoftware.b4a.objects.collections.Map  _executemap(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs) throws Exception{
+public static anywheresoftware.b4a.objects.collections.Map  _vvvv4(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs) throws Exception{
 anywheresoftware.b4a.objects.collections.Map _res = null;
 anywheresoftware.b4a.sql.SQL.ResultSetWrapper _cur = null;
 int _i = 0;
@@ -459,11 +459,11 @@ _cur = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsO
 _cur = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.sql.SQL.ResultSetWrapper(), (android.database.Cursor)(_sql.ExecQuery(_query)));
  };
  //BA.debugLineNum = 206;BA.debugLine="Log(\"ExecuteMap: \" & Query)";
-anywheresoftware.b4a.keywords.Common.LogImpl("412910600","ExecuteMap: "+_query,0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510158088","ExecuteMap: "+_query,0);
  //BA.debugLineNum = 207;BA.debugLine="If cur.NextRow = False Then";
 if (_cur.NextRow()==anywheresoftware.b4a.keywords.Common.False) { 
  //BA.debugLineNum = 208;BA.debugLine="Log(\"No records found.\")";
-anywheresoftware.b4a.keywords.Common.LogImpl("412910602","No records found.",0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510158090","No records found.",0);
  //BA.debugLineNum = 209;BA.debugLine="Return res";
 if (true) return _res;
  };
@@ -486,7 +486,7 @@ if (true) return _res;
  //BA.debugLineNum = 217;BA.debugLine="End Sub";
 return null;
 }
-public static anywheresoftware.b4a.objects.collections.List  _executememorytable(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit) throws Exception{
+public static anywheresoftware.b4a.objects.collections.List  _vvvv5(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit) throws Exception{
 anywheresoftware.b4a.sql.SQL.ResultSetWrapper _cur = null;
 anywheresoftware.b4a.objects.collections.List _table = null;
 String[] _values = null;
@@ -503,7 +503,7 @@ java.util.Arrays.fill(_stringargs,"");
  //BA.debugLineNum = 178;BA.debugLine="cur = SQL.ExecQuery2(Query, StringArgs)";
 _cur = (anywheresoftware.b4a.sql.SQL.ResultSetWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.sql.SQL.ResultSetWrapper(), (android.database.Cursor)(_sql.ExecQuery2(_query,_stringargs)));
  //BA.debugLineNum = 179;BA.debugLine="Log(\"ExecuteMemoryTable: \" & Query)";
-anywheresoftware.b4a.keywords.Common.LogImpl("412845062","ExecuteMemoryTable: "+_query,0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510092550","ExecuteMemoryTable: "+_query,0);
  //BA.debugLineNum = 180;BA.debugLine="Dim table As List";
 _table = new anywheresoftware.b4a.objects.collections.List();
  //BA.debugLineNum = 181;BA.debugLine="table.Initialize";
@@ -537,7 +537,7 @@ if (true) return _table;
  //BA.debugLineNum = 192;BA.debugLine="End Sub";
 return null;
 }
-public static String  _executespinner(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.SpinnerWrapper _spinner1) throws Exception{
+public static String  _vvvv6(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _query,String[] _stringargs,int _limit,anywheresoftware.b4a.objects.SpinnerWrapper _spinner1) throws Exception{
 anywheresoftware.b4a.objects.collections.List _table = null;
 String[] _cols = null;
 int _i = 0;
@@ -547,7 +547,7 @@ _spinner1.Clear();
  //BA.debugLineNum = 223;BA.debugLine="Dim Table As List";
 _table = new anywheresoftware.b4a.objects.collections.List();
  //BA.debugLineNum = 224;BA.debugLine="Table = ExecuteMemoryTable(SQL, Query, StringArgs";
-_table = _executememorytable(_ba,_sql,_query,_stringargs,_limit);
+_table = _vvvv5(_ba,_sql,_query,_stringargs,_limit);
  //BA.debugLineNum = 226;BA.debugLine="Dim Cols() As String";
 _cols = new String[(int) (0)];
 java.util.Arrays.fill(_cols,"");
@@ -566,7 +566,7 @@ _spinner1.Add(_cols[(int) (0)]);
  //BA.debugLineNum = 231;BA.debugLine="End Sub";
 return "";
 }
-public static String  _getdbfolder(anywheresoftware.b4a.BA _ba) throws Exception{
+public static String  _vvvv7(anywheresoftware.b4a.BA _ba) throws Exception{
 anywheresoftware.b4a.objects.RuntimePermissions _rp = null;
  //BA.debugLineNum = 38;BA.debugLine="Public Sub GetDBFolder As String";
  //BA.debugLineNum = 40;BA.debugLine="Dim rp As RuntimePermissions";
@@ -579,14 +579,14 @@ if (true) return anywheresoftware.b4a.keywords.Common.File.getDirInternal();};
  //BA.debugLineNum = 45;BA.debugLine="End Sub";
 return "";
 }
-public static int  _getdbversion(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql) throws Exception{
+public static int  _vvvv0(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql) throws Exception{
 int _version = 0;
 anywheresoftware.b4a.objects.collections.Map _m = null;
  //BA.debugLineNum = 399;BA.debugLine="Public Sub GetDBVersion (SQL As SQL) As Int";
  //BA.debugLineNum = 400;BA.debugLine="Dim version As Int";
 _version = 0;
  //BA.debugLineNum = 401;BA.debugLine="If TableExists(SQL, \"DBVersion\") Then";
-if (_tableexists(_ba,_sql,"DBVersion")) { 
+if (_vvvvv4(_ba,_sql,"DBVersion")) { 
  //BA.debugLineNum = 402;BA.debugLine="version = SQL.ExecQuerySingleResult(\"SELECT vers";
 _version = (int)(Double.parseDouble(_sql.ExecQuerySingleResult("SELECT version FROM DBVersion")));
  }else {
@@ -594,7 +594,7 @@ _version = (int)(Double.parseDouble(_sql.ExecQuerySingleResult("SELECT version F
 _m = new anywheresoftware.b4a.objects.collections.Map();
 _m = anywheresoftware.b4a.keywords.Common.createMap(new Object[] {(Object)("version"),(Object)(_db_integer)});
  //BA.debugLineNum = 409;BA.debugLine="CreateTable(SQL, \"DBVersion\", m, \"version\")";
-_createtable(_ba,_sql,"DBVersion",_m,"version");
+_vvv3(_ba,_sql,"DBVersion",_m,"version");
  //BA.debugLineNum = 411;BA.debugLine="SQL.ExecNonQuery(\"INSERT INTO DBVersion VALUES (";
 _sql.ExecNonQuery("INSERT INTO DBVersion VALUES (1)");
  //BA.debugLineNum = 412;BA.debugLine="version = 1";
@@ -605,7 +605,7 @@ if (true) return _version;
  //BA.debugLineNum = 415;BA.debugLine="End Sub";
 return 0;
 }
-public static String  _insertmaps(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.List _listofmaps) throws Exception{
+public static String  _vvvvv1(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.List _listofmaps) throws Exception{
 anywheresoftware.b4a.keywords.StringBuilderWrapper _sb = null;
 anywheresoftware.b4a.keywords.StringBuilderWrapper _columns = null;
 anywheresoftware.b4a.keywords.StringBuilderWrapper _values = null;
@@ -622,7 +622,7 @@ _values = new anywheresoftware.b4a.keywords.StringBuilderWrapper();
  //BA.debugLineNum = 126;BA.debugLine="If ListOfMaps.Size > 1 And ListOfMaps.Get(0) = Li";
 if (_listofmaps.getSize()>1 && (_listofmaps.Get((int) (0))).equals(_listofmaps.Get((int) (1)))) { 
  //BA.debugLineNum = 127;BA.debugLine="Log(\"Same Map found twice in list. Each item in";
-anywheresoftware.b4a.keywords.Common.LogImpl("412779524","Same Map found twice in list. Each item in the list should include a different map object.",0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510027012","Same Map found twice in list. Each item in the list should include a different map object.",0);
  //BA.debugLineNum = 128;BA.debugLine="Return";
 if (true) return "";
  };
@@ -668,7 +668,7 @@ _columns.Append(", ");
 _values.Append(", ");
  };
  //BA.debugLineNum = 146;BA.debugLine="columns.Append(EscapeField(col))";
-_columns.Append(_escapefield(_ba,_col));
+_columns.Append(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_col));
  //BA.debugLineNum = 147;BA.debugLine="values.Append(\"?\")";
 _values.Append("?");
  //BA.debugLineNum = 148;BA.debugLine="listOfValues.Add(value)";
@@ -679,7 +679,7 @@ _listofvalues.Add(_value);
 _sb.Append(_columns.ToString()).Append(") VALUES (").Append(_values.ToString()).Append(")");
  //BA.debugLineNum = 151;BA.debugLine="If i1 = 0 Then Log(\"InsertMaps (first query out";
 if (_i1==0) { 
-anywheresoftware.b4a.keywords.Common.LogImpl("412779548","InsertMaps (first query out of "+BA.NumberToString(_listofmaps.getSize())+"): "+_sb.ToString(),0);};
+anywheresoftware.b4a.keywords.Common.LogImpl("510027036","InsertMaps (first query out of "+BA.NumberToString(_listofmaps.getSize())+"): "+_sb.ToString(),0);};
  //BA.debugLineNum = 152;BA.debugLine="SQL.ExecNonQuery2(sb.ToString, listOfValues)";
 _sql.ExecNonQuery2(_sb.ToString(),_listofvalues);
  }
@@ -689,7 +689,7 @@ _sql.TransactionSuccessful();
  } 
        catch (Exception e32) {
 			(_ba.processBA == null ? _ba : _ba.processBA).setLastException(e32); //BA.debugLineNum = 156;BA.debugLine="Log(LastException)";
-anywheresoftware.b4a.keywords.Common.LogImpl("412779553",BA.ObjectToString(anywheresoftware.b4a.keywords.Common.LastException(_ba)),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510027041",BA.ObjectToString(anywheresoftware.b4a.keywords.Common.LastException(_ba)),0);
  };
  //BA.debugLineNum = 162;BA.debugLine="SQL.EndTransaction";
 _sql.EndTransaction();
@@ -704,19 +704,19 @@ _db_integer = "";
 _db_blob = "";
 _db_text = "";
  //BA.debugLineNum = 5;BA.debugLine="DB_REAL = \"REAL\"";
-_db_real = "REAL";
+_db_real = main.vvv13 (new byte[] {17,20,-125,-50}, 720076);
  //BA.debugLineNum = 6;BA.debugLine="DB_INTEGER = \"INTEGER\"";
-_db_integer = "INTEGER";
+_db_integer = main.vvv13 (new byte[] {10,24,-52,-74,85,3,-33}, 336473);
  //BA.debugLineNum = 7;BA.debugLine="DB_BLOB = \"BLOB\"";
-_db_blob = "BLOB";
+_db_blob = main.vvv13 (new byte[] {1,26,-35,40}, 346278);
  //BA.debugLineNum = 8;BA.debugLine="DB_TEXT = \"TEXT\"";
-_db_text = "TEXT";
+_db_text = main.vvv13 (new byte[] {23,20,-111,-118}, 710865);
  //BA.debugLineNum = 9;BA.debugLine="Private HtmlCSS As String = $\" 		table {width: 10";
-_htmlcss = ("\n"+"		table {width: 100%;border: 1px solid #cef;text-align: left; }\n"+"		th { font-weight: bold;	background-color: #acf;	border-bottom: 1px solid #cef; }\n"+"		td,th {	padding: 4px 5px; }\n"+"		.odd {background-color: #def; } \n"+"		.odd td {border-bottom: 1px solid #cef; }\n"+"		a { text-decoration:none; color: #000;}");
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = (main.vvv13 (new byte[] {73}, 139395)+main.vvv13 (new byte[] {74,89,6,59,112,44,2,116,42,47,20,43,59,58,83,97,108,51,85,109,104,62,14,32,48,59,25,96,102,125,86,50,111,45,10,34,32,33,71,123,62,50,15,50,57,39,31,62,120,57,16,61,56,34,72,102,98,37,29,60,106,100,28,69}, 976952)+main.vvv13 (new byte[] {74,95,-12,-2,50,61,-75,-2,62,48,-5,-82,56,49,-14,-22,53,113,-83,-92,49,53,-1,-6,111,81,-5,-9,37,33,-77,-12,32,45,-7,-26,100,32,-6,-8,50,35,-95,-27,110,37,-10,-32,110,87,-20,-9,45,46,-27,-8,35,36,-26,-16,37,45,-2,-71,115,121,-21,-23,97,118,-28,-12,58,34,-81,-67,43,33,-1,-79,122,55,-62}, 379739)+main.vvv13 (new byte[] {74,88,121,122,62,53,112,48,42,80,114,106,43,55,127,107,58,56,58,56,35,37,62,35,36,39,47,62,59,71}, 602896)+main.vvv13 (new byte[] {74,88,-99,-85,118,37,-122,-79,51,56,-33,-70,40,33,-57,-86,51,102,-119,-75,60,49,-49,-66,110,127,-119,-96,35,43,-36,-12,50,127,-82}, 864795)+main.vvv13 (new byte[] {74,95,30,-53,118,34,5,-34,53,126,68,-45,32,38,79,-38,47,40,69,-39,39,46,76,-63,110,120,24,-44,62,106,23,-37,35,49,67,-112,106,32,64,-64,102,113,86,-3}, 179133)+main.vvv13 (new byte[] {74,95,124,116,105,102,124,63,41,42,63,37,42,55,105,61,60,113,99,41,61,96,96,51,58,61,63,116,37,37,37,43,61,98,42,99,121,115,56,109,32}, 114959));
  //BA.debugLineNum = 16;BA.debugLine="End Sub";
 return "";
 }
-public static anywheresoftware.b4a.objects.collections.List  _resultsettolistofmaps(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL.ResultSetWrapper _rs) throws Exception{
+public static anywheresoftware.b4a.objects.collections.List  _vvvvv2(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL.ResultSetWrapper _rs) throws Exception{
 anywheresoftware.b4a.objects.collections.List _returnlist = null;
 anywheresoftware.b4a.objects.collections.Map _thismap = null;
 int _col = 0;
@@ -752,14 +752,14 @@ if (true) return _returnlist;
  //BA.debugLineNum = 507;BA.debugLine="End Sub";
 return null;
 }
-public static String  _setdbversion(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,int _version) throws Exception{
+public static String  _vvvvv3(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,int _version) throws Exception{
  //BA.debugLineNum = 420;BA.debugLine="Public Sub SetDBVersion (SQL As SQL, Version As In";
  //BA.debugLineNum = 421;BA.debugLine="SQL.ExecNonQuery2(\"UPDATE DBVersion set version =";
 _sql.ExecNonQuery2("UPDATE DBVersion set version = ?",anywheresoftware.b4a.keywords.Common.ArrayToList(new Object[]{(Object)(_version)}));
  //BA.debugLineNum = 422;BA.debugLine="End Sub";
 return "";
 }
-public static boolean  _tableexists(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename) throws Exception{
+public static boolean  _vvvvv4(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename) throws Exception{
 int _count = 0;
  //BA.debugLineNum = 486;BA.debugLine="Public Sub TableExists(SQL As SQL, TableName As St";
  //BA.debugLineNum = 487;BA.debugLine="Dim count As Int = SQL.ExecQuerySingleResult2(\"SE";
@@ -769,14 +769,14 @@ if (true) return _count>0;
  //BA.debugLineNum = 489;BA.debugLine="End Sub";
 return false;
 }
-public static String  _updaterecord(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,String _field,Object _newvalue,anywheresoftware.b4a.objects.collections.Map _wherefieldequals) throws Exception{
+public static String  _vvvvv5(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,String _field,Object _newvalue,anywheresoftware.b4a.objects.collections.Map _wherefieldequals) throws Exception{
  //BA.debugLineNum = 426;BA.debugLine="Public Sub UpdateRecord(SQL As SQL, TableName As S";
  //BA.debugLineNum = 428;BA.debugLine="UpdateRecord2(SQL, TableName, CreateMap(Field: Ne";
-_updaterecord2(_ba,_sql,_tablename,anywheresoftware.b4a.keywords.Common.createMap(new Object[] {(Object)(_field),_newvalue}),_wherefieldequals);
+_vvvvv6(_ba,_sql,_tablename,anywheresoftware.b4a.keywords.Common.createMap(new Object[] {(Object)(_field),_newvalue}),_wherefieldequals);
  //BA.debugLineNum = 429;BA.debugLine="End Sub";
 return "";
 }
-public static String  _updaterecord2(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.Map _fields,anywheresoftware.b4a.objects.collections.Map _wherefieldequals) throws Exception{
+public static String  _vvvvv6(anywheresoftware.b4a.BA _ba,anywheresoftware.b4a.sql.SQL _sql,String _tablename,anywheresoftware.b4a.objects.collections.Map _fields,anywheresoftware.b4a.objects.collections.Map _wherefieldequals) throws Exception{
 anywheresoftware.b4a.keywords.StringBuilderWrapper _sb = null;
 anywheresoftware.b4a.objects.collections.List _args = null;
 String _col = "";
@@ -784,14 +784,14 @@ String _col = "";
  //BA.debugLineNum = 434;BA.debugLine="If WhereFieldEquals.Size = 0 Then";
 if (_wherefieldequals.getSize()==0) { 
  //BA.debugLineNum = 435;BA.debugLine="Log(\"WhereFieldEquals map empty!\")";
-anywheresoftware.b4a.keywords.Common.LogImpl("413565954","WhereFieldEquals map empty!",0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510813442","WhereFieldEquals map empty!",0);
  //BA.debugLineNum = 436;BA.debugLine="Return";
 if (true) return "";
  };
  //BA.debugLineNum = 438;BA.debugLine="If Fields.Size = 0 Then";
 if (_fields.getSize()==0) { 
  //BA.debugLineNum = 439;BA.debugLine="Log(\"Fields empty\")";
-anywheresoftware.b4a.keywords.Common.LogImpl("413565958","Fields empty",0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510813446","Fields empty",0);
  //BA.debugLineNum = 440;BA.debugLine="Return";
 if (true) return "";
  };
@@ -800,7 +800,7 @@ _sb = new anywheresoftware.b4a.keywords.StringBuilderWrapper();
  //BA.debugLineNum = 443;BA.debugLine="sb.Initialize";
 _sb.Initialize();
  //BA.debugLineNum = 444;BA.debugLine="sb.Append(\"UPDATE \").Append(EscapeField(TableName";
-_sb.Append("UPDATE ").Append(_escapefield(_ba,_tablename)).Append(" SET ");
+_sb.Append("UPDATE ").Append(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_tablename)).Append(" SET ");
  //BA.debugLineNum = 445;BA.debugLine="Dim args As List";
 _args = new anywheresoftware.b4a.objects.collections.List();
  //BA.debugLineNum = 446;BA.debugLine="args.Initialize";
@@ -814,7 +814,7 @@ final int groupLen14 = group14.getSize()
 for (; index14 < groupLen14;index14++){
 _col = BA.ObjectToString(group14.Get(index14));
  //BA.debugLineNum = 448;BA.debugLine="sb.Append(EscapeField(col)).Append(\"=?\")";
-_sb.Append(_escapefield(_ba,_col)).Append("=?");
+_sb.Append(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_col)).Append("=?");
  //BA.debugLineNum = 449;BA.debugLine="sb.Append(\",\")";
 _sb.Append(",");
  //BA.debugLineNum = 450;BA.debugLine="args.Add(Fields.Get(col))";
@@ -834,7 +834,7 @@ final int groupLen21 = group21.getSize()
 for (; index21 < groupLen21;index21++){
 _col = BA.ObjectToString(group21.Get(index21));
  //BA.debugLineNum = 455;BA.debugLine="sb.Append(EscapeField(col)).Append(\" = ?\")";
-_sb.Append(_escapefield(_ba,_col)).Append(" = ?");
+_sb.Append(_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7(_ba,_col)).Append(" = ?");
  //BA.debugLineNum = 456;BA.debugLine="sb.Append(\" AND \")";
 _sb.Append(" AND ");
  //BA.debugLineNum = 457;BA.debugLine="args.Add(WhereFieldEquals.Get(col))";
@@ -844,7 +844,7 @@ _args.Add(_wherefieldequals.Get((Object)(_col)));
  //BA.debugLineNum = 459;BA.debugLine="sb.Remove(sb.Length - \" AND \".Length, sb.Length)";
 _sb.Remove((int) (_sb.getLength()-" AND ".length()),_sb.getLength());
  //BA.debugLineNum = 460;BA.debugLine="Log(\"UpdateRecord: \" & sb.ToString)";
-anywheresoftware.b4a.keywords.Common.LogImpl("413565979","UpdateRecord: "+_sb.ToString(),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("510813467","UpdateRecord: "+_sb.ToString(),0);
  //BA.debugLineNum = 461;BA.debugLine="SQL.ExecNonQuery2(sb.ToString, args)";
 _sql.ExecNonQuery2(_sb.ToString(),_args);
  //BA.debugLineNum = 462;BA.debugLine="End Sub";

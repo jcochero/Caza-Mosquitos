@@ -125,47 +125,47 @@ public class firebasemessaging extends  android.app.Service{
 	public android.os.IBinder onBind(android.content.Intent intent) {
 		return null;
 	}public anywheresoftware.b4a.keywords.Common __c = null;
-public static anywheresoftware.b4a.objects.FirebaseNotificationsService.FirebaseMessageWrapper _fm = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public static anywheresoftware.b4a.objects.FirebaseNotificationsService.FirebaseMessageWrapper _vv6 = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmeditprofile _frmeditprofile = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmeditprofile _vvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 public static String  _fm_messagearrived(anywheresoftware.b4a.objects.FirebaseNotificationsService.RemoteMessageWrapper _message) throws Exception{
 anywheresoftware.b4a.objects.NotificationWrapper _n = null;
  //BA.debugLineNum = 28;BA.debugLine="Sub fm_MessageArrived (Message As RemoteMessage)";
  //BA.debugLineNum = 29;BA.debugLine="Log(\"Message arrived\")";
-anywheresoftware.b4a.keywords.Common.LogImpl("414811137","Message arrived",0);
+anywheresoftware.b4a.keywords.Common.LogImpl("512058625","Message arrived",0);
  //BA.debugLineNum = 30;BA.debugLine="Log($\"Message data: ${Message.GetData}\"$)";
-anywheresoftware.b4a.keywords.Common.LogImpl("414811138",("Message data: "+anywheresoftware.b4a.keywords.Common.SmartStringFormatter("",(Object)(_message.GetData().getObject()))+""),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("512058626",("Message data: "+anywheresoftware.b4a.keywords.Common.SmartStringFormatter("",(Object)(_message.GetData().getObject()))+""),0);
  //BA.debugLineNum = 31;BA.debugLine="Dim n As Notification";
 _n = new anywheresoftware.b4a.objects.NotificationWrapper();
  //BA.debugLineNum = 32;BA.debugLine="n.Initialize";
@@ -173,7 +173,7 @@ _n.Initialize();
  //BA.debugLineNum = 33;BA.debugLine="n.Icon = \"icon\"";
 _n.setIcon("icon");
  //BA.debugLineNum = 34;BA.debugLine="n.SetInfo(Message.GetData.Get(\"title\"), Message.G";
-_n.SetInfoNew(processBA,BA.ObjectToCharSequence(_message.GetData().Get((Object)("title"))),BA.ObjectToCharSequence(_message.GetData().Get((Object)("body"))),(Object)(mostCurrent._main.getObject()));
+_n.SetInfoNew(processBA,BA.ObjectToCharSequence(_message.GetData().Get((Object)("title"))),BA.ObjectToCharSequence(_message.GetData().Get((Object)("body"))),(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2.getObject()));
  //BA.debugLineNum = 35;BA.debugLine="n.Notify(1)";
 _n.Notify((int) (1));
  //BA.debugLineNum = 36;BA.debugLine="End Sub";
@@ -182,14 +182,14 @@ return "";
 public static String  _process_globals() throws Exception{
  //BA.debugLineNum = 6;BA.debugLine="Sub Process_Globals";
  //BA.debugLineNum = 7;BA.debugLine="Public fm As FirebaseMessaging";
-_fm = new anywheresoftware.b4a.objects.FirebaseNotificationsService.FirebaseMessageWrapper();
+_vv6 = new anywheresoftware.b4a.objects.FirebaseNotificationsService.FirebaseMessageWrapper();
  //BA.debugLineNum = 8;BA.debugLine="End Sub";
 return "";
 }
 public static String  _service_create() throws Exception{
  //BA.debugLineNum = 10;BA.debugLine="Sub Service_Create";
  //BA.debugLineNum = 11;BA.debugLine="fm.Initialize(\"fm\")";
-_fm.Initialize(processBA,"fm");
+_vv6.Initialize(processBA,"fm");
  //BA.debugLineNum = 12;BA.debugLine="End Sub";
 return "";
 }
@@ -234,7 +234,7 @@ this.state = 3;
 case 3:
 //C
 this.state = 6;
-parent._fm.HandleIntent((android.content.Intent)(_startingintent.getObject()));
+parent._vv6.HandleIntent((android.content.Intent)(_startingintent.getObject()));
 if (true) break;
 
 case 6:
@@ -261,9 +261,9 @@ if (true) break;
 public static String  _subscribetotopics() throws Exception{
  //BA.debugLineNum = 14;BA.debugLine="Public Sub SubscribeToTopics'************ Google P";
  //BA.debugLineNum = 16;BA.debugLine="fm.SubscribeToTopic(\"general\") 'you can subscribe";
-_fm.SubscribeToTopic("general");
+_vv6.SubscribeToTopic("general");
  //BA.debugLineNum = 17;BA.debugLine="Log (fm.Token)";
-anywheresoftware.b4a.keywords.Common.LogImpl("414680067",_fm.getToken(),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("511927555",_vv6.getToken(),0);
  //BA.debugLineNum = 18;BA.debugLine="End Sub";
 return "";
 }

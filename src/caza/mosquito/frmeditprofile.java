@@ -347,15 +347,15 @@ public anywheresoftware.b4a.objects.SpinnerWrapper _spnperfil = null;
 public anywheresoftware.b4a.objects.SpinnerWrapper _spnorganizaciones = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblorg = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblagregarorg = null;
-public static boolean _neworg = false;
-public static String _nombreorg = "";
-public static String _idorg = "";
-public static String _localidadorg = "";
-public static String _provinciaorg = "";
-public static String _tipoorg = "";
-public static String _adminorg = "";
-public static String _idorgelegida = "";
-public anywheresoftware.b4a.objects.collections.Map _listaorgs = null;
+public static boolean _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = false;
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = "";
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = "";
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = "";
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = "";
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = "";
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = "";
+public static String _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = "";
+public anywheresoftware.b4a.objects.collections.Map _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblfullname = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lbllocation = null;
 public anywheresoftware.b4a.objects.LabelWrapper _lblperfil = null;
@@ -365,39 +365,39 @@ public anywheresoftware.b4a.objects.ButtonWrapper _btneditprofile = null;
 public anywheresoftware.b4a.objects.EditTextWrapper _txtorgid = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _btncancelarregistro = null;
 public anywheresoftware.b4a.objects.ButtonWrapper _btnregister = null;
-public caza.mosquito.main _main = null;
-public caza.mosquito.frmcamara _frmcamara = null;
-public caza.mosquito.frmquehacer _frmquehacer = null;
-public caza.mosquito.register _register = null;
-public caza.mosquito.frmlogin _frmlogin = null;
-public caza.mosquito.frmprincipal _frmprincipal = null;
-public caza.mosquito.starter _starter = null;
-public caza.mosquito.dbutils _dbutils = null;
-public caza.mosquito.downloadservice _downloadservice = null;
-public caza.mosquito.firebasemessaging _firebasemessaging = null;
-public caza.mosquito.frmabout _frmabout = null;
-public caza.mosquito.frmaprender _frmaprender = null;
-public caza.mosquito.frmcomofotos _frmcomofotos = null;
-public caza.mosquito.frmcomotransmiten _frmcomotransmiten = null;
+public caza.mosquito.main _vvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmprincipal _vvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.starter _vvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomofotos _vvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.frmlogin _vvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.dbutils _vvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.downloadservice _vvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.firebasemessaging _vvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmabout _vvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmaprender _vvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmcamara _vvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmcomotransmiten _vvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frmcomovemos_app _frmcomovemos_app = null;
 public caza.mosquito.frmcomovemos_enfermedades _frmcomovemos_enfermedades = null;
 public caza.mosquito.frmcomovemos_porqueexiste _frmcomovemos_porqueexiste = null;
-public caza.mosquito.frmdatosanteriores _frmdatosanteriores = null;
-public caza.mosquito.frmdondecria _frmdondecria = null;
-public caza.mosquito.frmelmosquito _frmelmosquito = null;
-public caza.mosquito.frmenfermedades _frmenfermedades = null;
-public caza.mosquito.frmfotos _frmfotos = null;
-public caza.mosquito.frmfotoscriadero _frmfotoscriadero = null;
-public caza.mosquito.frmidentificarmosquito _frmidentificarmosquito = null;
+public caza.mosquito.frmdatosanteriores _vvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmdondecria _vvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmelmosquito _vvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmenfermedades _vvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.frmfotos _vvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.frmfotoscriadero _vvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.frmidentificarmosquito _vvvvvvvvvvvvvvvvvvvv5 = null;
 public caza.mosquito.frminfografias_main _frminfografias_main = null;
-public caza.mosquito.frminstrucciones _frminstrucciones = null;
-public caza.mosquito.frmlocalizacion _frmlocalizacion = null;
-public caza.mosquito.frmmapa _frmmapa = null;
-public caza.mosquito.frmpoliticadatos _frmpoliticadatos = null;
-public caza.mosquito.httputils2service _httputils2service = null;
-public caza.mosquito.multipartpost _multipartpost = null;
-public caza.mosquito.uploadfiles _uploadfiles = null;
-public caza.mosquito.utilidades _utilidades = null;
+public caza.mosquito.frminstrucciones _vvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.frmlocalizacion _vvvvvvvvvvvvvvvvvvvv7 = null;
+public caza.mosquito.frmmapa _vvvvvvvvvvvvvvvvvvvv0 = null;
+public caza.mosquito.frmpoliticadatos _vvvvvvvvvvvvvvvvvvvvv1 = null;
+public caza.mosquito.frmquehacer _vvvvvvvvvvvvvvvvvvvvv2 = null;
+public caza.mosquito.httputils2service _vvvvvvvvvvvvvvvvvvvvv3 = null;
+public caza.mosquito.multipartpost _vvvvvvvvvvvvvvvvvvvvv4 = null;
+public caza.mosquito.register _vvvvvvvvvvvvvvvvvvvvv5 = null;
+public caza.mosquito.uploadfiles _vvvvvvvvvvvvvvvvvvvvv6 = null;
+public caza.mosquito.utilidades _vvvvvvvvvvvvvvvvvvvvv7 = null;
 
 public static void initializeProcessGlobals() {
              try {
@@ -411,25 +411,25 @@ public static String  _activity_create(boolean _firsttime) throws Exception{
  //BA.debugLineNum = 50;BA.debugLine="Activity.LoadLayout(\"layEditProfile\")";
 mostCurrent._activity.LoadLayout("layEditProfile",mostCurrent.activityBA);
  //BA.debugLineNum = 51;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 52;BA.debugLine="spnPerfil.Add(\"Individual\")";
 mostCurrent._spnperfil.Add("Individual");
  //BA.debugLineNum = 53;BA.debugLine="spnPerfil.Add(\"Grupo\")";
 mostCurrent._spnperfil.Add("Grupo");
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 55;BA.debugLine="spnPerfil.Add(\"Single user\")";
 mostCurrent._spnperfil.Add("Single user");
  //BA.debugLineNum = 56;BA.debugLine="spnPerfil.Add(\"Group of users\")";
 mostCurrent._spnperfil.Add("Group of users");
  };
  //BA.debugLineNum = 60;BA.debugLine="txtFullName.Text = Main.strUserFullName";
-mostCurrent._txtfullname.setText(BA.ObjectToCharSequence(mostCurrent._main._struserfullname /*String*/ ));
+mostCurrent._txtfullname.setText(BA.ObjectToCharSequence(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv3 /*String*/ ));
  //BA.debugLineNum = 61;BA.debugLine="lblTitle.Text = Main.username";
-mostCurrent._lbltitle.setText(BA.ObjectToCharSequence(mostCurrent._main._username /*String*/ ));
+mostCurrent._lbltitle.setText(BA.ObjectToCharSequence(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv7 /*String*/ ));
  //BA.debugLineNum = 62;BA.debugLine="txtLocation.Text = Main.strUserLocation";
-mostCurrent._txtlocation.setText(BA.ObjectToCharSequence(mostCurrent._main._struserlocation /*String*/ ));
+mostCurrent._txtlocation.setText(BA.ObjectToCharSequence(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv1 /*String*/ ));
  //BA.debugLineNum = 63;BA.debugLine="If Main.strUserGroup = Null Or Main.strUserGroup";
-if (mostCurrent._main._strusergroup /*String*/ == null || (mostCurrent._main._strusergroup /*String*/ ).equals("null") || (mostCurrent._main._strusergroup /*String*/ ).equals("")) { 
+if (mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/ == null || (mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/ ).equals("null") || (mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/ ).equals("")) { 
  //BA.debugLineNum = 64;BA.debugLine="spnPerfil.SelectedIndex = 0";
 mostCurrent._spnperfil.setSelectedIndex((int) (0));
  //BA.debugLineNum = 65;BA.debugLine="lblOrg.Visible = False";
@@ -446,14 +446,14 @@ mostCurrent._label2.setVisible(anywheresoftware.b4a.keywords.Common.True);
  //BA.debugLineNum = 71;BA.debugLine="spnPerfil.SelectedIndex = 1";
 mostCurrent._spnperfil.setSelectedIndex((int) (1));
  //BA.debugLineNum = 72;BA.debugLine="spnOrganizaciones.Add(Main.strUserGroup)";
-mostCurrent._spnorganizaciones.Add(mostCurrent._main._strusergroup /*String*/ );
+mostCurrent._spnorganizaciones.Add(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/ );
  //BA.debugLineNum = 73;BA.debugLine="spnOrganizaciones.Enabled = False";
 mostCurrent._spnorganizaciones.setEnabled(anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 74;BA.debugLine="spnOrganizaciones.Visible = True";
 mostCurrent._spnorganizaciones.setVisible(anywheresoftware.b4a.keywords.Common.True);
  };
  //BA.debugLineNum = 77;BA.debugLine="utilidades.ResetUserFontScale(Activity)";
-mostCurrent._utilidades._resetuserfontscale /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvv7._vvvvvvvvv0 /*String*/ (mostCurrent.activityBA,(anywheresoftware.b4a.objects.PanelWrapper) anywheresoftware.b4a.AbsObjectWrapper.ConvertToWrapper(new anywheresoftware.b4a.objects.PanelWrapper(), (android.view.ViewGroup)(mostCurrent._activity.getObject())));
  //BA.debugLineNum = 80;BA.debugLine="End Sub";
 return "";
 }
@@ -477,7 +477,7 @@ return "";
 public static String  _activity_resume() throws Exception{
  //BA.debugLineNum = 88;BA.debugLine="Sub Activity_Resume";
  //BA.debugLineNum = 89;BA.debugLine="TranslateGUI";
-_translategui();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3();
  //BA.debugLineNum = 90;BA.debugLine="End Sub";
 return "";
 }
@@ -487,14 +487,14 @@ String _action = "";
 anywheresoftware.b4a.objects.collections.JSONParser _parser = null;
  //BA.debugLineNum = 395;BA.debugLine="Sub AddOrg_Complete(Job As HttpJob)";
  //BA.debugLineNum = 396;BA.debugLine="Log(\"AddOrg: \" & Job.Success)";
-anywheresoftware.b4a.keywords.Common.LogImpl("424903681","AddOrg: "+BA.ObjectToString(_job._success /*boolean*/ ),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("523068673","AddOrg: "+BA.ObjectToString(_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*boolean*/ ),0);
  //BA.debugLineNum = 397;BA.debugLine="If Job.Success = True Then";
-if (_job._success /*boolean*/ ==anywheresoftware.b4a.keywords.Common.True) { 
+if (_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*boolean*/ ==anywheresoftware.b4a.keywords.Common.True) { 
  //BA.debugLineNum = 398;BA.debugLine="Dim res As String, action As String";
 _res = "";
 _action = "";
  //BA.debugLineNum = 399;BA.debugLine="res = Job.GetString";
-_res = _job._getstring /*String*/ ();
+_res = _job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ();
  //BA.debugLineNum = 400;BA.debugLine="Dim parser As JSONParser";
 _parser = new anywheresoftware.b4a.objects.collections.JSONParser();
  //BA.debugLineNum = 401;BA.debugLine="parser.Initialize(res)";
@@ -506,17 +506,17 @@ if ((_action).equals("Mail")) {
  //BA.debugLineNum = 404;BA.debugLine="ToastMessageShow(\"Grupo creado exitosamente, gu";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("Grupo creado exitosamente, guardando usuario"),anywheresoftware.b4a.keywords.Common.False);
  //BA.debugLineNum = 405;BA.debugLine="newOrg = True";
-_neworg = anywheresoftware.b4a.keywords.Common.True;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = anywheresoftware.b4a.keywords.Common.True;
  //BA.debugLineNum = 406;BA.debugLine="Main.strUserGroup = idOrgElegida";
-mostCurrent._main._strusergroup /*String*/  = mostCurrent._idorgelegida;
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3;
  //BA.debugLineNum = 407;BA.debugLine="EditUser";
-_edituser();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4();
  }else if((_action).equals("MailInUse")) { 
  //BA.debugLineNum = 410;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 411;BA.debugLine="MsgboxAsync(\"El grupo '\" & txtOrgID.Text & \"ya";
 anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("El grupo '"+mostCurrent._txtorgid.getText()+"ya están en uso"),BA.ObjectToCharSequence("Registro"),processBA);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 413;BA.debugLine="MsgboxAsync(\"The username '\" & txtOrgID.Text &";
 anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("The username '"+mostCurrent._txtorgid.getText()+" already exists"),BA.ObjectToCharSequence("Sign up"),processBA);
  };
@@ -526,12 +526,12 @@ mostCurrent._activity.RemoveAllViews();
 _activity_create(anywheresoftware.b4a.keywords.Common.False);
  }else {
  //BA.debugLineNum = 418;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 419;BA.debugLine="MsgboxAsync(\"El servidor no devolvió los valor";
-anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("El servidor no devolvió los valores esperados."+_job._errormessage /*String*/ ),BA.ObjectToCharSequence("Registro"),processBA);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("El servidor no devolvió los valores esperados."+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ),BA.ObjectToCharSequence("Registro"),processBA);
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 421;BA.debugLine="MsgboxAsync(\"The server did not return the exp";
-anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("The server did not return the expected values."+_job._errormessage /*String*/ ),BA.ObjectToCharSequence("Sign up"),processBA);
+anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("The server did not return the expected values."+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ),BA.ObjectToCharSequence("Sign up"),processBA);
  };
  //BA.debugLineNum = 423;BA.debugLine="Activity.RemoveAllViews()";
 mostCurrent._activity.RemoveAllViews();
@@ -540,7 +540,7 @@ _activity_create(anywheresoftware.b4a.keywords.Common.False);
  };
  };
  //BA.debugLineNum = 427;BA.debugLine="Job.Release";
-_job._release /*String*/ ();
+_job._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 428;BA.debugLine="ProgressDialogHide";
 anywheresoftware.b4a.keywords.Common.ProgressDialogHide();
  //BA.debugLineNum = 429;BA.debugLine="End Sub";
@@ -577,10 +577,10 @@ _strpassword2 = mostCurrent._txtpassword2.getText().trim();
  //BA.debugLineNum = 163;BA.debugLine="If strPassword2 = \"\" Then";
 if ((_strpassword2).equals("")) { 
  //BA.debugLineNum = 164;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 165;BA.debugLine="MsgboxAsync(\"Confirme su nueva contraseña\", \"E";
 anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Confirme su nueva contraseña"),BA.ObjectToCharSequence("Error"),processBA);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 167;BA.debugLine="MsgboxAsync(\"Confirm your new password\", \"Erro";
 anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Confirm your new password"),BA.ObjectToCharSequence("Error"),processBA);
  };
@@ -590,10 +590,10 @@ if (true) return "";
  //BA.debugLineNum = 174;BA.debugLine="If strPassword <> strPassword2 Then";
 if ((_strpassword).equals(_strpassword2) == false) { 
  //BA.debugLineNum = 175;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 176;BA.debugLine="MsgboxAsync(\"Las contraseñas no coinciden\", \"E";
 anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Las contraseñas no coinciden"),BA.ObjectToCharSequence("Error"),processBA);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 178;BA.debugLine="MsgboxAsync(\"Passwords don't match\", \"Error\")";
 anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Passwords don't match"),BA.ObjectToCharSequence("Error"),processBA);
  };
@@ -602,15 +602,15 @@ if (true) return "";
  };
  };
  //BA.debugLineNum = 183;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 184;BA.debugLine="ProgressDialogShow(\"Guardando cambios...\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Guardando cambios..."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 186;BA.debugLine="ProgressDialogShow(\"Saving changes...\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Saving changes..."));
  };
  //BA.debugLineNum = 189;BA.debugLine="EditUser";
-_edituser();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4();
  //BA.debugLineNum = 190;BA.debugLine="End Sub";
 return "";
 }
@@ -625,50 +625,50 @@ anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("D
 if (true) return "";
  };
  //BA.debugLineNum = 379;BA.debugLine="idOrgElegida = txtOrgID.Text";
-mostCurrent._idorgelegida = mostCurrent._txtorgid.getText();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = mostCurrent._txtorgid.getText();
  //BA.debugLineNum = 380;BA.debugLine="Dim dd As DownloadData";
 _dd = new caza.mosquito.downloadservice._downloaddata();
  //BA.debugLineNum = 381;BA.debugLine="dd.url = Main.serverPath & \"/connect2/add_orgs.ph";
-_dd.url /*String*/  = mostCurrent._main._serverpath /*String*/ +"/connect2/add_orgs.php?"+"OrgID="+mostCurrent._txtorgid.getText()+"&usuario="+mostCurrent._main._username /*String*/ ;
+_dd.url /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv2 /*String*/ +"/connect2/add_orgs.php?"+"OrgID="+mostCurrent._txtorgid.getText()+"&usuario="+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv7 /*String*/ ;
  //BA.debugLineNum = 383;BA.debugLine="dd.EventName = \"AddOrg\"";
 _dd.EventName /*String*/  = "AddOrg";
  //BA.debugLineNum = 384;BA.debugLine="dd.Target = Me";
 _dd.Target /*Object*/  = frmeditprofile.getObject();
  //BA.debugLineNum = 385;BA.debugLine="CallSubDelayed2(DownloadService, \"StartDownload\",";
-anywheresoftware.b4a.keywords.Common.CallSubDelayed2(processBA,(Object)(mostCurrent._downloadservice.getObject()),"StartDownload",(Object)(_dd));
+anywheresoftware.b4a.keywords.Common.CallSubDelayed2(processBA,(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv0.getObject()),"StartDownload",(Object)(_dd));
  //BA.debugLineNum = 387;BA.debugLine="End Sub";
 return "";
 }
-public static String  _cargargrupos() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5() throws Exception{
 caza.mosquito.downloadservice._downloaddata _dd = null;
  //BA.debugLineNum = 311;BA.debugLine="Sub CargarGrupos";
  //BA.debugLineNum = 312;BA.debugLine="listaOrgs.Initialize";
-mostCurrent._listaorgs.Initialize();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.Initialize();
  //BA.debugLineNum = 313;BA.debugLine="Dim dd As DownloadData";
 _dd = new caza.mosquito.downloadservice._downloaddata();
  //BA.debugLineNum = 314;BA.debugLine="dd.url = Main.serverPath & \"/connect2/retrieve_or";
-_dd.url /*String*/  = mostCurrent._main._serverpath /*String*/ +"/connect2/retrieve_orgs.php";
+_dd.url /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv2 /*String*/ +"/connect2/retrieve_orgs.php";
  //BA.debugLineNum = 315;BA.debugLine="dd.EventName = \"RetrieveOrgs\"";
 _dd.EventName /*String*/  = "RetrieveOrgs";
  //BA.debugLineNum = 316;BA.debugLine="dd.Target = Me";
 _dd.Target /*Object*/  = frmeditprofile.getObject();
  //BA.debugLineNum = 317;BA.debugLine="CallSubDelayed2(DownloadService, \"StartDownload\",";
-anywheresoftware.b4a.keywords.Common.CallSubDelayed2(processBA,(Object)(mostCurrent._downloadservice.getObject()),"StartDownload",(Object)(_dd));
+anywheresoftware.b4a.keywords.Common.CallSubDelayed2(processBA,(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv0.getObject()),"StartDownload",(Object)(_dd));
  //BA.debugLineNum = 319;BA.debugLine="End Sub";
 return "";
 }
-public static String  _edituser() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4() throws Exception{
 caza.mosquito.downloadservice._downloaddata _dd = null;
  //BA.debugLineNum = 191;BA.debugLine="Sub EditUser";
  //BA.debugLineNum = 193;BA.debugLine="If newOrg = False Then";
-if (_neworg==anywheresoftware.b4a.keywords.Common.False) { 
+if (_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2==anywheresoftware.b4a.keywords.Common.False) { 
  //BA.debugLineNum = 195;BA.debugLine="If spnPerfil.SelectedIndex = 0 Then";
 if (mostCurrent._spnperfil.getSelectedIndex()==0) { 
  //BA.debugLineNum = 197;BA.debugLine="Main.strUserGroup = \"\"";
-mostCurrent._main._strusergroup /*String*/  = "";
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/  = "";
  }else {
  //BA.debugLineNum = 199;BA.debugLine="Main.strUserGroup = spnOrganizaciones.SelectedI";
-mostCurrent._main._strusergroup /*String*/  = mostCurrent._spnorganizaciones.getSelectedItem();
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/  = mostCurrent._spnorganizaciones.getSelectedItem();
  };
  };
  //BA.debugLineNum = 204;BA.debugLine="Dim dd As DownloadData";
@@ -676,17 +676,17 @@ _dd = new caza.mosquito.downloadservice._downloaddata();
  //BA.debugLineNum = 205;BA.debugLine="If txtPassword.Text <> \"\" Then";
 if ((mostCurrent._txtpassword.getText()).equals("") == false) { 
  //BA.debugLineNum = 207;BA.debugLine="dd.url = Main.serverPath & \"/connect2/editUser.ph";
-_dd.url /*String*/  = mostCurrent._main._serverpath /*String*/ +"/connect2/editUser.php?Action=EditPass&"+"UserID="+mostCurrent._main._username /*String*/ +"&"+"Password="+mostCurrent._txtpassword.getText()+"&"+"FullName="+mostCurrent._txtfullname.getText()+"&"+"Location="+mostCurrent._txtlocation.getText()+"&"+"usergroup="+mostCurrent._main._strusergroup /*String*/ +"&"+"usertipo="+mostCurrent._spnperfil.getSelectedItem()+"&"+"deviceID="+mostCurrent._main._deviceid /*String*/ ;
+_dd.url /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv2 /*String*/ +"/connect2/editUser.php?Action=EditPass&"+"UserID="+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv7 /*String*/ +"&"+"Password="+mostCurrent._txtpassword.getText()+"&"+"FullName="+mostCurrent._txtfullname.getText()+"&"+"Location="+mostCurrent._txtlocation.getText()+"&"+"usergroup="+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/ +"&"+"usertipo="+mostCurrent._spnperfil.getSelectedItem()+"&"+"deviceID="+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv1 /*String*/ ;
  }else {
  //BA.debugLineNum = 217;BA.debugLine="dd.url = Main.serverPath & \"/connect2/editUser.p";
-_dd.url /*String*/  = mostCurrent._main._serverpath /*String*/ +"/connect2/editUser.php?Action=EditNoPass&"+"UserID="+mostCurrent._main._username /*String*/ +"&"+"FullName="+mostCurrent._txtfullname.getText()+"&"+"Location="+mostCurrent._txtlocation.getText()+"&"+"usergroup="+mostCurrent._main._strusergroup /*String*/ +"&"+"usertipo="+mostCurrent._spnperfil.getSelectedItem()+"&"+"deviceID="+mostCurrent._main._deviceid /*String*/ ;
+_dd.url /*String*/  = mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv2 /*String*/ +"/connect2/editUser.php?Action=EditNoPass&"+"UserID="+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv7 /*String*/ +"&"+"FullName="+mostCurrent._txtfullname.getText()+"&"+"Location="+mostCurrent._txtlocation.getText()+"&"+"usergroup="+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/ +"&"+"usertipo="+mostCurrent._spnperfil.getSelectedItem()+"&"+"deviceID="+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv1 /*String*/ ;
  };
  //BA.debugLineNum = 226;BA.debugLine="dd.EventName = \"EditUser\"";
 _dd.EventName /*String*/  = "EditUser";
  //BA.debugLineNum = 227;BA.debugLine="dd.Target = Me";
 _dd.Target /*Object*/  = frmeditprofile.getObject();
  //BA.debugLineNum = 228;BA.debugLine="CallSubDelayed2(DownloadService, \"StartDownload\",";
-anywheresoftware.b4a.keywords.Common.CallSubDelayed2(processBA,(Object)(mostCurrent._downloadservice.getObject()),"StartDownload",(Object)(_dd));
+anywheresoftware.b4a.keywords.Common.CallSubDelayed2(processBA,(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv0.getObject()),"StartDownload",(Object)(_dd));
  //BA.debugLineNum = 230;BA.debugLine="End Sub";
 return "";
 }
@@ -697,14 +697,14 @@ anywheresoftware.b4a.objects.collections.JSONParser _parser = null;
 anywheresoftware.b4a.objects.collections.Map _map1 = null;
  //BA.debugLineNum = 231;BA.debugLine="Sub EditUser_Complete(Job As HttpJob)";
  //BA.debugLineNum = 232;BA.debugLine="Log(\"EditUser user: \" & Job.Success)";
-anywheresoftware.b4a.keywords.Common.LogImpl("424379393","EditUser user: "+BA.ObjectToString(_job._success /*boolean*/ ),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("522544385","EditUser user: "+BA.ObjectToString(_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*boolean*/ ),0);
  //BA.debugLineNum = 233;BA.debugLine="If Job.Success = True Then";
-if (_job._success /*boolean*/ ==anywheresoftware.b4a.keywords.Common.True) { 
+if (_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*boolean*/ ==anywheresoftware.b4a.keywords.Common.True) { 
  //BA.debugLineNum = 235;BA.debugLine="Dim res As String, action As String";
 _res = "";
 _action = "";
  //BA.debugLineNum = 236;BA.debugLine="res = Job.GetString";
-_res = _job._getstring /*String*/ ();
+_res = _job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ();
  //BA.debugLineNum = 237;BA.debugLine="Dim parser As JSONParser";
 _parser = new anywheresoftware.b4a.objects.collections.JSONParser();
  //BA.debugLineNum = 238;BA.debugLine="parser.Initialize(res)";
@@ -714,54 +714,54 @@ _action = BA.ObjectToString(_parser.NextValue());
  //BA.debugLineNum = 240;BA.debugLine="If action = \"EditOK\" Then";
 if ((_action).equals("EditOK")) { 
  //BA.debugLineNum = 242;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 243;BA.debugLine="ToastMessageShow(\"Perfil editado\", False)";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("Perfil editado"),anywheresoftware.b4a.keywords.Common.False);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 245;BA.debugLine="ToastMessageShow(\"Profile edited\", False)";
 anywheresoftware.b4a.keywords.Common.ToastMessageShow(BA.ObjectToCharSequence("Profile edited"),anywheresoftware.b4a.keywords.Common.False);
  };
  //BA.debugLineNum = 248;BA.debugLine="Main.strUserFullName = txtFullName.Text";
-mostCurrent._main._struserfullname /*String*/  = mostCurrent._txtfullname.getText();
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv3 /*String*/  = mostCurrent._txtfullname.getText();
  //BA.debugLineNum = 249;BA.debugLine="Main.strUserLocation = txtLocation.Text";
-mostCurrent._main._struserlocation /*String*/  = mostCurrent._txtlocation.getText();
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv1 /*String*/  = mostCurrent._txtlocation.getText();
  //BA.debugLineNum = 250;BA.debugLine="Main.strUserTipoUsuario = spnPerfil.SelectedIte";
-mostCurrent._main._strusertipousuario /*String*/  = mostCurrent._spnperfil.getSelectedItem();
+mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv5 /*String*/  = mostCurrent._spnperfil.getSelectedItem();
  //BA.debugLineNum = 253;BA.debugLine="Dim Map1 As Map";
 _map1 = new anywheresoftware.b4a.objects.collections.Map();
  //BA.debugLineNum = 254;BA.debugLine="Map1.Initialize";
 _map1.Initialize();
  //BA.debugLineNum = 255;BA.debugLine="Map1.Put(\"username\", Main.username)";
-_map1.Put((Object)("username"),(Object)(mostCurrent._main._username /*String*/ ));
+_map1.Put((Object)("username"),(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv7 /*String*/ ));
  //BA.debugLineNum = 256;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"userconfig";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","lastuser",(Object)("si"),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","lastuser",(Object)("si"),_map1);
  //BA.debugLineNum = 257;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"userconfig";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userLocation",(Object)(mostCurrent._main._struserlocation /*String*/ ),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userLocation",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv1 /*String*/ ),_map1);
  //BA.debugLineNum = 258;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"userconfig";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userFullName",(Object)(mostCurrent._main._struserfullname /*String*/ ),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userFullName",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv3 /*String*/ ),_map1);
  //BA.debugLineNum = 259;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"userconfig";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userOrg",(Object)(mostCurrent._main._struserorg /*String*/ ),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userOrg",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv4 /*String*/ ),_map1);
  //BA.debugLineNum = 260;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"userconfig";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userGroup",(Object)(mostCurrent._main._strusergroup /*String*/ ),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","userGroup",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv6 /*String*/ ),_map1);
  //BA.debugLineNum = 261;BA.debugLine="DBUtils.UpdateRecord(Starter.sqlDB, \"userconfig";
-mostCurrent._dbutils._updaterecord /*String*/ (mostCurrent.activityBA,mostCurrent._starter._sqldb /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","UserTipoUsuario",(Object)(mostCurrent._main._strusertipousuario /*String*/ ),_map1);
+mostCurrent._vvvvvvvvvvvvvvvvvv7._vvvvv5 /*String*/ (mostCurrent.activityBA,mostCurrent._vvvvvvvvvvvvvvvvvv4._v0 /*anywheresoftware.b4a.sql.SQL*/ ,"userconfig","UserTipoUsuario",(Object)(mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvv5 /*String*/ ),_map1);
  //BA.debugLineNum = 267;BA.debugLine="Activity.RemoveAllViews";
 mostCurrent._activity.RemoveAllViews();
  //BA.debugLineNum = 268;BA.debugLine="Activity.Finish";
 mostCurrent._activity.Finish();
  }else {
  //BA.debugLineNum = 270;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 271;BA.debugLine="MsgboxAsync(\"El servidor no devolvió los valor";
-anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("El servidor no devolvió los valores esperados."+_job._errormessage /*String*/ ),BA.ObjectToCharSequence("Error"),processBA);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("El servidor no devolvió los valores esperados."+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ),BA.ObjectToCharSequence("Error"),processBA);
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 273;BA.debugLine="MsgboxAsync(\"Server error.\" & Job.ErrorMessage";
-anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Server error."+_job._errormessage /*String*/ ),BA.ObjectToCharSequence("Error"),processBA);
+anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Server error."+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ),BA.ObjectToCharSequence("Error"),processBA);
  };
  };
  };
  //BA.debugLineNum = 277;BA.debugLine="Job.Release";
-_job._release /*String*/ ();
+_job._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 278;BA.debugLine="ProgressDialogHide";
 anywheresoftware.b4a.keywords.Common.ProgressDialogHide();
  //BA.debugLineNum = 279;BA.debugLine="End Sub";
@@ -792,23 +792,23 @@ mostCurrent._lblorg = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 22;BA.debugLine="Private lblAgregarOrg As Label";
 mostCurrent._lblagregarorg = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 23;BA.debugLine="Dim newOrg As Boolean";
-_neworg = false;
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = false;
  //BA.debugLineNum = 26;BA.debugLine="Dim nombreOrg As String";
-mostCurrent._nombreorg = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = "";
  //BA.debugLineNum = 27;BA.debugLine="Dim idOrg As String";
-mostCurrent._idorg = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = "";
  //BA.debugLineNum = 28;BA.debugLine="Dim localidadOrg As String";
-mostCurrent._localidadorg = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = "";
  //BA.debugLineNum = 29;BA.debugLine="Dim provinciaOrg As String";
-mostCurrent._provinciaorg = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = "";
  //BA.debugLineNum = 30;BA.debugLine="Dim tipoOrg As String";
-mostCurrent._tipoorg = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = "";
  //BA.debugLineNum = 31;BA.debugLine="Dim adminOrg As String";
-mostCurrent._adminorg = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = "";
  //BA.debugLineNum = 32;BA.debugLine="Dim idOrgElegida As String";
-mostCurrent._idorgelegida = "";
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = "";
  //BA.debugLineNum = 33;BA.debugLine="Dim listaOrgs As Map";
-mostCurrent._listaorgs = new anywheresoftware.b4a.objects.collections.Map();
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 = new anywheresoftware.b4a.objects.collections.Map();
  //BA.debugLineNum = 38;BA.debugLine="Private lblFullName As Label";
 mostCurrent._lblfullname = new anywheresoftware.b4a.objects.LabelWrapper();
  //BA.debugLineNum = 39;BA.debugLine="Private lblLocation As Label";
@@ -855,7 +855,7 @@ return "";
 public static String  _lblleerlegales_click() throws Exception{
  //BA.debugLineNum = 440;BA.debugLine="Sub lblLeerLegales_Click";
  //BA.debugLineNum = 441;BA.debugLine="StartActivity(frmPoliticaDatos)";
-anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._frmpoliticadatos.getObject()));
+anywheresoftware.b4a.keywords.Common.StartActivity(processBA,(Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvv1.getObject()));
  //BA.debugLineNum = 442;BA.debugLine="End Sub";
 return "";
 }
@@ -894,14 +894,14 @@ int _i = 0;
 anywheresoftware.b4a.objects.collections.Map _newpunto = null;
  //BA.debugLineNum = 321;BA.debugLine="Sub RetrieveOrgs_Complete(Job As HttpJob)";
  //BA.debugLineNum = 322;BA.debugLine="Log(\"Cargagrupos: \" & Job.Success)";
-anywheresoftware.b4a.keywords.Common.LogImpl("424576001","Cargagrupos: "+BA.ObjectToString(_job._success /*boolean*/ ),0);
+anywheresoftware.b4a.keywords.Common.LogImpl("522740993","Cargagrupos: "+BA.ObjectToString(_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*boolean*/ ),0);
  //BA.debugLineNum = 323;BA.debugLine="If Job.Success = True Then";
-if (_job._success /*boolean*/ ==anywheresoftware.b4a.keywords.Common.True) { 
+if (_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 /*boolean*/ ==anywheresoftware.b4a.keywords.Common.True) { 
  //BA.debugLineNum = 324;BA.debugLine="Dim res As String, action As String";
 _res = "";
 _action = "";
  //BA.debugLineNum = 325;BA.debugLine="res = Job.GetString";
-_res = _job._getstring /*String*/ ();
+_res = _job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ();
  //BA.debugLineNum = 326;BA.debugLine="Dim parser As JSONParser";
 _parser = new anywheresoftware.b4a.objects.collections.JSONParser();
  //BA.debugLineNum = 327;BA.debugLine="parser.Initialize(res)";
@@ -925,21 +925,21 @@ _newpunto = new anywheresoftware.b4a.objects.collections.Map();
  //BA.debugLineNum = 335;BA.debugLine="newpunto = parser.NextObject";
 _newpunto = _parser.NextObject();
  //BA.debugLineNum = 336;BA.debugLine="idOrg = newpunto.Get(\"id\")";
-mostCurrent._idorg = BA.ObjectToString(_newpunto.Get((Object)("id")));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0 = BA.ObjectToString(_newpunto.Get((Object)("id")));
  //BA.debugLineNum = 337;BA.debugLine="nombreOrg = newpunto.Get(\"nombre\")";
-mostCurrent._nombreorg = BA.ObjectToString(_newpunto.Get((Object)("nombre")));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7 = BA.ObjectToString(_newpunto.Get((Object)("nombre")));
  //BA.debugLineNum = 338;BA.debugLine="localidadOrg = newpunto.Get(\"localidad\")";
-mostCurrent._localidadorg = BA.ObjectToString(_newpunto.Get((Object)("localidad")));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 = BA.ObjectToString(_newpunto.Get((Object)("localidad")));
  //BA.debugLineNum = 339;BA.debugLine="provinciaOrg = newpunto.Get(\"provincia\")";
-mostCurrent._provinciaorg = BA.ObjectToString(_newpunto.Get((Object)("provincia")));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv2 = BA.ObjectToString(_newpunto.Get((Object)("provincia")));
  //BA.debugLineNum = 340;BA.debugLine="tipoOrg = newpunto.Get(\"tipo\")";
-mostCurrent._tipoorg = BA.ObjectToString(_newpunto.Get((Object)("tipo")));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = BA.ObjectToString(_newpunto.Get((Object)("tipo")));
  //BA.debugLineNum = 341;BA.debugLine="adminOrg = newpunto.Get(\"admin\")";
-mostCurrent._adminorg = BA.ObjectToString(_newpunto.Get((Object)("admin")));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv4 = BA.ObjectToString(_newpunto.Get((Object)("admin")));
  //BA.debugLineNum = 342;BA.debugLine="spnOrganizaciones.Add(nombreOrg)";
-mostCurrent._spnorganizaciones.Add(mostCurrent._nombreorg);
+mostCurrent._spnorganizaciones.Add(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7);
  //BA.debugLineNum = 343;BA.debugLine="listaOrgs.Put(nombreOrg, idOrg)";
-mostCurrent._listaorgs.Put((Object)(mostCurrent._nombreorg),(Object)(mostCurrent._idorg));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.Put((Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv7),(Object)(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0));
  //BA.debugLineNum = 344;BA.debugLine="spnOrganizaciones.Enabled = True";
 mostCurrent._spnorganizaciones.setEnabled(anywheresoftware.b4a.keywords.Common.True);
  }
@@ -948,17 +948,17 @@ mostCurrent._spnorganizaciones.setEnabled(anywheresoftware.b4a.keywords.Common.T
 anywheresoftware.b4a.keywords.Common.ProgressDialogHide();
  }else {
  //BA.debugLineNum = 349;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 350;BA.debugLine="MsgboxAsync(\"El servidor no devolvió los valor";
-anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("El servidor no devolvió los valores esperados."+_job._errormessage /*String*/ ),BA.ObjectToCharSequence("Registro"),processBA);
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("El servidor no devolvió los valores esperados."+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ),BA.ObjectToCharSequence("Registro"),processBA);
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 352;BA.debugLine="MsgboxAsync(\"Server error.\" & Job.ErrorMessage";
-anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Server error."+_job._errormessage /*String*/ ),BA.ObjectToCharSequence("Error"),processBA);
+anywheresoftware.b4a.keywords.Common.MsgboxAsync(BA.ObjectToCharSequence("Server error."+_job._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6 /*String*/ ),BA.ObjectToCharSequence("Error"),processBA);
  };
  };
  };
  //BA.debugLineNum = 359;BA.debugLine="Job.Release";
-_job._release /*String*/ ();
+_job._vvvvvvvvvvvvvvvvvvvvvvvvv1 /*String*/ ();
  //BA.debugLineNum = 360;BA.debugLine="ProgressDialogHide";
 anywheresoftware.b4a.keywords.Common.ProgressDialogHide();
  //BA.debugLineNum = 361;BA.debugLine="End Sub";
@@ -967,7 +967,7 @@ return "";
 public static String  _spnorganizaciones_itemclick(int _position,Object _value) throws Exception{
  //BA.debugLineNum = 363;BA.debugLine="Sub spnOrganizaciones_ItemClick (Position As Int,";
  //BA.debugLineNum = 364;BA.debugLine="idOrgElegida = listaOrgs.Get(Value)";
-mostCurrent._idorgelegida = BA.ObjectToString(mostCurrent._listaorgs.Get(_value));
+mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3 = BA.ObjectToString(mostCurrent._vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv6.Get(_value));
  //BA.debugLineNum = 365;BA.debugLine="End Sub";
 return "";
 }
@@ -986,15 +986,15 @@ mostCurrent._spnorganizaciones.setVisible(anywheresoftware.b4a.keywords.Common.T
  //BA.debugLineNum = 296;BA.debugLine="spnOrganizaciones.Clear";
 mostCurrent._spnorganizaciones.Clear();
  //BA.debugLineNum = 297;BA.debugLine="If Main.lang = \"es\" Then";
-if ((mostCurrent._main._lang /*String*/ ).equals("es")) { 
+if ((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("es")) { 
  //BA.debugLineNum = 298;BA.debugLine="ProgressDialogShow(\"Buscando grupos...\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Buscando grupos..."));
- }else if((mostCurrent._main._lang /*String*/ ).equals("en")) { 
+ }else if((mostCurrent._vvvvvvvvvvvvvvvvvv2._vvvvvvvvvvvvvv5 /*String*/ ).equals("en")) { 
  //BA.debugLineNum = 300;BA.debugLine="ProgressDialogShow(\"Retrieving groups...\")";
 anywheresoftware.b4a.keywords.Common.ProgressDialogShow(mostCurrent.activityBA,BA.ObjectToCharSequence("Retrieving groups..."));
  };
  //BA.debugLineNum = 302;BA.debugLine="CargarGrupos";
-_cargargrupos();
+_vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv5();
  //BA.debugLineNum = 303;BA.debugLine="Return";
 if (true) return "";
  }else {
@@ -1010,7 +1010,7 @@ mostCurrent._spnorganizaciones.setVisible(anywheresoftware.b4a.keywords.Common.F
  //BA.debugLineNum = 310;BA.debugLine="End Sub";
 return "";
 }
-public static String  _translategui() throws Exception{
+public static String  _vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv3() throws Exception{
  //BA.debugLineNum = 101;BA.debugLine="Sub TranslateGUI";
  //BA.debugLineNum = 125;BA.debugLine="End Sub";
 return "";
